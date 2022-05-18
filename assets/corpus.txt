@@ -1,0 +1,5284 @@
+One.	Usa.
+One.	Uno.
+Two.	Duwa.
+Two.	Dos.
+Three.	Tulo.
+Three.	Tres.
+Four.	Upat.
+Four.	Kwatro.
+Five.	Lima.
+Five.	Singko.
+Six.	Unom.
+Six.	Sa-is.
+Seven.	Pito.
+Seven.	Syete.
+Eight.	Walo.
+Eight.	Utso.
+Nine.	Siyam.
+Nine.	Nuybi.
+Ten.	Napulo.
+Ten.	Dyes.
+Eleven.	Onsi.
+Twelve.	Dosi.
+Good.	Maupay.
+New.	Bag-o.
+Bad.	Malain.
+Document.	Dokumento.
+Word.	Pulong.
+Letter.	Letra.
+The.	An.
+It.	Iton.
+Who?	Sino?
+Hello!	Uy!
+I try.	Gin titistingan ko.
+Smile.	Ngisi.
+Smile.	Ngisi gad.
+Attack!	Sulong!
+He ran.	Dumalagan siya.
+Hug me.	Hangkopi ak.
+I fell.	Nahulog ak.
+I know.	Maaram ak.
+Really?	Balitaw?
+We won.	Nagdaog kami.
+Why me?	Naman ako?
+Sun.	Adlaw.
+I.	Ako.
+My/mine.	Akon.
+The.	An.
+Grandfather	.Apo.
+Take care.	Atamanon.
+Our.	Aton.
+Roof.	Atop.
+Song.	Santa.
+No.	Diri.
+Not.	Ayaw.
+House.	Balay.
+Holy.	Baraan.
+So that.	Basi.
+Stream.	Bingalog.
+Even if.	Bisan.
+Anywhere.	Bisan diin.
+Stars.	Bituon.
+Coldness.	Kapinit.
+Keep alive.	Buhion.
+Mountain.	Bukid.
+Separate.	Bulag.
+Worthy.	Bulahan.
+Moon.	Bulan.
+Full Moon.	Bulanon.
+Help.	Buligi.
+Medicine.	Bulong.
+Town.	Bungto.
+Spring.	Burabud.
+Arms.    Butkon.
+Sea.	Dagat.
+Image.	Dagway.
+Right Away.	Dayon.
+There.	Didto.
+Chest.	Dughan.
+Memory.	Hinumdom.
+Incessant.	Duroy.
+Night.	Gab-i.
+From.	Tikang.
+Told.	Ginsumatan.
+Boundary.	Giutan.
+Love.	Gugma.
+Loved.	Guinpaura.
+Wanted.	Guin-ungara.
+Breeze.	Harupoy.
+Bed.	Higdaan.
+Glory.	Himaya.
+Be surprised.	Hiusa.
+Smile.	Hiyum.
+Wait.    Hulat.
+Above.	Igbaw.
+Enduring.	Iguin-aantos.
+Cry.	Iguintatangis.
+You.	Ikaw.
+Your.	Imo.
+Dream.	Inup.
+That.	Iton.
+Her.	Siya.
+Him.	Siya.
+You.    Ka.
+Frustration.	Kabido.
+Evening.	Kagab-ihon.
+Beautiful.	Kahamili.
+Situation.	Kahimtang.
+Peaceful.	Kahimyang.
+Afternoon.	Kakurolpun.
+Piece.	Kalinaw.
+Happiness.	Kalipay.
+Sweet.	Kamatam-is.
+Death.	Kamatayon. 
+Die for.	Kamatyan.
+Sleepiness.	Kapiraw.
+Control.	Kapupugngi.
+Sorrow.	Kasakit.
+Eighboring.	Katakip.
+Sweet.	Katam-is.
+Set.	Katunod.
+For.	Kay.
+Because	Kay.
+We.	Kita.
+My.	Ko.
+Instead.	Kundi.
+Very.	Labi.
+Light.	Lamrag.
+Heaven.	Langit.
+Along.	Ligid.
+Tears.	Luha.
+Full of.	Lunlon.
+Pure.	Lus-ay.
+Take rest.	Magpahuway.
+Heal.	Mag tan al.
+Sleep.	Mahimlay.
+Once.	Makausa.
+Bitter.	Mapait. 
+Destroy.	Mapuypoy.
+Eyes.	Mata.
+Equal.	Matupong. 
+Lost.	Mawad-an.
+Here.	May.
+Mountains.	Bukid. 
+Loved.	Guinhigugma.
+Fair lady.	Mutya.
+Flow.	Naabid.
+Erode.	Naanas.
+Willful.	Naarig.
+Left.	Nahibilin.
+Look for.	Bilnga.
+Paddling.	Nagbubugsay.
+Praying.	Nag-inampo.
+Parted.	Nagbulag. 
+Separated.	Nagbulag.
+Cast spell.	Naglumay.
+Beloved.	Pinalangga.
+Riding.	Nagsakay-sakay.
+Perch.	Nahapon.
+Kiss.	Naharuk.
+Remember.	Nahinumdum.
+Dwell.	Naistar.
+Touch.	Nakablit.
+Awakens.	Nakakapukaw.
+Mine.	Akon.
+Only.	Nala.
+Realized.	Nasantup.
+Stay beside.	Natupad.
+That.	Nga.
+Your.	Nga imo.
+There.	Ngadto.
+Name.	Ngaran.
+All.	Ngatanan.
+Take care.	Niagak.
+To give.	Paghatag.
+Ever try.	Pagpasipara.
+Cut.	Pagpudla.
+Cut.	Paglulod.
+To call.	Pagsampit.
+Flow swiftly.	Pagsulog.
+Farewell.	Panamilit.
+Example.	Panglit.
+Get in.	Pasudla.
+Beloved.	Pinalangga.
+Chosen.	Pinili.
+Chosen.	Pirmi.
+Cheeks.	Bayhon.
+Take a rest.	Pamahuway.
+Blockage.	Punod.
+Abode-puruy.	An.
+In.	Sa.
+The.	An.
+Promise.	Saad. 
+Enough.	Sadang.
+Long ago.	Sadto/sadtun. 
+River.	Salog. 
+River.	San.
+So.	Sanglit.
+Proclaim.	Sangyaw. 
+Creek.	Sapa.
+East.	Sidlangan.
+Of.	Sin. 
+Lean.	Sinandig. 
+This.	Sin.
+That.	Sinandig.
+Like.	Sugad.
+Water current.	Sulhog.
+Peep.	Sumidlit. 
+Straight.	Tadong.
+Moment.	Takna.
+Moment.	Tigaman.
+From.	Tikang.
+True.	Tinoud. 
+Noble.	Tugahan.
+Message.	Tugon.
+Soil.	Tuna.
+Because.	Tungod.
+Fog.	Tun-og.
+Old tree.	Tuog. 
+Purpose.	Tuyo.
+And.	Ngan.
+Arrive.	Umabot.
+Accompanied.	Update.
+One.	Usa.
+None.	Waray.
+Nothing.	Waray.
+Now.	Yana.
+Here.	Aanhi. 
+Hey!	Adlaw!
+Sooty.	Agiwon.
+So that.	Agud. 
+Altar.	Altar. 
+What.	Anano.
+Hey.	Anay-anay.
+Right.	Angay. 
+Before.	Antis. 
+Hasty.	Apurado. 
+Smoke.	Aso.
+Front.	Atubangan.
+Quarrel.	Away.
+Mouth.	Baba.
+Woman.	Babaye.
+Dress.	Bado.
+Share.	Bahin.
+House.	Balay.
+So that.	Basi.
+Answer.	Baton.
+Find.	Bilngon.
+Window.	Bintana.
+Whoever.	Bisan-sino.
+Visitor.	Bisita.
+Whole.	Bug-os.
+Creation.	Buhat.
+To do.	Buhaton.
+Help.	Bulig.
+Return.	Bumalik.
+Between.	Butnga.
+Tomorrow.	Buwas.
+Big.	Dako.
+Quickly.	Dalidali.
+Like.	Daw sugad.
+Sudden.	Dayon.
+Bad.	Diri maupay.
+Two.	Duha.
+Statue.	Estatwa.
+Strangers.	Estranghero.
+Outside.	Gawas.
+Still.	Gihapon.
+Termite infested.	Gin-aangay.
+Walk.	Ginbaktasan. 
+Way down.	Ginbutang.
+Make.	Ginhimo.
+Lean.	Ginpasandig.
+Painted.	Ginpinturahan.
+Planned.	Ginplanuhan.
+Brought upstairs.	Ginsaka.
+Taken cared.	Gintitipigan. 
+Intentionally.	Gintutuyo. 
+Go outside.	Gumawas. 
+Post.	Harigi. 
+Far.	Hirayo.
+Face finished.	Hitsura.
+Tell.	Iginsaysay. 
+To say.	Igpupulong.
+Give.	Ihahatag.
+Seventh.	Ika-pito.
+This.	Ini.
+Inform.	Ipahibaro. 
+Wear.	Isul-ot.
+Beauty.	Kabaysay.
+Misfortune.	Kadimalasan.
+Selfishness.	Kahakog.
+Shocked.	Kahipausa. 
+Far.	Kahirayo.
+Log.	Kahoy.
+Call me.	Tawagi ak.
+Call us.	Tawagi kami.
+Call us.	Tawagi kami niko.
+Get out!	Gawas!
+Get out!	Gawas dida!
+Get out.	Iwas.
+Go home.	Uli na.
+Help me!	Buligi ak!
+Help us.	Buligi kami.
+Hug Tom.	Hangkopi si Tom
+I tried.	Gintistingan ko.
+Me, too.	Ako liwat.
+Show me.	Ipakita sa akon.
+Show me.	Hindaw.
+Show me.	Ipakita niyo sa akon.
+Take it.	Kuhaa.
+Take it.	Kuhaa niyo.
+Tom ran.	Dumalagan si Tom.
+Wait up.	Hulat.
+Wake up!	Pagmata!
+Wake up!	Pagmata na!
+Wake up!	Pagmata na kam!
+We lost.	Napirde kami.
+Who ate?	Sino an nagkaon?
+Who ran?	Sino an dumalagan?
+Why not?	Naman diri?
+You run.	Dumalagan ka.
+You won.	Nagdaog ka.
+Ask them.	Pakianhi sira.
+Be brave.	Atohi.
+Call Tom.	Tawagi si Tom.
+Call Tom.	Tawagi la si Tom.
+Find Tom.	Bilnga si Tom.
+Fix this.	Upaya adi.
+Fix this.	Upaya la adi.
+Good job!	Kadati!
+Grab him.	Rabnuta siya.
+Have fun.	Pagpakalipay kam.
+Have fun.	Paglipaylipay.
+Have fun.	Paglipay.
+Help Tom.	Buligi si Tom.
+Help him.	Buligi siya.
+How deep?	Nano kahalarom?
+I agreed.	Tumangdo ak.
+I stayed.	Ngadi la ak.
+I waited.	Naghulat ak.
+It helps.	Nakakabulig.
+It hurts.	Kasakit.
+Kiss Tom.	Haruki si Tom.
+Let's go!	Tara!
+Save Tom.	Isalbar si Tom.
+Sit down.	Lingkod.
+They won.	Nagdaog sira.
+Tom came.	Kumadi si Tom.
+Tom fell.	Nahulog si Tom.
+Tom left.	Umiwas si Tom.
+Tom left.	Wara na si Tom.
+Tom lied.	Nagbuwa si Tom.
+Tom lies.	Nagbibinuwa si Tom.
+Tom lost.	Napirde si Tom.
+Tom paid.	Nagbayad si Tom.
+Tom swam.	Lumangoy si Tom.
+Too late.	Urhi ka na.
+Use this.	Gamita iton.
+Use this.	Gamita mo iton.
+Use this.	Gamita niyo iton.
+Watch me.	Hilnga ak.
+Watch me.	Kitaa ak.
+Watch me.	Hilnga ak niyo.
+What for?	Para diin?
+Who fell?	Sino an nahulog?
+Who swam?	Sino an lumangoy?
+Birds fly.	Lumupad an mga tamsi.
+Bless you.	Pagpalain ka.
+Calm down.	Kalma.
+Calm down.	Kalma la.
+Catch Tom.	Dakpa si Tom.
+Catch him.	Dakpa siya.
+Come back.	Balik.
+Come back.	Balik kam.
+Excuse me.	Alayon man.
+Follow me.	Sundi ak.
+Follow me.	Sunod sa akon.
+Follow us.	Sundi kami.
+Follow us.	Sunod sa amon.
+Follow us.	Sunday kami.
+Go inside.	Sulod.
+Humor Tom.	Patawa si Tom.
+I am sure.	Sigurado ak.
+I laughed.	Tumawa ak.
+I like it.	Karuyag ko.
+I noticed.	Napansin ko.
+Ignore it.	Ayaw pansina.
+Is it hot?	Mapaso ba?
+It burned.	Nasunog.
+It failed.	Palpak.
+It worked.	Gumana.
+It's cold.	Mapinit.
+It's cold.	Kapinit.
+Jump down.	Layog paubos.
+Let's try!	Tistingan naton!
+She cried.	Tumangis siya.
+She tried.	Gintistingan niya.
+Start now.	Tikangi yana.
+Stay here.	Didi kala.
+Stop that.	Puroko.
+They fell.	Nahulog sira.
+They left.	Umiwas sira.
+They lied.	Nagbuwa sira.
+Tom cried.	Tumangis si Tom.
+Tom drove.	Nagdrayb si Tom.
+Tom knows.	Maaram si Tom.
+Tom spoke.	Nagyakan si Tom.
+Tom stood.	Tumindog si Tom.
+Tom tried.	Gintistingan ni Tom.
+Tom voted.	Bumotos si Tom.
+Tom walks.	Lumakat si Tom.
+Tom waved.	Kumaway si Tom.
+Trust Tom.	Tapod kan Tom.
+Try again.	Tistingi utro.
+Wait here.	Paghulat didi.
+Watch Tom.	Kitaa si Tom.
+Watch Tom.	Hilnga si Tom.
+We agreed.	Tumangdo kit.
+We forgot.	Nahingalimot kit.
+We talked.	Naghampang kami.
+We waited.	Naghulat kami.
+What's up?	May nano?
+Who cares?	Wara ak labot?
+Who is he?	Sino siya?
+Who knows?	Sino an maaram?
+Who stood?	Sino an tumindog?
+Write Tom.	Isurat Tom.
+You start.	Ikaw pagtikang.
+You tried.	Gintistingan mo.
+You tried.	Tumisting ka.
+Answer Tom.	Batona si Tom.
+Ask around.	Pangiana.
+Birds sing.	Nakanta an mag tamsi.
+Bring food.	Pagdara ng pagkaon.
+Bring food.	Pagdara ikaw pagkaon.
+Bring food.	Pagdara kam pagkaon.
+Bring help.	Pagdara ng bulig.
+Bring help.	Pagdara kam bulig.
+Bring wine.	Pagdara tuba.
+Bring wine.	Pagdara tuba.
+Bring wine.	Pagdara tuba.
+Carry this.	Buhata adi.
+Carry this.	Dada adi.
+Carry this.	Buhata add niyo.
+Eat slowly.	Hinay la pag kaon.
+Follow Tom.	Sundi si Tom.
+Follow him.	Sundi siya.
+Forget Tom.	Kalimti si Tom.
+Forgive us.	Pasayloa kami.
+Forgive us.	Pasayloa kami niyo.
+He coughed.	Umubo siya.
+He's lying.	Nagbibinuwa siya.
+He's smart.	Baltok siya.
+I am sorry.	Pasayloa ak.
+I got sick.	Nagkasakit ak.
+I like you.	Naruyag ak sa imo.
+I like you.	Karuyag ko ikaw.
+I love Tom.	Ginhigugma ko si Tom.
+I need you.	Kinahanglan ko ikaw.
+I saw that.	Nakita ko adto.
+I screamed.	Pumarak ak.
+I want you.	Karuyag ko ikaw.
+I'm honest.	Matatapuran ak.
+I'm sleepy.	Tikaturog ak.
+Ignore Tom.	Ayaw pansina si Tom.
+It happens.	Nahihinabo iton.
+It's early.	Timprano pa.
+It's magic.	Mahika iton.
+It's windy.	Mahangin.
+Scoot over.	Isdog.
+She smiled.	Ngumisi siya.
+Smell this.	Amuya adi.
+Stand back.	Atras.
+Start here.	Pagtikang didi.
+Stay alert.	Abtik.
+Stay awake.	Pag mata la.
+Step aside.	Isdog.
+Step aside.	Isdog la.
+That works.	Nagana iton.
+They voted.	Bumotos sira.
+This works.	Nagana ini.
+Tom agreed.	Tumangdo si Tom.
+Tom agrees.	Natangdo si Tom.
+Tom burped.	Tumogab si Tom.
+Tom called.	Tumawag si Tom.
+Tom cheats.	Nanlilimbong si Tom.
+Tom danced.	Sumayaw si Tom.
+Tom drinks.	Umiinom si Tom.
+Tom drives.	Nagdradrayb si Tom.
+Tom jumped.	Lumayog si Tom.
+Tom looked.	Tumutok si Tom.
+Tom obeyed.	Sumunod si Tom.
+Tom prayed.	Nangadi si Tom.
+Tom sighed.	Huminga san hilarom si Tom.
+Tom smiled.	Ngumisi si Tom.
+Tom snores.	Nahagong si Tom.
+Tom talked.	Nagyakan si Tom.
+Tom waited.	Naghulat si Tom.
+Tom walked.	Lumakat si Tom.
+Tom winked.	Kumindat si Tom.
+Tom worked.	Nagtrabaho si Tom.
+Watch this.	Hilnga adi.
+Who is she?	Sino siya?
+Who talked?	Sino an nagyiyinakan?
+Who yelled?	Sino an pumarak?
+Wood burns.	Nasusunog an kahoy.
+You called?	Tumawag ka?
+Are you mad?	Nalalangot ka?
+Be yourself.	Pagpaka ikaw.
+Come closer.	Harani.
+Come closer.	Harani kam.
+Come closer.	Harani pa.
+Come inside.	Sulod.
+Come inside.	Sulod.
+Come inside.	Sulod kam.
+Do it again!	Utroha!
+Don't shout.	Ayaw pagparak.
+Finish this.	Tapusa adi.
+Get serious.	Pagseryoso.
+Get serious.	Seryosoha na.
+He can swim.	Nakakalangoy siya.
+He is lying.	Nagbibinuwa siya.
+I am French.	Pranses ak.
+I am Korean.	Koreano ak.
+I am taller.	Mas hataas ak.
+I feel cold.	Namiminit ak.
+I like dogs.	Naruyag ak san mga ayam.
+I loved Tom.	Ginhigugma ko si Tom.
+I'm too fat.	Matambok ak uraura.
+It can't be!	Diri puydi!
+It happened.	Nahihinabo.
+It saved me.	Iton an nag salbar sa akon.
+Let's drink.	Inom kit.
+No one came.	Waray nanganhi.
+Nobody came.	Waray may kumadi.
+Nobody came.	Waray kumadi.
+Nobody came.	Waray umabot.
+Nobody died.	Waray namatay.
+OK. I agree.	Ayos. Tangdo ak.
+Release Tom.	Buhii si Tom.
+Release him.	Patakasa siya.
+Stay inside.	Puroko sa sulod.
+Take a rest.	Pahuwayi.
+That helped.	Nakabulig iton.
+That worked.	Gumana iton.
+That's life.	Mao iton an kinabuhi.
+They burned.	Nasunog sira.
+They called.	Tumawag sira.
+They danced.	Nanayaw sira.
+They danced.	Nanayaw sira.
+They danced.	Sumayaw sira.
+They hugged.	Naghangkopay sira.
+Think again.	Pinsara uteri.
+This is new.	Bago ine.
+Tom blinked.	Pumiyong si Tom.
+Tom changed.	Nagbago si Tom.
+Tom cheated.	Nanlimbong si Tom.
+Tom clapped.	Pumalakpak si Tom.
+Tom coughed.	Umubo si Tom.
+Tom drowned.	Nalunod si Tom.
+Tom escaped.	Nakatakas si Tom.
+Tom fainted.	Nahimatay si Tom.
+Tom frowned.	Masurobon si Tom.
+Tom laughed.	Tumawa si Tom.
+Tom listens.	Namamati si Tom.
+Tom noticed.	Napansin ni Tom.
+Tom paid me.	Ginbaydan ak ni Tom.
+Tom shouted.	Pumarak si Tom.
+Tom slipped.	Nabalindas si Tom.
+Tom sneezed.	Humatching si Tom.
+Tom sweated.	Ginbalhas si Tom.
+Tom teaches.	Nagtutudto si Tom.
+Tom tripped.	Natundog si Tom.
+Walk slowly.	Hinay la paglakat.
+Walk slowly.	Hinayhinay paglakat.
+We remember.	Nahinumdom kami.
+Who cheated?	Sin an nanlimbong?
+Who escaped?	Sino an nakatakas?
+Who escaped?	Sino an naka iskip?
+You cheated.	Nanlimbong ka.
+You fainted.	Nahimatay ka.
+Are you lost?	Nawawara ka ba?
+Are you okay?	Ayos ka la?
+Are you okay?	Ayos ka la ba?
+Can you swim?	Kaya mo lumangoy?
+Come forward.	Abante.
+Come forward.	Sulong.
+Come forward.	Sulong kam.
+Come quickly!	Pakadi!
+Come quickly!	Pakadi laksi!
+Do you agree?	Tangdo ka?
+Drive slowly.	Hinay pagdrayb.
+Have a drink.	Inom anay.
+He is asleep.	Nakaturog siya.
+He is cranky.	Maldita siya.
+How arrogant!	Ka hambog!
+How arrogant!	Ka arogante!
+I am married.	Ginkasal ak.
+I am working.	Nagtatrabaho ak.
+I don't care.	Wara ak labot.
+I drink milk.	Nainom ak gatas.
+I feel funny.	Kaiba san akon pamati.
+I hugged Tom.	Ginhangkopan ko si Tom.
+I kissed Tom.	Ginharokan ko si Tom.
+I play piano.	Maaram ak magpiano.
+I understand.	Naabat ak.
+I understood.	Naabat ak.
+I won't lose!	Di ak mapapirde!
+I've seen it.	Nakita ko na.
+Is that okay?	Ayos la iton?
+It's bedtime.	Oras na pangaturog.
+It's too big.	Kadako uraura.
+Kiss me, Tom.	Haroki ak, Tom.
+Thirteen.	Trese.
+Fourteen.	Katorsi.
+Fifteen.	Kinse.
+Sixteen.	Desi sa-is.
+Seventeen.	Desi syete.
+Eighteen.	Desi utso.
+Nineteen.	Desi nuybi.
+Twenty.	Baynte.
+Thirty.	Traynta.
+Forty.	Kwarenta.
+Fifty.	Singkwenta.
+Sixty.	Saysenta.
+Seventy.	Sitenta.
+Eighty.	Utsenta.
+Ninety.	Nubenta.
+Hundred.	Shin.
+Thousand.	Mil.
+One hundred.	Shin.
+Hi!	Uy!
+Hello!	Uy!
+Go.	Lakat.
+Go.	Pakadto na.
+Go.	Pakadto na.
+Go.	Pakadto na.
+Run!	Dalagan!
+Run.	Dalagan.
+Who?	Sino?
+Fire!	Tira!
+Fire!	Kalayo!
+Fire!	Kalayo!
+Help!	Bulig!
+Help!	Bulig! 
+Help!	Bulig!
+Jump!	Layog!
+Jump.	Layog.
+Stop!	Undang!
+Stop!	Undang!
+Stop!	Undang!
+Wait!	Hulat!
+Wait.	Hulat.
+Go on.	Padayon.
+Go on.	Padayon.
+Hello!	Hello.
+I ran.	Dumalagan ak.
+I ran.	Dumalagan ak.
+I tried.	Gin tistingan ko.
+I won!	Nagdaog ak!
+Oh no!	Oh, no!
+Relax.	Relax.
+Smile.	Ngisi.
+Attack!	Atake!
+Attack!	Atake!
+Get up.	Bakdaw.
+Go now.	Kadto na.
+Got it!	Nakuha ko!
+Got it?	Nakuha mo?
+Got it?	Kuha mo?
+He ran.	Dumalagan siya.
+Hop in.	Sakay.
+Hug me.	Hangkopi ak.
+I fell.	Nahulog ak.
+I know.	Maaram ak.
+I left.	Umiwas ak.
+I lied.	Nagbuwa ak.
+I lost.	Nawara ak.
+I quit.	Maundang ak.
+I quit.	Umundang ak.
+I'm coming.	Tikada na ak.
+I am coming.	Tikada na ak.
+I am going.	Makadto ak.
+I am going home.	Mauli ak.
+I work.	Nagtatrabaho ak.
+Good morning!	Maupay nga aga!
+Good morning	Maupay nga aga
+Good afternoon!	Maupay nga kulop!
+Good afternoon	Maupay nga kulop
+Good evening!	Maupay nga gab-e!
+Good evening.	Maupay nga gab-e
+I'm 19.	19 na ak.
+My name is Tom.	Tom akon ngaran.
+Where?	Hain?
+What?	Nano?
+Who?	Sino?
+When?	San-o?
+How?	Pa-anano?
+Me.	Ako.
+Mine.	Akon.
+You.	Ikaw.
+Your.	Imo.
+Listen.	Pamati.
+Listen.	Pamati.
+Listen.	Pamati.
+Really?	Balitaw?
+Really?	Balit?
+Thanks!	Salamat!
+Thanks.	Salamat.
+Try it.	Tistinge.
+We try.	Gintistingan namon.
+We won.	Nagdaog kami.
+Why me?	Kaynaman ako?
+Ask Tom.	Pakianhi si Tom.
+Awesome!	Astig!
+Be calm.	Kalma la.
+Be cool.	Kalma la.
+Be fair.	Maging Patas.
+Be kind.	Maging buotan.
+Be nice.	Maging buotan.
+Call me.	Tawagi ak.
+Call me.	Tawagi ak.
+Call me.	Tawag sa akon.
+Call us.	Tawagi kami.
+Come in.	Sulod.
+Come in.	Sulod.
+Come in.	Sulod!
+Come on!	Balitaw gad!
+Come on.	Dali na.
+Come on.	Dali na!
+Drop it!	Ibutang!
+Get Tom.	Kuhaa si tom.
+Get out!	Gawas!
+Get out.	Gawas.
+Get out.	Iwas.
+Get out.	Layas.
+Get out.	Gawas.
+Get out.	Gawas.
+Go away!	Iwas!
+Go away!	Larga!
+Go away!	Iwas didi!
+Go away!	Ayaw didi!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida.
+Go away.	Iwas dida.
+Go home.	Uli na.
+Go slow.	Hinay la.
+Hang on!	Ilob la!
+Hang on!	Kapot la!
+Hang on!	Ilob la!
+Hang on.	Iloba.
+He came.	Kumadi siya.
+He quit.	Umundang siya.
+Help me!	Buligi ak!
+Help me.	Buligi ak.
+Help me.	Buligi ak.
+Help me.	Buligi ak.
+Help us.	Buligi kami.
+Hit Tom.	Balbaga si Tom.
+Hold it!	Kapti!
+Hold on.	Anay.
+Hold on.	Hulat.
+Hold on.	Anay.
+Hug Tom.	Hangkopi si tom.
+I agree.	Natugot ak.
+I agree.	Tama ka.
+I bowed.	Yumuko ak.
+I moved.	Bumalhin ak.
+I moved.	Kumiwa ak.
+I moved.	Bumalhin ak.
+I moved.	Bumalhin ak.
+I slept.	Nahingaturog ak.
+I tried.	Gin tistingan ko.
+I'll go.	Makadto ak.
+I'm Tom.	Ako si tom.
+I'm fat.	Matambok ak.
+I'm fat.	Matambok ak.
+I'm hit!	Naigo ak.
+I'm old.	Lagas na ak.
+I'm shy.	Naawud ak.
+I'm wet.	Hulos ak.
+It's OK.	Okay la.
+It's me!	Ako ini!
+It's me.	Ako ini.
+Join us.	Ungay sa amon.
+Join us.	Upon sa Amon.
+Keep it.	Itago iton.
+Me, too.	Ako, liwat.
+Open up.	Abrihi.
+Perfect!	Perpekto!
+See you.	Sunod nana.
+Show me.	Hindaw.
+Show me.	Pakit-a ak.
+Show me.	Pakit-a ak.
+Shut up!	Puroko!
+Shut up!	Diha!
+Skip it.	Laktawi iton.
+So long.	Kahalaba.
+So long.	Ka halaba.
+Stop it.	Undangi la.
+Stop it.	Undang la.
+Take it.	Karawta.
+Tell me.	Iyakan sa akon.
+Tom ate.	Kumaon si tom.
+Tom ran.	Dumalagan si tom.
+Tom won.	Nagdaog si tom.
+Wait up.	Hulat.
+Wake up!	Mata na!
+Wake up!	Mata na!
+Wake up!	Mata na!
+Wake up.	Mata na.
+Wash up.	Paghugas.
+We care.	May labot kami.
+We know.	Maaram kami.
+We lost.	Napirdi kami.
+Welcome.	Dayon.
+Welcome.	Dayon kam.
+Who ate?	Sino an kumaon?
+Who ran?	Sino an dumalagan?
+Who ran?	Sino an dumalagan?
+Who won?	Sino an nagdaog?
+Who won?	Sino an dumaog?
+Why not?	Naman diri?
+You run.	Dumalagan ka.
+You won.	Nagdaog ka.
+Am I fat?	Matambok ak?
+Ask them.	Pakianhi sira.
+Ask them.	Pakiana sa ira.
+Back off!	Atras!
+Back off	Atras.
+Be a man.	Pagpaka lalaki.
+Be brave.	Paging maisog.
+Be quiet.	Ayaw aringasa.
+Be still.	Ayaw kiwa.
+Call Tom.	Tawagi si tom!
+Call Tom.	Tawagi si tom!
+Call Tom.	Tawagi si tom!
+Cool off!	Undang!
+Don't go.	Ayaw pag-iwas.
+Drive on.	Padayon.
+Find Tom.	Bilnga si tom.
+Find Tom.	Pamilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Fix this.	Upaya adi.
+Get away!	Iwas!
+Get away!	Iwas!
+Get away!	Iwas!
+Get away!	Iwas!
+Get down!	Yuko!
+Get down.	Ubos.
+Get down.	Yuko.
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Ayaw didi!
+Get lost.	Layas.
+Get real!	Pag paka ungod!
+Get real!	Ayaw pag paka plastik!
+Get real.	Pag paka ungod.
+Go ahead!	Padayon!
+Go ahead.	Padayon.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sul
+Grab Tom.	Kapti si tom.
+Grab him.	Kapti siya.
+Have fun.	Pag enjoy.
+Have fun.	Pag paka lipay.
+Have fun.	Pag lipay-lipay.
+He spoke.	Nagyakan siya.
+He tries.	Nag tisting siya.
+He tries.	Nag tisting siya.
+Help Tom.	Buligi si Tom.
+Help him.	Buligi siya.
+How cute!	Ka cute!
+Mother.	Iroy.
+Father.	Amay.
+How deep?	Nano kalarom?
+How deep?	Nano kalarom?
+Humor me.	Pataw'a ak.
+Humor me.	Pataw'a ak.
+Hurry up.	Dalia!
+Hurry up.	Dalia.
+I am busy.	Busy ak.
+I am full.	Busog ak.
+I am full.	Busog ak.
+I am good.	Dati ak.
+I am here.	Adi ak.
+I am happy.	Malipayon ak.
+I'm happy.	Malipayon ak.
+I am sick.	May sakit ak.
+I am weak.	Maluya ak.
+I beg you.	Nag makalouy ak sa imo.
+I beg you.	Nag makalouy ak sa imo.
+I can fly.	Maka lupad ak.
+I can run.	Makadalagan ak.
+I can ski.	Sé esquiar.
+I cringed.	Nangyamiid ak.
+I fainted.	Nahimatay ak.
+I fainted.	Nahimatay ak.
+I gave up.	Suko naak.
+I gave up.	Suko naak.
+I gave up.	Suko naak.
+I gave up.	Suko naak.
+I get you.	Naintindihan ko ikaw.
+I get you.	Naintindihan ko ikaw.
+I get you.	Naintindihan ko ikaw.
+I got hit.	Nabangga ak.
+I got hit.	Nabangga ak.
+I hate it.	Kinamumuhian ko iton.
+I hate it.	Kinamumuhian ko iton.
+I hate it.	Kinamumuhian ko iton.
+I hit Tom.	Nabangga ko si Tom.
+I hope so.	Kunta.
+I knew it.	Yakan pa lagi.
+I laughed.	Nahingatawa ak.
+I like it.	Karuyag ko ini.
+I love it!	Karuyag ko iton!
+I love it.	Karuyag ko iton.
+I mean it!	Seryoso ak.
+I mean it.	Seryoso ak.
+I mean it.	Seryoso ak.
+I miss it.	Ginmingaw ak.
+I miss it.	Ginmingaw ak.
+I miss it.	Ginmingaw ak.
+I need it.	Kinahanglan ko ini.
+I saw Tom.	Nakit-an ko si Tom.
+I saw him.	Nakit-an ko siya.
+I saw him.	Nakit-an ko siya.
+I saw one.	Nakit-an ko an usa.
+I saw one.	Nakit-an ko an usa.
+I saw one.	Nakit-an ko an usa.
+I saw you.	Nakita ko ikaw.
+I saw you.	Nakita ko ikaw.
+I see Tom.	Makita ko si Tom.
+I tripped.	Natapilok ak.
+I'll cook.	Magluto ak.
+I'll cook.	Magluto ak.
+I'll live.	Mabubuhi ak.
+I'll sing.	Makanta ak.
+I'll stop.	Maundang ak.
+I'll stop.	Maundang ak.
+I'll wait.	Mahulat ak.
+I'll wait.	Mahulat ak.
+I'll walk.	Malakat ak.
+I'll walk.	Malakat ak.
+I'll work.	Matrabaho ak.
+I'm a man.	Lalaki ak.
+I'm a pro.	Pro ak.
+I'm alone.	Naguusahan laak.
+I'm alone.	Naguusahan laak.
+I'm alone.	Naguusahan laak.
+I'm alone.	Naguusahan laak.
+I'm angry.	Langot ak.
+I'm angry.	Langot ak.
+I'm awake.	Mata ak.
+I'm blind.	Buta ak.
+I'm broke.	Bagtik ak.
+I'm broke.	Bagtik ak.
+I'm broke.	Bagtik ak.
+I'm broke.	Bagtik ak.
+I'm crazy.	Boang ak.
+I'm drunk.	Hubog ak.
+I'm drunk.	Hubog ak.
+I'm drunk.	Hubog ak.
+I'm dying.	Tikamatay ak.
+I'm first.	Una ak.
+I'm first.	Una ak.
+I'm first.	Una ak.
+I'm first.	Una ak.
+I'm happy.	Nalipay ak.
+I'm happy.	Nalipay ak.
+I'm loved.	Ginmahal ak.
+I'm loved.	Ginmahal ak.
+I'm ready.	Handa naak.
+I am sad.	Masurob-on ak.
+I'm sorry.	Pasaylua ak.
+I'm tired.	Kapagal.
+I'm tired.	Kapagal.
+I'm yours.	Imo laak.
+I'm yours.	Imo laak.
+I'm yours.	Imo laak.
+I've lost.	Nawara ak.
+Ignore it.	Pabay-i iton.
+Ignore it.	Pabay-i iton.
+Is Tom OK?	Ok la si Tom?
+Is Tom in?	Upo si Tom?
+Is it bad?	Malain gud?
+Is it bad?	Malain gud?
+Is it far?	Harayo gud?
+Is it you?	Ikaw iton?
+It burned.	Nasunog iton.
+It failed.	Palpak iton.
+It failed.	Palpak iton.
+It failed.	Palpak iton.
+It is new.	Bag-o ini.
+It rained.	Nag uran.
+It snowed.	Nag uran yellow.
+It stinks.	Maangso.
+It worked.	Gumana iton.
+It's 3:10.	3:10 na.
+It's 8:30.	8:30 na.
+It's a TV.	TV ini.
+It's cold.	Kapinit.
+It's cold.	Kapinit.
+It's cool.	Kapinit.
+It's cool.	Kapinit.
+It's dark.	Masirom.
+It's done!	Tapos na!
+It's fine.	Ok lang .
+It's good.	Maupay.
+It's good.	Maupay.
+It's here.	Adi na.
+It's hers.	Siya iton.
+It's late.	Urhi na.
+It's mine.	Ako iton.
+It's mine.	Ako iton.
+It's nice.	Kaupay.
+It's nice.	Kaupay.
+It's okay.	Okay la.
+It's okay.	Okay la.
+It's ours.	Aton iton.
+It's ours.	Aton iton.
+It's over.	Tapos na.
+It's over.	Tapos na.
+It's time.	Oras na.
+It's time.	Oras na
+It's time.	Oras na.
+It's time.	Oras na.
+It's true!	Ungod!
+It's true.	Ungod.
+It's work.	Gumana.
+Keep them.	Hiposa iton.
+Keep them.	Hiposa iton.
+Keep them.	Hiposa iton.
+Keep this.	Hiposa ini.
+Keep this.	Hiposa ini.
+Keep this.	Hiposa ini.
+Keep this.	Hiposa ini.
+Keep this.	Hiposa ini.
+Leave Tom.	Biyae si Tom.
+Leave Tom.	Biyae si Tom.
+Leave Tom.	Biyae si Tom.
+Leave now.	Iwas yana.
+Leave now.	Iwas yana.
+Leave now.	Iwas yana.
+Let me go!	Buhia ak!
+Let me go!	Buhia ak!
+Let me go!	Buhia ak!
+Let me go.	Buhia ak!
+Let me in.	Pasudla ak.
+Let me in.	Pasudla ak.
+Let us in.	Pasudla kami.
+Let's eat.	Mangaon kita.
+Let's see.	Pakita.
+Let's try!	Patistinga!
+Lie still.	Naka higda pa ghap.
+Lie still.	Naka higda pa ghap.
+Listen up.	Pamati.
+Look away.	Kitaa sa harayo.
+Look away.	Kitaa sa harayo.
+Look away.	Kitaa sa harayo.
+Look away.	Kitaa sa harayo.
+Look back!	Kitaa sa likod!
+Look back.	Kitaa sa likods.
+Look back.	Kitaa sa likod.
+Look back.	Kitaa sa likod.
+Look here.	Kitaa didi.
+Look here.	Kitaa didi.
+Look here.	Kitaa didi.
+Loosen it.	Pahalugaa iton.
+Loosen it.	Pahalugaa iton.
+Loosen it.	Pahalugaa iton.
+Nice shot!	Maupay na shot!
+Of course!	Alangan!
+Open fire!	Abrihi an kalayo!
+Open fire!	Abrihi an kalayo!
+Pardon me?	Pakiutro la?
+Please go.	Alayun, Pakadto na.
+Please go.	Alayun, Pakadto na.
+Please go.	Alayun, Pakadto na.
+Please go.	Alayun, Pakadto na.
+Put it on.	Sul-ota iton.
+Put it on.	Sul-ota iton.
+Read this.	Basaha ini.
+Read this.	Basaha ini.
+Read this.	Basaha ini.
+Read this.	Basaha ini.
+Say hello.	Pangumusta.
+Search me.	Pangitaa ak.
+See above.	Kitaa sa bawbaw.
+See above.	Kitaa sa bawbaw.
+Seize him!	Sakupa siya!
+Seize him!	Sakupa siya!
+Seize him!	Sakupa siya!
+Seize him!	Sakupa siya!
+Seize him!	Capturadlo!
+Seriously?	Pagtuhay?
+She tried.	Iya gintistingan.
+She tried.	Iya gintistingan.
+She walks.	Naglakat siya.
+She walks.	Naglakat siya.
+She walks.	Naglakat siya.
+She's hot.	Kapaso niya.
+She's hot.	Kapaso niya.
+She's hot.	Kapaso niya.
+She's hot.	Kapaso niya.
+She's hot.	Kapaso niya.
+Sign here.	Pirma didi.
+Sign this.	Pirmaha ini.
+Sign this.	Pirmaha ini.
+Sign this.	Pirmaha ini.
+Sign this.	Pirmaha ini.
+Sign this.	Pirmaha ini.
+Sit still.	Ingkod pa.
+Sit still.	Ingkod pa.
+Sit there.	Ingkod didi.
+Sit tight.	Masuot na ingkod.
+Slow down.	Paghinay-hinay.
+Slow down.	Paghinay-hinay.
+Stay away.	Harayo.
+Stay away.	Harayo.
+Stay calm.	Kalma la.
+Stay calm.	Kalma la.
+Stay here.	Didi kala.
+Step back.	Atras.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop here.	Undang didi.
+Stop that.	Undangi iton.
+Stop them.	Ipaundang iton sila.
+Stop them.	Ipaundang iton sila.
+Take care!	Paghinay!
+Take care!	Paghinay!
+Take care.	Paghinay.
+Take care.	Paghinay.
+Take mine.	Kuhaa an akon.
+Take mine.	Kuhaa an akon.
+Take over.	Kabalyo.
+Take over.	Kabalyo.
+Take over.	Kabalyo.
+Take this.	Kuhaa ini.
+Take this.	Kuhaa ini.
+Take this.	Kuhaa ini.
+Take this.	Kuhaa ini.
+Thank you.	Salamat!
+Thank you.	Salamat.
+Thank you.	Salamat.
+That's it.	Asya na iton.
+That's me.	Ako iton.
+That's me.	Ako iton.
+Then what?	Tapos nanu?
+They fell.	Nahulog sira.
+They left.	Umiwas sira.
+They left.	Umiwas sira.
+They left.	Umiwas sira.
+They lost.	Nawara sira.
+She is aggressive.	Agresibo siya.
+She is her friend.	Iya iton sangkay.
+She is his friend.	Iya iton sangkay.
+She is not up yet.	Diri pa siya mata.
+She is thirty-one.	31 na siya.
+She isn't married.	Diri siya kasal.
+Make a prediction.	Tigha.
+Mary has big eyes.	Dako an mata ni mary.
+Mary has big eyes.	Dako an mata ni mary.
+Mary is beautiful.	Mahusay si mary.
+Mary is my mother.	Si mary akon mama.
+Mary is so pretty.	Kahusay ni mary!
+May I go home now?	Pwede na ba ak umuli yana?
+May I go with him?	Pwede ba ak umupod saiya?
+May I put it here?	Pwede ko ibutang didi?
+May I take a rest?	Pwede ba ak magpahuway?
+May I talk to Tom?	Pwede ko ba hampangon si tom?
+May I talk to you?	Pwede ko ba ikaw hampangon?
+May I try this on?	Pwede ko ba ini tistingan?
+Maybe Tom is dead.	Bangin patay na si tom.
+Maybe it's a trap.	Bangin trap la ini.
+Maybe we can talk.	Siguro pwede kit maghampang.
+Mind your manners.	Upaya imo batasan.
+Monday's not good.	Diri maupay akon lunes.
+My arms are tired.	Mabutlaw akon kamot.
+My arms went numb.	Namanhid akon kamot.
+My bag was stolen.	Ginkawat akon bag.
+My dogs are white.	Puti akon ayam.
+My eyes are itchy.	Makatol akon mata.
+My eyes are tired.	Butlaw na akon mata.
+My father is busy.	Busy akon papa.
+My father is home.	Nakauli na ako papa.
+My father is rich.	Mayaman akon papa.
+My father is tall.	Hataas akon papa.
+My glass is empty.	Wara sulod akon baso.
+My hands are tied.	Nakahigot akon kamot.
+My heart's aching.	Masakit akon kasing-kasing.
+My heart's aching.	Masakit akon puso.
+My hobby is music.	Kanta akon hilig.
+My horse is black.	Akon kabayo kay itom.
+My horse is white.	Akon kabayo kay busag.
+My house is empty.	Wara sulod akon balay.
+My house is small.	Gutiay la akon balay.
+My life is boring.	Kahubya sakon kinabuhi.
+My name isn't Tom.	Diri tom akon pangaran.
+My shoes are gone.	Nawara akon sapatos.
+My shoulder hurts.	Masakit akon abaga.
+My stomach's full.	Puno na akon tiyan.
+My stomach's full.	Puno na akon tiyan.
+My uncle is angry.	Nangisog akon uncle.
+My uncle is angry.	Nangisog akon uncle.
+My wife was there.	Adto akon asawa.
+My wife was there.	Adto akon asawa.
+No one lives here.	Wara nakaistar didi.
+No one lives here.	Wara nakaistar didi.
+No, I didn't help.	Wara, wara ak bumulig.
+Nobody helped her.	Wara bumulig saiya.
+Nobody helped her.	Wara bumulig saiya.
+Nobody is perfect.	Wara perpekto na tawo.
+Nobody knows this.	Wara nakahibaro sini.
+Nobody likes rats.	Wara tawo na mahilig sa yatot.
+Nobody likes rats.	Wara tawo na mahilig sa yatot.
+Nobody lives here.	Wara naistar didi.
+Nobody lives here.	Wara naistar didi.
+Nobody volunteers.	Wara bisan usa nag boluntaryo.
+Nobody went there.	Wara bisan usa kumadto.
+Nobody's laughing.	Wara nahihingatawa.
+Nobody's seen Tom.	Wara bisan usa kumita kan tom.
+Nothing had moved.	Wara nagkiwa.
+Yes, I know it.	Oo, Maaram ak.
+Yes, of course.	Oo gad.
+Yes, of course.	Oo gad.
+Yes, of course.	Oo gad.
+Yes, we can go.	Oo, Makakadto kit.
+You are morons.	Tanga kam.
+You are stupid.	Bolok ka.
+You are stupid.	Bolok ka.
+Nothing was wrong.	Wara mali.
+Nothing was wrong.	Wara mali.
+Nothing will help.	Wara mabulig.
+Nothing's working.	Wara nagtatrabaho.
+Now I feel guilty.	Yana baga ak sin may sala.
+Now it's up to me.	Adi na sakon an desisyon.
+Now it's up to me.	Adi na sakon an desisyon.
+Now pay attention.	Pagpakita atensyon.
+Now we're talking.	Yana naghahampang na kit.
+Now what do we do?	Nano na aton himuon yana?
+Once more, please.	Usa pa, alayon.
+Our money ran out.	Naubosan na kit kwarta.
+Pay what you want.	Bayari imo karuyag.
+Please be patient.	Paging pasensosyo alayon.
+Please be patient.	Halabai imo pasensya.
+Please be patient.	Paging pasensosyo alayon.
+Please call again.	Tawag utro.
+Please come again.	Balik utro.
+Please come again.	Balik utro.
+Please don't stop.	Ayaw pag undang alayon.
+Please don't talk.	Ayaw pagyakan akayon.
+Please explain it.	Ig ipaintindi sakon.
+Please explain it.	Ig yakan sakon.
+Please explain it.	Ig explain sakon?
+Please forgive me.	Pasayloa ak.
+Please forgive me.	Pasayloa ak.
+Please forgive me.	Pasayloa ak.
+Please let me pay.	Ako na pabaydi.
+Please reconsider.	Pinsara utro.
+Please turn it on.	Alayon, paki abri.
+Please wait a bit.	Hulata ak kadali la.
+Please wrap it up.	Alayon, pagputos.
+Pretend you're me.	Pag panggap na ikaw ako.
+Prices are rising.	Nagtataas an mga presyo.
+Put it on my desk.	Pakibutang sa akon lamesa.
+Put it over there.	Pabutang didto.
+Put on your shoes.	Sul-ota imo sapatos.
+Put out the light.	Paronga an ilaw.
+Put out the light.	Parunga an ilaw.
+Put your gun down.	Iubos imo pusil.
+Put your gun down.	Iubos imo pusil.
+Put your hands up!	Itaas imo kamot!
+Quit bothering me.	Ayaw na ak pag sinamoka.
+Quit your whining.	Undangi imo pag rineklamo.
+Read it once more.	Basaha utro ka usa.
+Say it in English.	Iyakan sa ingles.
+Say it in English.	Iyakan sa ingles.
+Say what you want.	Iyakan imo karuyag iyakan.
+See you in Boston.	Kita nala kit sa boston.
+See you next week!	Kita nala kit sunod semana!
+See you next week.	Kita nala kit sunod semana.
+See you next week.	Kita nala kit sunod semana.
+See you on Monday.	Kita nala kit sa lunes.
+Send it to me now.	Ipasa na sakon yana.
+Send it to me now.	Ipasa na sakon yana.
+She ate one apple.	Kumaon siya usa ka mansanas.
+She began to sing.	Nagtikang siya pagkanta.
+She began to sing.	Nagtikang siya pagkanta.
+She can jump high.	Nakakalayog siya sin taas.
+She can't do that.	Diri iton niya mahimo.
+She cooks for him.	Nagluluto siya oara saiya.
+She decided to go.	Nag desisyon siya na maiwas.
+She did come here.	Kumadi gud siya.
+She didn't answer.	Wara siya bumaton.
+She didn't answer.	Wara siya bumaton.
+She didn't go far.	Wara siya nagharayo.
+She died of shock.	Namatay siya na nakuratan.
+She drives me mad.	Nalalangot ak saiya.
+She fascinated me.	Nabighani ak saiya.
+She got him drunk.	Ginhubog niya siya.
+She has a bicycle.	Mayda siya bisikleta.
+She has a bicycle.	Mayda siya bisikleta.
+She has a picture.	Mayda siya picture.
+She has blue eyes.	Blue iya mata.
+She has long hair.	Halaba iya buhok.
+She has long hair.	Halaba iya buhok.
+She has long hair.	Halaba iya buhok.
+She has long hair.	Halaba iya buhok.
+She has nice legs.	Maupay iya paa.
+She hates carrots.	Nadiri siya sa carrots.
+She hates running.	Nadiri siya pagdalagan.
+She heard him cry.	Nabatian nya siya na nagtangis.
+She isn't running.	Wara siya dumalagan.
+She keeps secrets.	Nagtatago siya sikreto.
+She left the room.	Umiwas siya sa kwarto.
+She likes oranges.	Naruyag siya sa orange.
+She looked lonely.	Baga siyan diri malipayon.
+She looks unhappy.	Bagan diri siya nalilipay.
+She made him rich.	Ginpa yaman niya siya.
+She made me hurry.	Ginpadali ak niya.
+She made me hurry.	Ginpadali ak niya.
+She made me smile.	Ginpatawa ak niya.
+She married young.	Bata pa siya san ginkasal.
+She may be French.	Bangin french siya.
+She must be angry.	Bangin nalalangot siya.
+She must be angry.	Bangin nalalangot siya.
+She must go there.	Kelangan niya kumadto.
+She must go there.	Kelangan niya kumadto.
+She saw him smile.	Nakita niya na nagtawa siya.
+She saw him smile.	Nakita niya na nagtawa siya.
+She smiled at him.	Nagtawag siya saiya.
+She smiled at him.	Nagtawag siya saiya.
+She speaks loudly.	Nagyayakan siya na makusog.
+Will you do it?	Himuon mo ini?
+Will you do it?	Himuon mo ini?
+Wipe your nose.	Trapuhi imo erong.
+Women hate Tom.	Nadiri an mga babaye kan Tom.
+Women like Tom.	Naruyag an mga babaye kan Tom.
+Women loved it.	Naruyag an mga babaye.
+Women loved it.	Naruyag an mga babaye.
+Women loved it.	Naruyag an mga babaye.
+Women loved it.	Naruyag an mga babaye.
+You can't swim.	Diri ka maaram lumangoy.
+You can't walk.	Diri ka kalakaw.
+You changed it?	Gin iba mo?
+You didn't pay.	Wara ka nag bayad.
+You disgust me.	Langot ak sa imo.
+You have to go.	Kinahanglan mo na kumadto.
+You ignored me.	Gin balewala mo ak.
+You ignored me.	Gin balewala mo ak.
+You lied to me.	Gin buwaan mo ak.
+You lied to us.	Gin buwaan mo kame.
+You look awful.	Ka dugyot mo.
+You look awful.	Ka dugyot mo.
+You look bored.	Bagan wara ka gana. 
+You look great.	Kaupay mo kitaon.
+You look happy.	Bagan malipayon ka.
+You look happy.	Bagan malipayon ka.
+You look happy.	Bagan malipayon ka.
+You look tired.	Bagan pagal kana. 
+You look tired.	Bagan pagal kana.
+You look tired.	Bagan pagal kana.
+You look tired.	Bagan pagal kana.
+You look upset.	Bagan dismayado ka.
+You may go now.	Puyde kana mukadto.
+You may refuse.	Puyde ka mubalibad.
+You must do it.	Dapat himuon mo.
+You must leave.	Dapat maka iwas ka.
+You need a job.	Kinahanglan mo trabaho.
+You need a key.	Kinahanglan mo yabe.
+You need money.	Kinahanglan mo kwarta.
+You owe me one.	May utang ka sa akon.
+You seem happy.	Bagan malipayon ka.
+You smell good.	Kahamot mo.
+You stay there.	Pag puyo dida. 
+You stay there.	Pag puyo dida. 
+You were brave.	Kaisog mo.
+You were happy.	Malipayon ka.
+You were happy.	Malipayon ka.
+You were lucky.	Swerte ka.
+You were lucky.	Swerte ka.
+You were right.	Tama ka.
+You'll be fine.	Maupay ka.
+You're a fraud.	Manloloko ka.
+You're a freak.	Lipong ka. 
+You're a loser.	Perdido ka.
+You're a prude.	Bastos ka.
+You're a thief.	Kawatan ka.
+You're a woman.	Babaye ka.
+You're amazing.	Kaupay mo. 
+You're amusing.	Makaratawa ka. 
+You're finicky.	Ka selan mo.
+You're helpful.	Mabulignon ka.
+You're in love.	Na inlab ka.
+You're in luck.	Swerte ka.
+You're in luck.	Swerte ka.
+You're invited.	Imbetado ka.
+You're kidding!	Tiniaw ka la!
+You're like me.	Bagan pareho kit.
+You're like me.	Bagan pareho kit.
+You're like me.	Bagan pareho kit.
+You're my hero.	Ikaw akon bayani. 
+You're my hero.	Ikaw akon bayani. 
+You're my type.	Ikaw akon tipo.
+You're not God.	Diri ikaw an Ginoo.
+You're not fat.	Diri ka matambok. 
+You're not old.	Diri ka tigurang
+You're on time.	Sakto ka la sa oras. 
+You're patient.	pasyente ka.
+You're patient.	Pasyente ka.
+You're shallow.	Ka babaw mo.
+You're sloshed.	Nalipong kana.
+You're sloshed.	Nalipong kana.
+You're so thin.	Ka gasa mo.
+You're useless.	Wara ka pulos.
+You're useless.	Wara ka pulos.
+You're useless.	Wara ka pulos..
+You're useless.	Wara ka pulos.
+You're useless.	Wara ka pulos.
+You're useless.	Wara ka pulos.
+You're useless.	Wara ka pulos.
+You're winning.	Daog kana.
+You're winning.	Daog kana.
+You're wounded.	Nasamaran ka. 
+You've changed.	Nag iba kana.
+You've done it!	Nahimo mo na!
+You've done it!	Nahimo mo na!
+Yours is worse.	Mas malala an imo.
+Yours is worse.	Mas malala an imo.
+A boat capsized.	Tumaob an sakayan.
+A fish can swim.	Kalangoy an isda.
+A man must work.	Dapat an lalake mag trabaho. 
+About what time?	Nano na oras?
+All are present.	Ada an tanan.
+All were silent.	Namingaw an tanan.
+Am I alone here?	Nag urusahan ba ak didi?
+Am I boring you?	Boring ba ak?
+Anybody in here?	May tawo ba didi?
+Anybody will do.	Himuon bisan nano.
+Are these yours?	Imo ini?
+Are those yours?	Imo adto?
+Are those yours?	Imo adto?
+Are those yours?	Imo adto?
+Are we finished?	Tapos na ba kit?
+Are you Chinese?	Chinese ka?
+Are you a ghost?	Multo ka ba?
+Are you a ghost?	Multo ka ba?
+Are you at home?	Ada ka sa balay?
+Are you at home?	Ada ka sa balay?
+Are you correct?	Tama ka ba?
+Are you excited?	Excited ka na? 
+Are you guys OK?	Okay la kam?
+Are you guys OK?	Okay la kam?
+Are you healthy?	Malusog ka ba?
+Are you healthy?	Malusog ka ba?
+Are you kidding?	Nag titiaw ka ba? 
+Are you kidding?	Nag titiaw ka ba?
+Are you kidding?	Nag titiaw ka ba?
+Are you kidding?	Nag titiaw ka ba?
+Are you looking?	Namimiling?
+Are you looking?	Namimiling?
+Are you married?	Kasal ka na? 
+Are you married?	Kasal ka na?
+Are you married?	Kasal ka na?
+Are you serious?	Seryoso ka?
+Are you sisters?	Mag bugto kam?
+Are you winning?	Daog ka ba?
+Are you working?	Nag trabaho ka ba? 
+Aren't you cold?	Wara ka gin hagkot?
+Ask Tom instead.	Pangiana nala kan Tom. 
+Ask again later.	Pangiana na la utro niyan. 
+Ask me anything.	Pag pakiana sa akon bisan nano.
+Ask me tomorrow.	Pakianhi ak buwas.
+Balls are round.	Ligdong an mga bola.
+Be very careful.	Pag hinay.
+Be very careful.	Pag hinay.
+Boil some water.	Pag pakaladkad tubig.
+Boston is great.	Maupay an Boston.
+Boys are stupid.	Bobo an mga lalake.
+Bring him to me.	Dad a siya sa akon.
+Bring it closer.	Ig harani.
+Bring me my hat.	Dad a sa akon an akon kalo.
+Bring that here.	Dad a iton didi.
+Call me anytime.	Tawagi ak bisan nano na oras.
+Call my husband.	Tawagi akon bana!
+Call my husband.	Tawagi akon bana!
+Call the police!	Tawag an pulis!
+Call the police!	Tawag an pulis!
+Call the police!	Tawag an pulis!
+Call the police!	Tawag an pulis!
+Call the police.	Tawag an pulis.
+Can I borrow it?	Puyde ak mag huram?
+Can I borrow it?	Puyde ak mag huram?
+Can I get a dog?	Puyde ak mangaro ayam?
+Can I have some?	Puyde ak mangaro bisan pira?
+Can I have some?	Puyde ak mangaro bisan pira?
+Can I keep this?	Puyde akon nala ini?
+Can I leave now?	Puyde ba ak umiwas yana?
+Can I leave now?	Puyde ba ak umiwas yana?
+Can I pay later?	Puyde nyan nala ak mabayad?
+Can I try it on?	Puyde testingan?
+Can I work here?	Puyde ak mag trabaho didi?
+Can Tom help us?	Puyde kame buligan ni Tom?
+Can they see me?	Puyde ak nira makita?
+Can they see us?	Makikita ba kit nira?
+Can we prove it?	Mapatunayan ba naton?
+Can we talk now?	Puyde kit mag istoryahay yana?
+Can you breathe?	Kaya ba nimo muhinga?
+Can you find it?	Mabilngan mo ba ini?
+Can you hear me?	Nabatian ak nimo?
+Can you hear us?	Nabatian kame nimo?
+Can you hear us?	Nabatian kame nimo?
+Can you help me?	Puyde mo ba ak buligan?
+Can you help me?	Puyde mo ba ak buligan?
+Can you help me?	Puyde mo ba ak buligan?
+Can you open it?	Puyde paabri?
+Can you open it?	Puyde paabri?
+Can you see Tom?	Nakita mo ba si Tom?
+Can you see Tom?	Nakita mo ba si Tom?
+Can you show me?	Puyde mo ba ipakita sa amon?
+Can you shut up?	Puyde ayaw pag aringasa?
+Can you whistle?	Puyde ka ba mag taghoy?
+Cats catch mice.	Naka dakop an misay  yatot.
+Cats like boxes.	Mahilig an misay sa kahon.
+Clean your room.	Limpyahi an iyo kwarto.
+Close that door.	sarad e an purtahan.
+Close that door.	Sarad e an purtahan.
+I am.	Ako si.
+I agreed.	Natugot ak.
+I agreed.	Natugot ak.
+I agreed.	Natugot ak.
+I am fat.	Tambok ak.
+I am old.	Lagas ak.
+I ate it.	Ginkaon ko.
+I ate it.	Ginkaon ko.
+I can go.	Makakadto ak.
+I did OK.	Ok akon nahimo.
+I did it.	Nahimo ko.
+I forgot.	Nahingalimot ak.
+I get by.	Umagi ak.
+I get it.	Nakuha ko.
+I got it.	Nakuha ko.
+I phoned.	Tumawag ak.
+I refuse.	Warak tumugot.
+I resign.	Nag resign ak.
+I resign.	Nag resign ak.
+I saw it.	Nakitan ko.
+I smiled.	Nag ngisi ak.
+I stayed.	Nagpabilin ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I use it.	Gingamit ko iton.
+I waited.	Naghulat ak.
+I'll pay.	Ako magbayad.
+I'm back.	Bumalik ak.
+I'm back.	Adi na ak.
+I'm bald.	Kalbo ak.
+I'm bald.	Pugak ak.
+I'm calm.	Kalmado ak.
+I'm cool.	Astig ak.
+I'm done.	Tapos na ak.
+I'm easy.	Masayon la ak.
+I'm fair.	Patas ak.
+I'm fine.	Okay la ak.
+I'm free!	Malaya na ak!
+I'm free.	Malaya na ak.
+I'm full.	Busog na ak.
+I'm full.	Busog na ak.
+I'm full.	Busog na ak.
+I'm here.	Adi na ak.
+I'm home.	Naka uli na ak.
+I'm hurt.	Nasakitan ak.
+I'm late.	Urhi na ak.
+I'm lazy.	Hubya ak.
+I'm lost.	Nawawara ak.
+I'm mean.	Maldita ak.
+I'm next.	Sunod na ak.
+I'm okay.	Okay la ak.
+I'm poor.	Pobre ak.
+I'm rich.	Mayaman ak.
+I'm rich.	Mayaman ak.
+I'm safe.	Na salbar ak.
+I'm sick.	May sakit ak.
+I'm thin.	Gasa ak.
+I'm tidy.	Malipmya ak.
+I'm warm.	Mapaso ak.
+I'm weak.	Maluya ak.
+I'm wise.	Wa-is ak.
+I've won.	Nagdaog ak.
+It helps.	Nakabulig iton.
+It hurts.	Masakit iton.
+It works.	Nagana iton.
+It's Tom.	Si Tom iton.
+It's fun.	Maupay siya.
+It's his.	Iya iton.
+It's new.	Bago iton.
+It's odd.	Kaiba siton.
+It's old.	Da-an na iton.
+It's red.	Pula iton.
+Keep out!	Ayaw didi!
+Keep out.	Ayaw didi.
+Kiss Tom.	Haroki si tom.
+Kiss Tom.	Laplapa si tom.
+Kiss Tom.	Tulipa si tom.
+Leave it.	Baya-e iton.
+Leave me.	Baya-e ak.
+Leave us.	Baya-e kami.
+Let's go!	Dali na.
+Let's go!	Dali na!
+Look out!	Pagkita!
+Marry me.	Pakasli ak.
+May I go?	Pwede ak kumadto?
+Save Tom.	Isalbar si Tom.
+She came.	Kumadi siya.
+She died.	Namatay siya.
+She runs.	Dumalagan siya.
+Sit down!	Lingkod!
+Sit down.	Lingkod.
+Sit here.	Lingkod didi.
+Speak up!	Pagyakan!
+Speak up!	Pagyakan.
+Speak up!	Pagyakan!
+Stand up!	Bakdaw!
+Stand up!	Bakdaw!
+Stop Tom.	Pugngi si tom.
+Take Tom.	Kuwaa si tom.
+Tell Tom.	Iyakan kan tom.
+Terrific!	Kagrabe!
+Terrific!	Kagrabe!
+They won.	Nagdaog sira.
+Tom came.	Kumadi si Tom.
+Tom died.	Namatay si Tom.
+Tom fell.	Nahulog si Tom.
+Tom knew.	Maaram si Tom.
+Tom knew.	Maaram si Tom.
+Tom left.	Umiwas si Tom.
+Tom lied.	Nagbuwa si Tom.
+Tom lies.	Nagbuwa si Tom.
+Tom lost.	Nawara si Tom.
+Tom paid.	Nagbayad si Tom.
+Tom quit.	Umundang si Tom.
+Tom swam.	Lumangoy si Tom.
+Tom wept.	Nagtangis si Tom.
+Too late.	Urhi na.
+Trust me.	Tapod sa akon.
+Try hard.	Paningkamot san ti-upay.
+Try some.	Tistingi.
+Try some.	Tistingi.
+Try some.	Tistingi.
+Try this.	Tistingi adi.
+Try this.	Tistingi adi.
+Try this.	Tistingi ini.
+Use this.	Gamita ini.
+Warn Tom.	Sugara si Tom.
+Warn Tom.	Sugara si Tom.
+Warn Tom.	Yakni si Tom.
+Warn Tom.	Alertohi si Tom.
+Watch me.	Kitaa ak.
+Watch me.	Hilnga ak.
+Watch me.	Kit-a ak.
+Watch us.	Kitaa kami.
+Watch us.	Kit-a kami.
+We agree.	Natugot kami.
+We tried.	Gin tistingan namon.
+We'll go.	Makadto na kami.
+We're OK.	Ok la kami.
+What for?	Para sa?
+What fun!	Karisyo!
+When will you go	San-o ka makadto?
+Who am I?	Sino ak?
+Who came?	Sino an kumari?
+Who died?	Sino an namatay?
+Who fell?	Sino an nahulog?
+Who fell?	Sino an nahulog?
+Who quit?	Sino an umundang?
+Who quit?	Sino an umundang?
+Who swam?	Sino an lumangoy?
+Who's he?	Sino siya?
+Write me.	Isurat ak.
+After you.	Pagkatapos nimo.
+After you.	Ikaw anay.
+After you.	Kahuman mo.
+After you.	Katima nimo.
+After you.	Pagkatapos nimo.
+Aim. Fire!	Sayti. Suriti!
+Answer me.	Batona ak.
+Keep dancing.	Sayaw la.
+Keep digging.	Ukad la.
+Keep driving.	Drayb la.
+Keep looking.	Bilnga la.
+Keep reading.	Basaha la.
+Keep reading.	Pag base la.
+Keep running.	Dalagan la.
+Keep running.	Padayon an pagdalagan.
+Keep running.	Dalagan.
+Keep running.	Padayon an pagdalagan.
+Keep singing.	Kanta la.
+Keep smiling.	Ngisi la.
+Keep smiling.	Padayon paghiyum.
+Keep smiling.	Padayon paghiyum.
+Keep smiling.	Padayon paghiyum.
+Keep talking.	Padayon pagyakan.
+Keep talking.	Padayon pagyakan.
+Keep talking.	Padayon pagyakan.
+Keep walking.	Padayon paglakat.
+Keep writing.	Padayon pagsurat.
+How are you?	Kumusta ka?
+Let Tom come.	Pakadia si Tom.
+Let Tom stay.	Igbilin si Tom.
+Let go of it.	Buhi-i iton.
+Let go of me!	Buhi-i ak!
+Let go of me.	Buhi-i ak.
+Let me do it.	Ako na himo.
+Let me leave!	Pagawsa ak!
+Let me leave!	Paiwasa ak!
+Let me speak.	Payakana ak.
+Let me think.	Papinsara ak.
+Let's go eat.	Mangaon kit.
+Let's go eat.	Kaon kit.
+Let's go out.	Gawas kit.
+Let's listen.	Mamati kit.
+Let's not go.	Ayaw kit pag kadto.
+Life goes on.	Padayon ang kinabuhi.
+Life is hard.	Makuri an kinabuhi.
+Life's short.	Hamubo an kinabuhi.
+Look at that!	Kitaa adto!
+Look at that!	Kitaa adto!
+Look at that.	Kitaa adto.
+Look at that.	Kitaa adto.
+Look at this.	kitaa adi.
+Look at this.	Kitaa adi.
+Look closely.	Kitaa sin maupay.
+Look closely.	Kitaa sa harani.
+Look closely.	Kitaa sa harani.
+Make a guess.	Hulaa.
+Make it stop.	Paundanga.
+Mary came in.	Sumulod si Mary.
+Mary giggled.	Nagkinatawa si Mary.
+Mary is tall.	Hataas si Mary.
+Meat, please.	Alayun sa karne.
+Move on, Tom.	Padayon,Tom.
+Move on, Tom.	Padayon, Tom.
+Move quietly.	Pagkiwa nga dirmaaringasa.
+My arm hurts.	Kasakit san akon bukton.
+My ears hurt.	Kasakit san akon talinga.
+My feet hurt.	Kasakit san akon tiil.
+My hip hurts.	kasakit san akon hawak.
+My jaw hurts.	Kasakit san akon panga.
+My leg hurts.	Kasakit san akon paa.
+No one knows.	Wara nakahibaro.
+No one moved.	Wara magkiwa.
+No one moved.	Wara magkiwa.
+Nobody asked.	Wara may nagpakiana.
+Nobody knows.	Wara nakahibro.
+Now I get it.	Yana maaram naak.
+Now I get it.	yana maaram naak.
+Now leave us.	Yana umiwas kana sa amon.
+Now sit down.	Ingkod yana.
+Now try this.	Tistingi ini.
+Oh, I got it.	Oh, naabat naak.
+Oh, I got it.	Oh, naabat naak.
+Open the box.	Abrihi an box.
+Open the box.	Abrihi an box.
+Our team won.	Nag daog an amon team.
+Please hurry!	Alayun, pag-apura!
+Please leave.	Alayun, pag-iwas.
+Please relax.	Alayun pag kalma.
+Please smile.	Alayun pagngirit.
+Please smile.	Alayun pagngirit.
+Point it out.	Itudlo ini.
+Pull it open.	Abrihi ini.
+Pull it open.	Abrihi ini.
+Put it there.	Igbutang dida.
+Put it there.	Igbutang dida.
+Put it there.	Igbutang dida.
+Put it there.	Igbutang dida.
+Recess ended.	Tapos na an recess.
+Recess ended.	Tapos na an recess.
+Run and hide.	Dalagan ngansan tago
+Say it again.	Iyakan utro
+School's out.	Wara klase
+School's out.	Wara klase
+See you at 7.	kirigta kit sa 7
+See you soon!	Magkirigta kit puhon!
+See you soon!	Magkirigta kit puhon!
+See you soon!	Magkirigta kit puhon.
+See you then.	Kirigta kit niyan.
+Shame on you!	Makaarawod ka!
+Shame on you!	Makaarawod ka!
+She has wine.	Mayda siya wine.
+She has wine.	Mayda siya wine.
+She helps us.	Buligi kami.
+She is happy.	Malipayon siya.
+She is quiet.	Diri siya Maaringasa.
+She is quiet.	Diri siya maaringasa.
+She is quiet.	Diri siya maaringasa.
+She is wrong.	Mali siya.
+She liked it.	Naruyag siya.
+She loves us.	Naruyag siya.
+She may come.	Bangin Umolpot siya.
+She shot him.	Ginpusil siya.
+She stood up.	Bumakdaw siya.
+She sued him.	Gin demanda niya siya.
+She went out.	Lumuwas siya.
+She's pretty.	Mahusay siya.
+She's stupid.	Tanga siya.
+She's stupid.	Tanga siya.
+Show me that.	Ipakita iton sa akon.
+Sing with us.	Upod sa amon pag kanta.
+Someone came.	Mayda umolpot.
+Someone came.	Mayda umolpot.
+Speak louder.	Pagyakan sin makusog.
+Speak softly.	Pagyakan sin mahinay.
+Stay at home.	Puroko sa balay.
+Stay focused.	Pirmi nakatutok.
+Stay focused.	Pirmi nakatutok.
+Stay focused.	Pirmi nakatutok.
+Stay focused.	Pirmi nakatutok.
+Stay with me.	Didi kala sa akon.
+Stay with us.	Didi kala sa amon.
+Stay with us.	Didi kala sa amon.
+War.	Girha.
+Step forward.	Abanti .
+Stop arguing.	Undang pagaragway.
+Stop arguing.	Undang pagaragway.
+Stop gawking.	Undang pagkinatawa.
+Stop pushing.	Undang pagduso.
+Stop reading.	Undang pagbasa.
+Stop reading.	Undang pagbasa.
+Stop singing.	Undang pagkanta.
+Stop smoking.	Ayaw pag sinigarilyo.
+Stop staring.	Ayaw pag tinutok.
+Stop talking.	Ayaw pag yinakan.
+Stop the car.	Igungdang ang sarakyan.
+Stop whining.	Ayaw pag inaraba.
+Stop whining.	Ayaw pag tinangis.
+Stop yelling.	Ayaw pag parak.
+Sweet dreams!	Katurog na!
+Sweet dreams!	Unta didi ka bangongoton!
+Switch it on.	Abrihi.
+Take a break.	Pahuwayi.
+Take a break.	Pahuway.
+Take a break.	Pagpahuway.
+Take command.	Ikaw na bahala .
+Take command.	Ikaw himo.
+Take control.	Kontrola.
+Take it easy!	Hinay-hinay!
+Take it home.	Dad-a sa balay.
+Take it home.	Ikadto sa balay.
+Take my hand.	Kuhaa an akon kamot.
+Take the bus.	Sakay bus.
+Take us home.	Ig uli kami sa balay.
+Tell me more.	Istoryahi pa ak.
+Tell me more.	Istoryahi pa ak.
+Tell me more.	Istoryahi pa ak.
+Tell me more.	Istyoryhi pa ak.
+Tell us more.	Istoryahi kami.
+Tell us more.	Istoryahi kami.
+Tell us more.	Istoryhai kami.
+Tell us more.	Istoryahi kami.
+Tell us more.	Istoryahi kami.
+Tell us more.	Istoryahi kami.
+Thanks a lot.	Damo nga salamat.
+Thanks a lot.	Dako nga salamat.
+Thanks a lot.	Damo nga salamat.
+Thanks a lot.	Dako nga salamat.
+Thanks again.	Salamat utro.
+Thanks again.	Salamat utro!
+That does it.	Asya na iton.
+That is mine.	Akon iton.
+That was Tom.	Si tom iton.
+That was bad.	Diri adto maupay.
+That was fun.	Kaupay sadto.
+That was odd.	Kaiba sadto.
+That will do.	Pwede na iton.
+That will do.	Pwede na iton.
+That will do.	Pwede na iton.
+That will do.	Pwede na iton.
+That will do.	Pwede na iton.
+That'll help.	Makakabulig iton.
+That'll last.	Mag-iiha iton.
+That'll last.	Mag-iiha iton.
+That'll work.	Magana iton.
+That'll work.	Magana iton.
+That'll work.	Magana iton.
+That's Tom's.	Kay Tom iton.
+That's a lie.	Mali iton.
+That's a lot!	damo iton!
+That's crazy.	Boang iton.
+That's cruel.	Salbahis iton.
+That's my CD.	Cd iton.
+That's right.	Tama iton.
+That's right.	Tama iton.
+That's weird.	Kakaiba iton.
+That's weird.	Kakaiba iton.
+The two left.	Umiwas an duha.
+They all sat.	Nag ingkod sira.
+They approve.	Gin-aprobahan.
+They approve.	Gin-aprobahan.
+They are big.	Dagko sira.
+They came in.	Sumolod sira.
+They came in.	Sumulod sira.
+They came in.	Sumolod sira.
+They came in.	Sumolod sira.
+They cheered.	Sumolod sira.
+They crashed.	Nabangga sira.
+They crashed.	Nabangga sira.
+They crashed.	Nabangga sira.
+They escaped.	tumakas sira.
+They gave up.	Umundang sira.
+They gave up.	Umundang sira.
+They gave up.	Umundang sira.
+They gave up.	Umundang sira.
+They hate us.	Nangisog sira saamon.
+They help us.	Ginbuloigan nira kami.
+They help us.	Nangisog sira saamon.
+They knew me.	Kilala ak nira.
+They know me.	Kilala ak nira.
+They know us.	Maaram sira.
+They laughed.	Nagtawa sira.
+They love it.	Karuyag nira.
+They love it.	Karuyag nira.
+They love me.	Karuyag nira.
+They need me.	Kinahanglan ako nira.
+They refused.	Gintanggihan sira.
+They said no.	Yakan sira diri.
+They saw Tom.	Vieron a Tom.
+They saw you.	Nakita ka nira.
+They saw you.	Nakita ka nira.
+They stopped.	Umondang sira.
+They sweated.	Gipamalhas sira.
+They want me.	Karuyag ak nira.
+They want me.	Karuyag ak nira.
+They want me.	Karuyag ak nira.
+They'll call.	Matawag sira.
+They'll call.	Matawag sira.
+They'll come.	Maulpot sira.
+They'll come.	Maulpot sira.
+They'll know.	Maaram sira.
+They'll wait.	Mahulat sila.
+They'll wait.	Mahulat sira.
+They're back.	Ada na sira.
+They're back.	Ada na sira.
+They're boys.	Lalaki sira.
+They're boys.	Lalaki sira.
+They're boys.	Lalaki sira.
+They're cold.	Mapinit sira.
+They're eggs.	Bonay sira.
+They're fast.	Malaksi sira.
+They're fine.	Ok sira.
+They're fine.	Ok sira.
+They're fine.	Ok sira.
+They're gone.	Nawara sira.
+They're good.	Maupay sira.
+They're here.	Adi na sira.
+They're here.	Adi na sira.
+They're here.	Adi na sira.
+They're home.	Adi na sira sa balay
+They're mine.	Akon sira.
+They're mine.	Akon sira.
+They're mine.	Akon sira.
+They're nice.	Buotan sira.
+They're nice.	Buotan sira.
+They're nice.	Buotan sira.
+They're rich.	Mayaman sira.
+They're ugly.	Maraot sira.
+They're weak.	Maluya sira.
+They've gone.	Nakaiwas na sira.
+They've gone.	Nakaiwas na sira.
+They've gone.	Nakaiwas na sira.
+They've gone.	nakaiwas na sira.
+They've left.	Umiwas na sira.
+They've left.	Umiwas na sira.
+Things break.	Narurubat ang bagay.
+This is easy.	Madali la ini.
+This is fine.	Ok la ini.
+This is food.	Pagkaon ini.
+This is gold.	Ginto ini.
+This is good.	Ok la ini.
+This is good.	Ok la ini.
+This is hers.	Sa iya ini.
+This is hers.	Sa iya ini.
+This is life!	Asya an kinabuhi!
+This is love.	Asya ini an gugma.
+This is mine.	Akon ini.
+This is mine.	Akon ini.
+This is nice.	Maupay ini.
+This is nice.	Maupay ini.
+This is nice.	Maupay ini.
+This is nuts.	Mani ini.
+This is ours.	Aton ini.
+This is ugly.	Maraot ini.
+This'll help.	Makakabulig ini.
+This'll work.	Makakabulig ini.
+Tom answered.	Bumaton si Tom.
+Tom approves.	Ginaprobahan si Tom.
+Tom bit Mary.	Ginkagat ni Tom si Mary.
+Tom can cook.	Maaram mag luto si Tom.
+Tom can help.	Makabulig si Tom.
+Tom can swim.	Maaram lumangoy si Tom.
+Tom canceled.	Gin kansel ni Tom.
+Tom canceled.	Gin kansel ni Tom.
+Tom enlisted.	Nag pa lista si Tom.
+Tom felt sad.	Nahulop si Tom.
+Tom finished.	Natapos ni Tom.
+Tom flinched.	Naundang si Tom.
+Tom got lost.	Nawara si Tom.
+Tom got shot.	Napusil si Tom.
+Tom got sick.	Nag kasakit si Tom.
+Tom has guts.	Makusog an Kursunada ni Tom.
+Tom hates me.	Diri naruyag sa akon si Tom.
+Tom helps us.	Ginbuligan kami ni Tom.
+Tom hit Mary.	Ginpasakita ni Tom si Mary.
+Tom insisted.	Namirit si Tom.
+Tom is a cop.	Pulis si Tom.
+Tom is a vet.	Vet si Tom.
+Tom is a vet.	Vet si Tom.
+Tom is brave.	Isog si Tom.
+Tom is cruel.	Malupit si Tom.
+Tom is dying.	Tipatay si Tom.
+Tom is gross.	Mahugaw si Tom.
+Tom is happy.	Malipayon si Tom.
+Tom is loyal.	Loyal si Tom.
+Tom is lying.	Buwaon si Tom.
+Tom is my ex.	Ex ko si Tom.
+Tom is naked.	Huba si Tom.
+Tom is naked.	Huba si Tom.
+Tom is naked.	Huba si Tom.
+Tom is naked.	Huba si Tom.
+Tom is naked.	Huba si Tom.
+Tom is naked.	Huba si Tom.
+Tom is nasty.	Daotan si Tom.
+Tom is picky.	Pilian si Tom.
+Tom is quiet.	Mamingaw si Tom..
+Tom is ready.	Andam na si Tom.
+Tom is right.	Tama si Tom.
+Tom is short.	Hamubo si Tom.
+Tom is timid.	Naawod si Tom.
+Tom is upset.	Nangisog si Tom.
+Tom is witty.	Baltok si Tom.
+Tom is wrong.	Mali si Tom.
+Tom liked it.	Naruyagan ni Tom.
+Tom likes it.	Mga karuyag ni Tom.
+Tom likes me.	Naruyag si Tom sa akon.
+Tom likes me.	Naruyag sa akon si Tom.
+Tom listened.	Naminaw si Tom.
+Tom loves me.	Mah ako ni Tom.
+Tom met Mary.	Nakilala ni Tom si Mary.
+Tom needs me.	Kinahanglan ako ni Tom.
+Tom needs us.	Kinahanglan kita ni Tom.
+Tom panicked.	Nalisang si Tom.
+Tom panicked.	Nalisang si Tom.
+Tom promised.	An saad ni Tom.
+Tom promised.	An saad ni tom.
+Tom ran away.	Naglayas si Tom.
+Tom relented.	Nag paubaya si Tom.
+Tom relented.	Nag paubaya si Tom.
+Tom relented.	Nag paubaya si Tom.
+Tom resigned.	Umundang si Tom.
+Tom saw Mary.	nakita ni Tom si Mary.
+Tom screamed.	Nag parak si Tom.
+Tom shot her.	Ginpusil siya ni Tom.
+Tom shot him.	Ginpusil siya ni Tom.
+Tom shrugged.	Tom se encogió de hombros.
+Tom stutters.	Nauutal si Tom.
+Tom stutters.	Nauutal si Tom.
+Tom survived.	Nakaligtas si Tom.
+Tom vanished.	Nawara si Tom.
+Tom was bald.	Kalbo si Tom.
+Tom was hurt.	Nasakitan si Tom.
+Tom was lost.	Nawara si Tom.
+Tom was mean.	Malain an batasan Tom.
+Tom was pale.	Nanduas si Tom.
+Tom was sick.	NagTom.
+Tom will cry.	Magtatangis si Tom.
+Tom'll speak.	Magyayakan si Tom.
+Tom'll speak.	Magyayakan si Tom.
+Tom's coming.	Maulpot si Tom.
+Tom's crying.	Nagtinangis si Tom.
+Tom's groggy.	Nagtiniaw si Tom.
+Tom's stoned.	Ginlabay si Tom.
+Tom's strong.	Makusog si Tom.
+Tom, wake up.	Tom, matana.
+Trust in God.	Tapod sa ginoo.
+Try the cake.	Tistingi an cake.
+Try these on.	Tistingi ini.
+Try this one.	Tistingi ini.
+Try to focus.	Tistingi pag fucos.
+Unbelievable!	Diri matood-tood!
+Wait and see.	Hulata ngasan kitaa.
+Wait and see.	Hulata ngasan kitaa.
+Wait and see.	Hulata ngasan kitaa.
+Wait for Tom.	Hulata si Tom.
+Wait for Tom.	Hulata si Tom.
+Wait outside.	Hulata sa gawas.
+Wake them up.	Pukawa sira ngatanan.
+Wake up, Tom.	Mata na, Tom.
+Walk with me.	Lakat upod sa akon.
+Want a drink?	Karuyag mo irinon?
+Wash the car.	Limpyahe ang sarakyan.
+We apologize.	Nangaro kami pasaylo.
+We are happy.	Malipayon kami.
+We are young.	Bata pa kami.
+We can do it.	Kaya ini namon.
+We can't sue.	Diri namon kaya mag demanda.
+We can't win.	Diri namon kaya magdaog.
+We got ready.	Nagprepara kami.
+We got ready.	Nagprepara.
+We had lunch.	Naningudto kami.
+We have some.	Mayda kami pa.
+We have some.	Mayda kami pa.
+We have some.	Mayda kami pa.
+We have time.	May ada kami oras.
+We have wine.	Mayda kami wine.
+We knew that.	Nahibaro kami siton.
+We knew that.	Nahibaro kami siton.
+We knew that.	Nahibaro kami siton.
+We knew this.	Nahibaro kami sini.
+We knew this.	Nahibaro kami sini.
+We knew this.	Nahibaro kami sini.
+We know that.	Nahibaro kami siton.
+We know that.	Nahibaro kami sana.
+We know this.	Nahibaro kami sana.
+We know this.	Nahibaro kami sini.
+We live here.	Nakaistar kami didi.
+We live here.	Nakaistar kami didi.
+We love them.	Gihigugma naton sira.
+We love this.	Gihigugma naton ini.
+We love this.	Gihigugma naton ini.
+We loved Tom.	Gihigugma naton si Tom.
+We met today.	Yana na adlaw nagkita kami.
+We met today.	Yana na adlaw nagkita kami.
+We must help.	Mag burugligay kita.
+We must help.	Mag burugligay kita.
+We need help.	Kinahanglan namon an iyo bulig.
+We need more.	Damo an amon kinahanglan.
+We need this.	Kinahanglan naton ini.
+We overslept.	Nasubrahan an amon katurog.
+We overslept.	Nasubrahan an amon katurog.
+We sat there.	Nag ingkod kami dida.
+We sat there.	Nag ingkod kami dida.
+We sat there.	Nag ingkod kami dida.
+We should go.	Makadto na kami.
+We succeeded!	Nag tagumpay kami!
+We succeeded!	Nag tagumapy kami!
+We surrender.	Nag undang kami.
+We were hurt.	Nasakitan kami.
+We were hurt.	Nasakitan kamo.
+We'll go out.	Maluwas kami.
+We're adults.	Lagas kami.
+We're afraid.	Nahadlok kita.
+We're better.	Maupay kami.
+We're better.	Maupay kami.
+We're closed.	Sarado kami.
+We're coming.	Makada na kami.
+We're goners.	Wara na kami.
+We're hiding.	Matago kami.
+We're hungry.	Gutom kami.
+We're joking.	Nagtiniaw kami.
+We're losing.	Pirdi kami.
+We're moving.	Mabalhin na kami.
+We're moving.	Mabalhin na kami.
+We're moving.	Mabalhin na kami.
+We're moving.	Mabalhin na kami.
+We're pooped.	Gibutlaw na kami.
+We're pooped.	Gibutlaw na kami.
+We're sleepy.	Tikaturog na kami.
+We're trying.	Karuyag namon tistingan.
+We're trying.	karuyag namon tistingan.
+We've got it.	Nakuha nanamon.
+We've got it.	Nakuha nanamon.
+We've got it.	Nakuha nanamon.
+Welcome back.	Maupay na pagbalik.
+Welcome back.	Maupay na pagbalik.
+Welcome home.	Maupay na pagbalik.
+Welcome home.	Maupay na pagbalik.
+What is that?	Nanu iton?
+What is that?	Nanu iton?
+What is this?	Nanu ini?
+What's on TV?	May nanu sa TV?
+What's wrong?	Nanu an problema?
+Where is she?	Hain siya?
+Who are they?	Sin-o sira?
+Who are they?	Sin-o sira?
+Who built it?	Sin-o nag himo sini?
+Who canceled?	Sin-o an nag kansela?
+Who canceled?	Sin-o an nag kansela?
+Who has come?	Sin-o an umabot?
+Who is there?	Sin-o an ada?
+Who listened?	Sin-o an namati?
+Who paid you?	Sin-o an nag bayad sa imo?
+Who panicked?	Sin-o an nalisang?
+Who pays you?	Sin-o nag bayad?
+Who resigned?	Sin-o an nag-resign?
+Who sent you?	Sin-o an nag padara sa imo?
+Who told Tom?	Sin-o nag yakan sa imo?
+Who vanished?	Sin-o an nawara?
+Who wants it?	Sin-o an may karuyag sini?
+Who was that?	Sin-o iton?
+Who will pay?	Sin-o an mag bayad?
+Who'll start?	Sin-o matikang?
+Who'll start?	Sin-o matikang?
+Who's coming?	Sin-o an maabot?
+Who's hungry?	Sin-o an gutom?
+Who's paying?	Sin-o an nagbabayad?
+Why not both?	Kay nanu dire parihas?
+Why not both?	Kay nanu dire parihas?
+Why thank me?	Kay nanu nagpapasalamat ako?
+Why thank me?	Kay nanu nagpapasalamat ako?
+Will Tom die?	Mamatay ba si Tom?
+Will he live?	Mabubuhi pa si Tom?
+Won't you go?	Diri ka makadto?
+Write in ink.	Igsurat sa tinta.
+Write in ink.	Igsurat sa tinta.
+Write in ink.	Igsurat sa tinta.
+Write in ink.	Igsurat sa tinta.
+Write to Tom.	Nag surat kay Tom.
+Years passed.	Pira ka tuig nan umagi.
+You amuse me.	Ginpapalipay moak.
+You are good.	Kabut-an mo.
+You are good.	Kabut-an mo.
+You are late.	Urhi ka.
+You are lazy!	Nalipong ka!
+You are rich.	Mayaman ka.
+You are rich.	Mayaman ka.
+You are rude.	Kabastos mo.
+You can come.	Pwede ka umopod.
+You can help.	Pwede ka bumulig.
+You can rest.	Pwede ka pumahuway.
+You can stay.	Pwede ka mag puyo.
+You can't go.	diri ka malakat.
+You go first.	Ikaw una.
+You go first.	Ikaw una.
+You go first.	Ikaw una.
+You go first.	ikaw una.
+You go first.	Ikaw una.
+You go first.	Ikaw una.
+You go first.	Ikaw una.
+You go first.	Ikaw una.
+You hurt him.	Gin pasakitan mo siya.
+You know her.	Kilala mo siya.
+You know her.	Kilala mo siya.
+You know him.	kilala mo siya.
+You know how.	Maaram ka kun paananuhon.
+You look fat.	Bagan ka matambok.
+You look hot.	Kapaso mo kitaon.
+You look hot.	Kapaso mo kitaon.
+You look hot.	Kapaso mo kitaon.
+You may look.	Bangin kumita ka.
+You may look.	Bangin kumita ka.
+You may look.	Bangin kumita ka.
+You may swim.	Pwede kana lumangoy.
+You must eat.	kumaon kana.
+You must try.	Kinahanglan muna matistingan.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako.
+You promised.	Imo ginpangako..
+You promised.	Imo ginpangako.
+You scare me.	Ginhadlok mo ak.
+You scare me.	Ginhadlok mo ak..
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You survived.	Nakatalwas ka.
+You will see.	Nakit-an mo iton.
+You'll be OK.	Nagiging ok iton.
+You're a pig.	Baktin kaman.
+You're crazy.	Palingki kaman.
+You're crazy.	Palingki kaman.
+You're cruel.	Kasalbahis mo man.
+You're cruel.	Kasalbahis mo man.
+You're cruel.	Kasalbahis mo man.
+You're drunk.	Hubog ka.
+You're drunk.	Hubog ka.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're fired.	Tanggal kana.
+You're first.	Ikaw an mag una.
+You're first.	Ikaw an mag-una.
+You're first.	Ikaw an mag-una.
+You're first.	Ikaw an mag-una.
+You're funny.	Makatatawa ka gad.
+You're great.	Kadati mo man.
+You're great.	Kadati mo man.
+You're gross!	Grabe ka gad!
+You're gross.	Grabe ka gad.
+You're lying.	Nagbubuwa ka gad.
+You're lying.	Nagbubuwa ka gad.
+You're naive.	Wara ka aram.
+You're naive.	Wara ka aram.
+You're right.	Tama ka.
+You're sharp.	mahait ka.
+You're sharp.	Mahait ka.
+You're small.	Kagutiay mo gad.
+You're small.	kagutiay mo gad.
+You're small.	Kagutiay mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	kadati mo gad.
+You're smart.	Kadati mo gad.
+You're smart.	Kadati mo gad.
+You're sweet.	Kalambing mo gad.
+You're tired.	Gin kapoy kana.
+You're tired.	Gin kapoy kana.
+You're witty.	Kadati mo.
+You're witty.	Kadati mo.
+You're wrong.	Mali ka.
+You've tried.	Gin tistingan muna.
+A car hit Tom.	Nabanggaan si Tom san sarakyan.
+Am I approved?	Approved na baak?
+Am I approved?	Approved na baak?
+Am I dreaming?	Nagiinop ak?
+Am I included?	Upod Baak?
+Am I mistaken?	Sayup baak?
+Am I safe now?	Estoy yo a salvo ahora?
+Are they busy?	Están ocupados?
+Are they cops?	Mga Pulis iton?
+Are they gone?	Wara na sira?
+Are they gone?	Wara na sira?
+Are they here?	Adi na sira?
+Are they here?	Adi na sira?
+Are they here?	Adi na sira?
+Are they tall?	Hatagas sira?
+Are they tall?	Son hatag-as?
+Are you a cop?	Pulis ka?
+Are you a cop?	Pulis ka?
+Are you alone?	Nag usahan kala?
+Are you angry?	Nangingisog ka?
+Are you awake?	Mata kana?
+Are you blind?	Buta ka?
+Are you blind?	Buta ka?
+Are you bored?	Wara ka lingaw?
+Are you bored?	Wara ka lingaw?
+Are you bored?	Wara ka lingaw?
+Are you crazy?	Lipong ka?
+Are you crazy?	Lipong ka?
+Are you drunk?	Hubog ka?
+Are you drunk?	Hubog ka?
+Are you drunk?	Hubog ka?
+Are you funny?	Makaratawa ka?
+Are you going?	Makadto ka?
+Are you going?	Makadto ka?
+Are you happy?	Malipayon ka?
+Are you happy?	Malipayon ka?
+Are you happy?	Malipayon ka?
+Are you happy?	Malipayon ka?
+Are you happy?	Malipayon ka?
+Are you ready?	Andam kana?
+Are you ready?	Andam kana?
+Are you there?	Ada ka?
+Are you tired?	Pagal ka?
+Are you tired?	Pagal ka?
+Are you upset?	Nangisog ka?
+Ask an expert.	Pakiana sa experto.
+Beware of dog.	Pagbantay sa ayam.
+Boys run fast.	An mga lalaki dumalagan sin papas.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Break it down.	Tunga-tungaa.
+Bring it here.	Dad-a pakadi.
+Bring the key.	Dad-a an yabe.
+Burn the body.	Sunuga an lawas.
+Burn the body.	Sunuga an lawas.
+Burn the body.	Sunuga an lawas.
+Burn the body.	Sunuga an lawas.
+Burn the body.	Sunuga an lawas.
+Cain was evil.	Si Cain salbahi.
+Call a doctor.	Pagtawag doctor.
+Call a doctor.	Pagtawag doctor.
+Call for help.	Managayo bulig.
+Call for help.	Managayo bulig.
+Call for help.	Managayo bulig.
+Call for help.	Managayo bulig.
+Call me later.	Tawage ak niyan!
+Call me later.	Tawage ak niyan.
+Call security!	Pagtawag Gwardiya!
+Call security!	Pagtawag Gwardiya!
+Call security!	Pagtawag Gwardiya!
+Call the cops.	Pagtawag police.
+Can I come in?	Pwede ak sumolod?
+Can I do that?	Kaya ko iton?
+Can I go next?	Pwede ako an sumunod?
+Can I go, too?	Pwede umopod ak liwat?
+Can I have it?	Pwede kuhaon ko ini?
+Can I hug you?	Pwede ko ikaw kagson ?
+Can I join in?	Pwede ak umungay?
+Can I keep it?	Pwede ko ini itago?
+Can I stop by?	Pwede baak umundang?
+Can I take it?	Pwede ko ini kuhaon?
+Can this wait?	Makahulat ini?
+Can this wait?	Makahulat ini?
+Can you drive?	Alayun pagmaniho?
+Can you sleep?	Alayun pagkaturog ?
+Check, please.	Paalayun, pagkita.
+Close the box.	Igsara an kahon.
+Come and look.	Pakadi ngansan kitaa.
+Come and look.	Pakadi ngansan kitaa.
+Come out here.	Gawas didi.
+Come out here.	Gawas didi.
+Come right in.	Sulod dayon.
+Come right in.	Sulod dayon.
+Come right in.	Sulod dayon.
+Come right in.	Sulod dayon.
+Come this way.	Pakadi didi.
+Come tomorrow.	Pakadi buwas.
+Cook the rice.	Pagtuon bugas.
+Cook the rice.	Pagtuon bugas.
+Dad's working.	Nag tatrabaho si papa.
+Dance with me.	Sayaw kit.
+Did I do that?	Ginhimo kuba iton?
+Did Tom faint?	Nahimatay ba si Tom?
+Did you do it?	Ginhimo mo ba?
+Did you speak?	Nagyakan kaba?
+Do I know Tom?	Kilala kuba si Tom?
+Do I know him?	Kilala ko ba ikaw?
+Do I know you?	Kilala ko ba ikaw?
+Do I know you?	Kilala ko ba ikaw?
+Do I know you?	Kilala ko ba ikaw?
+Do I look fat?	Tambok naba ak kitaon?
+Do I look old?	Lagas na baak kitaon?
+Do I need one?	Kinahanglan kupaba an usa?
+Do cats dream?	Nag iinpo ba an kamisayan?
+Do come again.	Balik didi utro.
+Do come again.	Balik didi utro.
+Do fish sleep?	Nakaturog ba an isda?
+Do it quickly.	Himua pagdali.
+Do it quickly.	Himua pagdali.
+Do it with me.	Himua upod ako.
+Do the dishes.	Hugasi an mga hurugasan.
+Do what I say.	Himua an ginyakan ko.
+Do you follow?	Nasunod kaba?
+Do you see it?	Nakikita mo ba?
+Do you see me?	Nakikita mo baak?
+Does Tom know?	Maaram ba si Tom?
+Does this fit?	Kasya ba iton?
+Does this fit?	Kasya ba iton?
+Does this fit?	Kasya ba iton?
+Don't be evil.	Ayaw pagsinalbahi.
+Don't be evil.	Ayaw pagsinalbahi.
+Don't be evil.	Ayaw pagsinalbahi.
+Don't be evil.	Ayaw pagsinalbahi.
+Don't be late.	Ayaw pag paurhi.
+Don't be mean.	Ayaw pagsinalbahi.
+Don't be rude.	Ayaw pagbiastos.
+Don't come in.	Ayaw pagsulod.
+Don't deny it.	Ayaw igtanggi.
+Don't despair.	Diri mawawaraan paglaom!
+Don't do that.	Ayaw pagbuhta iton.
+Don't do this.	Ayaw pag buhata ini.
+Don't get fat.	Ayaw pag patambok.
+Don't get fat.	Ayaw pag patambok.
+Don't get fat.	Ayaw pag patambok.
+Don't give in.	Ayaw pagsuko.
+Don't give up!	Ayaw pagsuko.
+Don't give up!	Ayaw pagsuko!
+Don't give up.	Ayaw pagsuko.
+Don't hurt me.	Ayaw ak pagpasakita.
+Don't kill me.	Ayaw ak pag patya.
+Don't look up.	Ayaw paghangad.
+Don't mind me.	Ayaw ak pagintindiha.
+Don't mock me.	Ayaw ak pag tamayi.
+Don't open it.	Ayaw pagabriha.
+Don't open it.	Ayaw pagabriha.
+Don't push it.	Ayaw ituklang.
+Don't push me!	Ayaw ko pag ituklang!
+Don't push me!	Ayaw ko pag ituklang!
+Don't rush me.	Ayaw ko pagpaapuraha.
+Don't sass me.	Ayaw ak palangta.
+Don't tell me.	Ayaw pag iyakan sa akon!
+Don't tell me.	Ayaw pag iyakan sa akon.
+Drain the oil.	Pamaraha ang asyete.
+Draw a circle.	Pag drawing ug lidong.
+Draw a circle.	Pag drawing ug lidong.
+I love you.	Ginhigugma ko ikaw.
+I admire you.	Naayon ak sa imo.
+I admire his courage.	Naayon ak saiya kaisog.
+I admire your talent.	Naayon ak saiya talento.
+I admire your talent.	Naayon ak saimo talento.
+I admire your talent.	Naruyag ak saimo talento.
+I already apologized.	Nangaro naak pasaylo.
+I already apologized.	Nangaro naak pasaylo.
+I already called him.	Tumawag naak saiya.
+I already tried that.	Na tistingan ko na iton.
+I also like painting.	Karuyag ko liwat an painting.
+I also like painting.	Karuyag ko liwat an painting.
+I always believe you.	Natuod ak saimo permi.
+I always feel hungry.	Permi ak gingugutom.
+I am a stranger here.	Stranghero lak didi.
+I am a tennis player.	Tennis player ak.
+I am a tennis player.	Tennis player ak.
+I am afraid of bears.	Hadlok ak sa oso.
+I am afraid of dying.	Hadlok ak mamatay.
+I am also unemployed.	Wara ak liwat trabaho.
+I am better than you.	Mas maupay paak kesa saimo.
+I am building a wall.	Naghihimo ak bungbong.
+I am counting on you.	Nagtapod ak saimo.
+I am drinking coffee.	Nag iinom ak kape.
+I am driving a truck.	Nag drive ak truck.
+I am driving a truck.	Nag drive ak truck.
+I am eating an apple.	Nagkakaon ak mansanas.
+I am eating an apple.	Nagkakaon ak mansanas.
+I am fond of reading.	Ganahan ak magbasa.
+I am forced to do it.	Gin pwersa ak paghimo sadto.
+I am getting dressed.	Nagliliwan na ak.
+I am getting dressed.	Nagliliwan na ak.
+I am glad to see her.	Nalipay ak sa nakitan ko siya.
+I am going to school.	Makadto ak school.
+I am laughing at Tom.	Naghingatawa ak kay tom.
+I am laughing at you.	Nahingatawa ak saimo.
+I am like my brother.	Pareho ak sakon Bugto.
+I am milking my goat.	Gingagatasan ko an kanding.
+I am mopping my room.	Nag momop ak sa room.
+I am not leaving you.	Diri ko ikaw bayaan.
+I am Tom.	Ako si Tom.
+I am not leaving you.	Diri ko ikaw bayaan.
+I am stirring my tea.	Gin uukay ko akon tsaa.
+I am sure of success.	Sigurado ak sa success.
+I am terribly hungry.	Gutom nak ura-ura!
+I am waiting my turn.	Naghuhulat ak sakon torno.
+I am wasting my time.	Nagkakarag ak sakon oras.
+I am writing a novel.	Nagsusurat ak nobela.
+I apologize for that.	Pasayloa ak sadto.
+I asked Tom to do it.	Nagpa alayon ak kay tom na himoon.
+I asked Tom to drive.	Nagpa alayon ak kay tom pag drive.
+I asked Tom to drive.	Nagpa alayon ak kay tom pag drive.
+I asked Tom to hurry.	Ginpadali ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked for his help.	Nangaro ak saiya bulig.
+I asked her to dance.	Ginpa sayaw ko siya.
+I ate eggs yesterday.	Kumaon ak itlog kakulop.
+I ate fish yesterday.	Kumaon ak isda kakulop.
+I ate fish yesterday.	Kumaon ak isda kakulop.
+I ate three hot dogs.	Nagkaon ak 3 hotdogs.
+I awoke from a dream.	Nahingamata ak sa inop.
+I bear him no malice.	Waray ak mailsya saiya.
+I beg you to help me.	Nagmakalooy ak na buligan mo ak.
+I beg you to help us.	Nagmakalooy ak na buligan mo ak.
+I begged Tom to stay.	Nagmakalooy ak kay tom na magpabilin.
+I believe your story.	Natuod ak saimo storya.
+I borrowed Tom's car.	Ginhuram ko kay tom sakyanan.
+I bought a red diary.	Nagpalit ak pula na diary.
+I bought an old lamp.	Nagpalit ak luma na lampara.
+I bought an umbrella.	Nagpalit ak payong.
+I bought fresh bread.	Nagpalit ak presko na tinapay.
+I bought her a clock.	Ginpalitan ko siya relo.
+I bought her a watch.	Ginpalitan ko siya relo.
+I bought it from Tom.	Ginpalit ko kay tom.
+I broke my right leg.	Nabali akon tuo na paa.
+I broke your ashtray.	Narubat ko imo ashtray.
+I brought it for you.	Ginpalit ko para saimo.
+I burnt my fingertip.	Nasunog ko akon fingertip.
+I came here to study.	Kumadi ak para mag-aram.
+I came here with Tom.	Kumadi ak kaupod si tom.
+I can do this myself.	Kaya ko ini mahimo.
+I can eat it in here.	Makaon ko ini didi.
+I can hardly breathe.	Nagkukuri ak paghinga.
+I can ride a bicycle.	Maaram ak mag bisikleta.
+I can start tomorrow.	Makatikang ak buwas.
+I can still hear you.	Nababatian ko pa ikaw.
+I can still help you.	Pwede ko pa ikaw buligan.
+I can swim very fast.	Malaksi ak lumangoy.
+I can take a message.	Ako nala yakan.
+I can't afford a car.	Diri ak ka afford sakyanan.
+I can't believe that.	Diri ak matuod siton.
+I can't believe this.	Diri ak makapaniwala sini.
+I can't do it either.	Diri liwat nakon mahimo.
+I can't do that, sir.	Diri ko iton mahimo, sir.
+I can't even do that.	Diri ko iton kaya.
+I can't feel my legs.	Diri ko maramdaman akon paa.
+I can't feel my toes.	Diri ko maramdaman akon tiil.
+I can't find my keys.	Diri ko mabilngan akon susi.
+I can't find my pipe.	Diri ko mabilngan akon tubo.
+I can't get involved.	Diri ak pwede mahiungay.
+I can't hide forever.	Diri ak pwede magtago habang buhay.
+I can't kiss you now.	Diri ko pa ikaw pwedde harokan sa yana.
+I can't leave Boston.	Diri ko pwede bayaan an Boston.
+I can't move my legs.	Diri ko makiwa akon paa.
+I can't see anything.	Diri ak makakita.
+I can't see anything.	Diri ak makakita.
+I can't shut it down.	Diri ko maparong.
+I can't speak French.	Diri ak maaram magyakan french.
+I can't speak German.	Diri ak maaram magyakan german.
+I can't speak German.	Diri ak maaram magyakan german.
+I can't stop smoking.	Diri ak nakakaundang pag sigarilyo.
+I can't stop writing.	Diri ak nakakaundang pag sigarilyo.
+I can't tell you yet.	Diri ko pa pwede igyakan sa yana.
+I can't wait all day.	Diri ak pwede maghulat bugos adlaw.
+I can't wait for you.	Diri ko ikaw mahuhulat.
+I can't wait forever.	Diri ak makahulat habang buhay.
+I can't wait forever.	Diri ak makahulat habang buhay.
+I cannot drive a bus.	Diri ak maka drive bus.
+I cannot read French.	Diri ak maaram magbasa french.
+I caused an accident.	Naghimo kog aksidenti.
+I choose to be happy.	Ginpili ko maging malipayon.
+I cleared up my desk.	Gin limpyahan ko akon lamesa.
+I closed my umbrella.	Ginsara ko an payong.
+I collect rare coins.	Nag kolekta ak panagsa na sensilyo.
+I count on your help.	Nagsalig ak saimo bulig.
+I crossed the street.	Tumabok ak sa agian.
+I daydreamed all day.	Nag inop ak tibuok adlaw.
+I did it a few times.	Ginhimo ko kapira kabeses.
+I did that at school.	Ginhimo ko iton sa iskwelahan.
+I did that at school.	Ginhimo ko iton sa iskwelahan.
+I did that in school.	Ginhimo ko iton sa iskwelahan.
+I did that in school.	Ginhimo ko iton sa iskwelahan.
+I did that willingly.	Ginhimo ko na bukal sa loob.
+I didn't ask for you.	Wara ak nangaro saimo.
+I didn't believe you.	Diak natuod saimo.
+I didn't do anything.	Wara ak ginhimo na iba.
+I didn't do anything.	Wara ak ginhimo na iba!
+I didn't expect help.	Wara ak nag aro bulig.
+I didn't tell anyone.	Wara ak ginsumatan iba.
+I didn't want to die.	Nadiri ak mamatay.
+I disagree with that.	Diri ak natugot siton.
+I dislike big cities.	Diri ko gusto an dagko na siyudad.
+I do not feel guilty.	Wara ak nakonsensya.
+I do not like spring.	Nadiri ak san spring.
+I do owe Tom a favor.	Mayda ak utang na pabor kay tom.
+I do owe Tom a favor.	Mayda ak utang na pabor kay tom.
+I don't care for him.	Wara ak labot saiya.
+I don't get out much.	Diri ak nagawas jud.
+I don't go to school.	Diri ak nakadto school.
+I don't have a fever.	Wara ak harumohom.
+I don't have a sword.	Wara ak espada.
+I don't have all day.	Wara ak tibuok na adlaw.
+I don't have enemies.	Wara ak kaaway.
+I don't have the key.	Wara sakon an susi.
+I don't hear a thing.	Wara ak nabatian.
+I don't know English.	Diri ak maaram mag ingles.
+I don't know Russian.	Diri ak maaram mag russian.
+I don't know exactly.	Diri ak jud maaram.
+I don't know exactly.	Diri ak jud maaram.
+I don't like English.	Nadiri ak san english.
+I don't like cooking.	Nadiri ak pagluto.
+I don't like doctors.	Nadiri ak san doctor.
+I don't like oysters.	Nadiri ak san oyster.
+I don't like silence.	Nadiri ak san mingaw.
+I don't like spiders.	Nadiri ak san spider.
+I don't like to cook.	Nadiri ak pagluto.
+I don't like to walk.	Nadiri ak paglakat.
+I don't mind anymore.	Wara na ak labot.
+I don't mind anymore.	Wara na ak labot.
+I don't mind waiting.	Okay ra sakon maghulat.
+I don't mind walking.	Okay ra sakon maglakat.
+I don't normally lie.	Diri ak basta basta mamatay.
+I don't recognize it.	Wara ko nakilal-i.
+I don't remember you.	Wara ko ikaw madumduman.
+I don't remember you.	Wara ko ikaw madumduman.
+I don't see anything.	Wara ak nakikitan.
+I don't speak German.	Diri ak nagyayakan german.
+I don't speak German.	Diri ak nagyayakan german.
+I don't speak Hebrew.	Diri ak nagyayakan hebreo.
+I don't trust anyone.	Diri ak natapod bisan kanino.
+I don't use Facebook.	Diri ak nagamit facebook.
+I don't want charity.	Diri ko gusto an charity.
+I don't want to cook.	Nadiri ak pagluto.
+I don't want to know.	Nadiri ak mahibaruan.
+I don't want to know.	Nadiri ak mahibaruan.
+I don't want to lose.	Nadiri ak mawara.
+I don't want to swim.	Nadiri ak paglangoy.
+I don't want to wait.	Nadiri ak paghulat.
+I don't want trouble.	Nadiri ak sin simok.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I eat here every day.	Nagkakaon ak didi permi.
+I enjoy working here.	Nalilipay ak pag trabaho didi.
+I enjoy working here.	Nalilipay ak pag trabaho didi.
+I expect much of him.	Espero mucho de él.
+I feel safe with you.	Kampante ak saimo.
+I feel safe with you.	Kampante ak saimo.
+I feel sorry for Tom.	Nairohan ak kay tom.
+I felt like an idiot.	Baga ak sin lipong.
+I felt like an idiot.	Baga ak sin lipong.
+I finally understand.	Naintindihan ko na gihapon.
+I followed the rules.	Nasunod ak sa balaud.
+I forget who said it.	Nahingalimot ak sino nagyakan.
+I forgot his address.	Nahingalimot ak saiya address.
+I forgot his address.	Nahingalimot ak saiya address.
+I found it by chance.	Nabilngan ko.
+I gave Tom a blanket.	Gintagan ko si tom habol.
+I got an A in French.	Nakakuha ak A sa french.
+I got myself a drink.	Nagkuha ak irimnon para sakon.
+I got stung by a bee.	Natusok ak sa bubuyog.
+I grew up doing this.	Nagdako ak na ginhihimo ini.
+I had a busy morning.	Ka busy ko sa buntag.
+I had a lovely night.	Kamingaw sa akon gabi.
+I had a tooth pulled.	Nagpagabot ak tango.
+I had a very bad day.	Diri maupay akon adlaw.
+I had my watch fixed.	Wara ko na siya nakitan.
+I had no alternative.	Wara ak altenatibo.
+I had no time to eat.	Wara ak oras para kumaon.
+I had to let Tom win.	Kelangan mapadaog ko si tom.
+I had to let Tom win.	Kelangan mapadaog ko si tom.
+I hate Tom's parents.	Nadiri ak san kag-anak ni tom.
+I hate cops like him.	Nadiri ak sa pulis na pareho saiya.
+I hate jealous women.	Nadiri ak sa selosa na babaye.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate silent movies.	Nadiri ak sa mamingaw na palabas.
+I hate silent movies.	Nadiri ak sa mamingaw na palabas.
+I have a better idea.	Mayda ak maupay na ideya.
+I have a big problem.	Mayda ak dako na problema.
+I have a big problem.	Mayda ak dako na problema.
+I have a green shirt.	Mayda ak green na bado.
+I have a job for you.	Mayda ak trabaho para saimo.
+I have a job for you.	Mayda ak trabaho para saimo.
+I have a new bicycle.	Mayda ak bago na bisikleta.
+I have a new red car.	Mayda ak bago na pula na sarakyan.
+I have a red bicycle.	Mayda ak pula na bisikleta.
+I have a sharp knife.	Mayda ak matarom na kutsilyo.
+I have a small fever.	Ginhatomohom ak guti.
+I have a sore throat.	Mayda ak sore throat.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a twin sister.	Mayda ak kambal na babaye.
+I have a wooden comb.	Mayda ak kahoy na sudlay.
+I have back problems.	Mayda problema akon likod.
+I have been in Paris.	Nakakadto na ak paris.
+I have been in Paris.	Nakakadto na ak paris.
+I have been in Paris.	Nakakadto na ak paris.
+I have been to India.	Nakakadto na ak india.
+I have been to Kyoto.	Nakakadto na ak kyoto.
+I have been to Paris.	Nakakadto na ak paris.
+I have been to Paris.	Nakakadto na ak paris.
+I have bleeding gums.	Nagudugo akon lagos.
+I have caught a cold.	Nagka sip-on ak.
+I have caught a cold.	Nagka sip-on ak.
+I have cut my finger.	Nautod akon tudlo.
+I have cut my finger.	Nautod akon tudlo.
+I have four brothers.	Mayda ak upat na bugto.
+I have gained weight.	Nag dugang akon timbang.
+I have good eyesight.	Maupay akon mata.
+I have got to go now.	Kelangan ko na kumadto.
+I have got to go now.	Kelangan ko na kumadto.
+I have got to go now.	Kelangan ko na kumadto.
+I have lost my watch.	Nawara ko akon relo.
+I have misjudged you.	Mali akon pagkakilala sa imo.
+I have misjudged you.	Mali akon pagkakilala sa imo.
+I have no more ideas.	Wara na ak iba na ideya.
+I have nothing to do.	Wara ak nahihimo.
+I have nowhere to go.	Wara ak makakadtoan.
+I have poor eyesight.	Diri maupay akon mata.
+I have read the book.	Nabasa ko na an libro.
+I have seen Mt. Fuji.	Nakakita na ak sa mt. fuji.
+I have three cameras.	Mayda ak tulo ka camera.
+I have to get to Tom.	Kinahanglan ko kumadto kay tom.
+I have to go to work.	Kinahanglan ko kumadto trabaho.
+I have to go to work.	Kinahanglan ko kumadto trabaho.
+I have to let you go.	Kinahanglan ko ikaw pakawalan.
+I have to pay for it.	Kinahanglan ko magbayad.
+I have to rent a car.	Kinahanglan ko mag renta sakyanan.
+I have to wear boots.	Kinahanglan ko mag sul'ot botas.
+I haven't even begun.	Wara pa ak magtikang.
+I haven't got it yet.	Wara ko pa nakuha.
+I haven't got it yet.	Wara ko pa nakuha.
+I heard a twig crack.	Nakabati ak liki sa sanga.
+I hired an assistant.	Nagkuha ak assistant.
+I hit on a good idea.	Mayda ak maupay na ideya.
+I hope Tom is coming.	Unta maabot si tom.
+I hope it's not true.	Unta diri ungod.
+I hope things change.	Unta magbago an mga bagay.
+I hope you like this.	Unta magustohon mo ini.
+I hugged her tightly.	Gin hangkop ko siya sin hugot.
+I intend to go there.	Nag plano ak na kumadto.
+I jog in the morning.	Nag jojogging ak kada aga.
+I jumped up and down.	Nalayog ak paigbaw ngan paubos.
+I just cracked a rib.	Me he roto una costilla.
+I just cut my finger.	Gin utod ko akon tudlo.
+I just cut my finger.	Gin utod ko akon tudlo.
+I just don't like it.	Na diri gudla ak.
+I just got back home.	Kakauli ko la sa balay.
+I just got this suit.	Kakapalit ko pala sini.
+I just hope it works.	Unta magana siya.
+I just hope it works.	Unta magana siya.
+I just made a friend.	Nagka sangkay ko bago.
+I just might do that.	Bangin himoon ko iton.
+I just moved to town.	Kakalbahin ko la sa siyudad.
+I just need a moment.	Karuyag ko mag-usahan.
+I just need a second.	Kinahanglan ko segundo.
+I just need some air.	Kinahanglan ko hangin.
+I just saw a panther.	Nakakita ak paanther.
+I just took a shower.	Kakaparigo ko pala.
+I keep thirteen cats.	Mayda ak 12 ka misay.
+I kept my mouth shut.	Gintikom ko akon baba.
+I kept my mouth shut.	Gintikom ko akon baba.
+I killed a duck once.	Nakapatay ak pato ka usa.
+I kind of liked that.	Gusto ko iton.
+I kind of liked them.	Gusto ko sira.
+I knew I had to come.	Maaram ak na maupod gud ak.
+I knew Tom very well.	Kilala ko gud si tom.
+I knew Tom very well.	Kilala ko gud si tom.
+I knew he didn't die.	Maaram ak na wara gud siya namatay.
+I knew it wasn't you.	Maaram ak na diri ikaw adto.
+I knew it wasn't you.	Maaram ak na diri ikaw adto.
+I knew you wanted me.	Maaram ak na karuyag mo ak.
+I knew you were sick.	Maaram ak na nagkasakit ka.
+I knew you'd be late.	Maaram ak na ma late ka jud.
+I knew you'd be late.	Maaram ak na ma late ka jud.
+I knew you'd find it.	Maaram ak na mabilngan mo jud.
+I knew you'd like it.	Maaram ak na mabilngan mo jud.
+I knew you'd like it.	Maaram ak na mabilngan mo jud.
+I know I can make it.	Maaram ak na mahimo ko jud.
+I know I should stay.	Maaram ak na magpabilin gud ak.
+I know Tom from work.	Nakilala ko si tom sa trabaho.
+I know about the job.	Maaram ak sadto na trabaho.
+I know about the job.	Maaram ak sadto na trabaho.
+I know about you two.	Maaram ak saiyo na duwa.
+I know all about Tom.	Maaram ak tungkol kay tom.
+I know how it sounds.	Maaram ak pano siton an tingog.
+I know how that goes.	Maaram ak pananuon iton.
+I know how that goes.	Maaram ak pananuon iton.
+I know it wasn't Tom.	Maaram ak na diri adto si tom.
+I know it's not fair.	Maaram ak na diri patas.
+I know lots of songs.	Damo ak maaram na tukar.
+I know lots of songs.	Damo ak maaram na tukar.
+I know that he knows.	Maaram ak na maaram siya.
+I know that he's Tom.	Maaram ak na si tom siya.
+I know the gentleman.	Kilala ko iton.
+I know this is tough.	Maaram ak na makuri ini.
+I know this is weird.	Maaram ak na kakaiba ini.
+I know this is weird.	Maaram ak na kakaiba ini.
+I know what happened.	Maaram ak sa nahitabo.
+I know what it means.	Maaram ak nano karuyag signgon sadto.
+I know what you mean.	Maaram ak saimo ginpapasabot.
+I know what you said.	Maaram ak saimo ginyakan.
+I know what you want.	Maaram ak saimo kinahanglan.
+I know what you want.	Maaram ak saimo kinahanglan.
+I know where to hide.	Maaram ak diin magtago.
+I know why he did it.	Maaram ak kaynano ginhimo niya adto.
+I know you mean well.	Maaram ak na maupay imo ginpapasabot.
+I know your language.	Maaram ak saimo lenggwahe.
+I led the discussion.	Ako an nanguna sa diskusyon.
+I left home at seven.	Kada alas siete ak na iwas sa balay.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left you a message.	Ginbilinan ko ikaw mensahe.
+I lent her my camera.	Ginpahuram ko siya sakon camera.
+I let go of the rope.	Ginbuhian ko an higot.
+I like Japanese food.	Karuyag ko an japanese na pagkaon.
+I like Japanese food.	Me gusta la comida japonesa.
+I like bright colors.	Naupayan ak sa mga maghayag na kulay.
+I like bright colors.	Naupayan ak sa mga maghayag na kulay.
+I like canned fruits.	Karuyag ko an mga prutas sa delata.
+I like coffee better.	Mas karuyag ko an kape.
+I like her very much.	Naruyag ak saiya ura-ura.
+I like her very much.	Naruyag ak saiya ura-ura.
+I like him very much.	Naruyag ak saiya ura-ura.
+I like how it sounds.	Naupayan ak kon pano an tingog.
+I like my steak rare.	Karuyag ko akon steak na rare.
+I like painting, too.	Karuyag ko liwat an painting.
+I like reading books.	Karuyag ko magbasa libro.
+I like to be at home.	Karuyag ko na ada la sa balay.
+I like to drink milk.	Karuyag ko mag inom gatas.
+I like to eat sweets.	Karuyag ko magkaon mga mag tam-is.
+I like to play poker.	karuyag ko mag uyag pokers.
+I like to read books.	Karuyag ko magbasa libro.
+I like to wear clogs.	Karuyag ko mag sul-ot bakya.
+I like to win prizes.	Karuyag ko magdaog na mga premyo.
+I like walking alone.	Karuyag ko maglakat na nag uusahan.
+I like your attitude.	Naruyag ak saimo attitude.
+I listened carefully.	Namati ak sin tuhay.
+I live a simple life.	Simple la akon kinabuhi.
+I live in Boston now.	Naistar ak yana sa boston.
+I live in Kazakhstan.	Naistar ak yana sa kazakhstan.
+I live in a big city.	Naistar ak sa dako na siyudad.
+I live in this hotel.	Naistar ak didi na hotel.
+I live near the dike.	Naistar ak harani sa dike.
+I looked for my room.	Ginbiling ko akon room.
+I looked for the key.	Ginbiling ko an susi.
+I lost consciousness.	Nawaraan ak malay.
+I lost my flashlight.	Nawara ko an flashlight.
+I lost my house keys.	Nawara ko an susi sakon balay.
+I lost my sunglasses.	Nawara ko akon sunglasses.
+I lost track of time.	Nawaraan ak oras.
+I love American food.	Karuyag ko an mga american food.
+I love French coffee.	Karuyag ko an french coffee.
+I love French movies.	Karuyag ko an mga french na palabas.
+I love green peppers.	Karuyag ko an mga green an peppers.
+I love reading books.	Karuyag ko magbinasa libro.
+I love reading books.	Karuyag ko magbinasa libro.
+I love the food here.	Karuyag ko an mga pagkaon didi.
+I love your daughter.	Ginhigugma ko imo anak.
+I loved it in Boston.	Mahal ko an boston.
+I made a paper plane.	Naghimo ak papel na eroplano.
+I majored in history.	Nag major ak sa kasaysayan.
+I married a Canadian.	Nagpakasal ak sa canadian.
+I may as well go now.	Kinahanglan ko na liwat lumakat yana.
+I mean no disrespect.	Diri ko intensyon na makainsulto.
+I meant it as a joke.	Nagtitiaw la ak sadto.
+I meant it as a joke.	Nagtitiaw la ak sadto.
+I met Mary yesterday.	Nakilala ko si mary kakulop.
+I met Tom after work.	Nakilala ko si tom pagtapos sa trabaho.
+I met Tom after work.	Nakilala ko si tom pagtapos sa trabaho.
+I met Tom on the way.	Nakilala ko si tom sa dalan.
+I met him about noon.	Nakilala ko siya mga udto.
+I might vote for Tom.	Botohan ko bangin si tom.
+I might vote for Tom.	Botohan ko bangin si tom.
+I miss Paris so much.	Ginmimingaw na ak sa paris.
+I miss you very much.	Ginmimingaw na ak saimo ura-ura.
+I missed you so much.	Ginmingaw gud ak saimo ura-ura.
+I need a clean shirt.	Kinahanglan ko limpyo na bado.
+I need a good lawyer.	Kinahanglan ko sin maupay na abogado.
+I need a larger room.	Kinahanglan ko sin dako na kwarto.
+I need a little help.	Kinahanglan ko guti na bulig.
+I need a new bicycle.	Kinahanglan ko bago na bisikleta.
+I need an answer now.	Kinahanglan ko baton yana.
+I need more blankets.	Kinahanglan ko pa taklap.
+I need more blankets.	Kinahanglan ko pa taklap.
+I need more practice.	Kinahanglan ko pa practice.
+I need to buy stamps.	Kinahanglan ko pa magpalit stamps.
+I need to find a job.	Kinahanglan ko mamiling trabaho.
+I need to find a job.	Kinahanglan ko mamiling trabaho.
+I need to go to work.	Kinahanglan ko kumadto trabaho.
+I need to read a lot.	Kinahanglan ko magbasa pa.
+I need to save money.	Kinahanglan ko mag ipon kwarta.
+I need to see it now.	Kinahanglan ko makita iton yana.
+I need to study math.	Kinahanglan ko mag aram math.
+I need to take notes.	Kinahanglan ko magsurat sa mga importante.
+I need you in Boston.	Kinahanglan ko ikaw sa boston.
+I never asked for it.	Wara ko iton gin aro.
+I never gave up hope.	Wara ak nawaraan paglaom.
+I never speak French.	Wara ak nagyakan french.
+I never travel alone.	Wara ak nag byahe na mag usahan.
+I no longer like you.	Diri na ak saimo naruyag.
+I no longer love him.	Diri ko na siya mahal.
+I often go to Boston.	Nakadto ak sa boston danay.
+I once lived in Rome.	Nakaistar ak sadto sa rome.
+I only have a minute.	Mayda la ak usa ka minuto.
+I only need a minute.	Kinahanglan ko la usa ka minuto.
+I only saw the apple.	Nakit-an ko la an apple.
+I owe a lot of money.	Dako akon huram na kwarta.
+I owe him 10 dollars.	10 dollars akon huram saiya.
+I owe him some money.	May huram ak saiya kwarta.
+I owe you an apology.	Kinahanglan ko mangaro pasaylo saimo.
+I paid $200 in taxes.	Nagbayad ak $200 sa tax.
+I put on my trousers.	Gin sul-ot ko akon trousers.
+I put on my trousers.	Gin sul-ot ko akon trousers.
+I ran like lightning.	Dumalagan ak sin makusog.
+I ran like lightning.	Dumalagan ak sin makusog.
+I really ought to go.	Kinahanglan ko gud kumadto.
+I refuse to allow it.	Wara ak tumugot na tugotan.
+I regret going there.	Nagbasol ak na kumadto ak.
+I rejected the offer.	Wara ko ginkarawat an offer sa akon.
+I rejected the offer.	Wara ko ginkarawat an offer sa akon.
+I remember this word.	Nadumduman ko adto na yakan.
+I resemble my mother.	Kanawong ko akon mama.
+I said it might rain.	Yakan ak na bangin umuran.
+I said it might rain.	Yakan ak na bangin umuran.
+I sang for two hours.	Duwa ka oras ak nagkinanta.
+I sang for two hours.	Duwa ka oras ak nagkinanta.
+I saw Tom last night.	Nakita ko si tom kagabi.
+I saw Tom shoot Mary.	Nakita ko si tom na ginpusil si mary.
+I saw a sleeping dog.	Nakakita ak na natuturog na ayam.
+I saw her a week ago.	Nakitan ko siya sadto na semana.
+I saw it on the news.	Nakitan ko sa balita.
+I saw nothing at all.	Wara ak nakitan.
+I sent you an e-mail.	Gin pasahan ko ikaw email.
+I seriously doubt it.	Nagdududa gud ak siton.
+I share your concern.	Pareto kit ginkakabarak-an.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should talk to Tom.	Ginhampang ko unta si tom.
+I should've told you.	Ginyaknan ko unta ikaw.
+I should've told you.	Ginyaknan ko unta ikaw.
+I showed Tom the way.	Ginpakita ko kay tom an agian.
+I showed Tom the way.	Ginpakita ko kay tom an agian.
+I showed her my room.	Ginpakita ko saiya akon kwarto.
+I showed her my room.	Ginpakita ko saiya akon kwarto.
+I showed him the way.	Ginpakita ko saiya an agian.
+I slept on the couch.	Nakaturog ak sa lingkuran.
+I solved the mystery.	Na solosyonan ko an misteyoso.
+I sort of understand.	Naintindihan ko guti.
+I started this topic.	Ako nagtikang san topic.
+I still don't see it.	Di ko la gihap nakukuha.
+I still remember you.	Nahinumduman ko gihapon ikaw.
+I think I understand.	Naintindihan ko.
+I think I understood.	Naintindihan ko.
+I think I understood.	Naintindihan ko.
+I think I'm pregnant.	Burod ak ada.
+I think Tom is harsh.	Ka harsh ni Tom.
+I think Tom is lucky.	Ka swerti ni Tom.
+I think Tom is lying.	Bagan nagbubuwa si Tom.
+I think Tom is naive.	Bagan wara bu-ot si Tom.
+I think Tom is right.	Para sakon tama si tom.
+I think Tom won't go.	para sakon diri maiwas si tom.
+I think he likes you.	naruyag siya saimo.
+I think my mom knows.	maaram akon mama.
+I think that's wrong.	maaram ak na mali iton.
+I think they know me.	bagan kilala ak nira.
+I think they know us.	bagan kilala kit nira.
+I think this is dumb.	diri ini mao.
+I think we need help.	kelangan naton bulig.
+I think you heard me.	bagan nabatian mo man ak.
+I think you panicked.	bagan nag panic ka.
+I think you're lying.	bagan nagbubuwa ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're wrong.	bagan mali ka.
+I thought it was Tom.	sabot ko si tom.
+I told Tom about you.	gin istoryahan ko si tom tungkol saimo.
+I told Tom the truth.	ginyakan ko kay tom an kamatuoran.
+I told her not to go.	ginyaknan ko siya na ayaw pag-iwa.
+I traveled by myself.	lumakat ak na ako la.
+I traveled to Boston.	lumakat ak pakadto boston.
+Go.	lakat.
+Go.	Vete.
+Go.	Vaya.
+Go.	Váyase.
+Hi.	hi.
+Run!	Dalagan!
+Run.	Dalagan.
+Who?	Sino?
+Fire!	Kalayo!
+Fire!	Kalayo!
+Fire!	Kalayo!
+Help!	Bulig!
+Help!	Bulig! Bulig!
+Help!	Bulig!
+Jump!	Layog!
+Jump.	Layog.
+Stop!	Undang!
+Stop!	Undang!
+Stop!	Undang!
+Wait!	Hulat!
+Wait.	Hulat.
+Go on.	Padayon.
+Go on.	Padayon.
+Hello!	Hello.
+I ran.	Dumalagan ak.
+I ran.	Dumalagan ak.
+I try.	Gin try ko.
+I won!	Nagdaog ak!
+Oh no!	Oh, no!
+Relax.	Kalma.
+Smile.	Tawa.
+Attack!	Atake!
+Attack!	Atake!
+Get up.	Bakdaw.
+Go now.	Adto na.
+Got it!	Nakuna ko na!
+Got it?	Nakuha ko na?
+Got it?	Nakuha ko na?
+He ran.	Dumalagan siya.
+Hop in.	Sakay na.
+Hug me.	Hangkopi ak.
+I fell.	Nahulog ak.
+I know.	Maaram ak.
+I left.	Umiwas ak.
+I lied.	Nagbuwa ak.
+I lost.	Nawara ak.
+I quit.	Umundang ak.
+I quit.	Umundang ak.
+I work.	Nagtrabaho ak.
+I'm 19.	19 na ak.
+Listen.	Pamati.
+Listen.	Pamati.
+Listen.	Pamati.
+Really?	Balitaw?
+Really?	Balitaw?
+Thanks.	Salamat!
+Thanks.	Salamat.
+Try it.	Tistinge.
+We try.	Gintistingan namon.
+We won.	Nagdaog kami.
+Why me?	Kaynaman ako?
+Ask Tom.	Pakianhi si Tom.
+Awesome!	Kaupay!
+Be calm.	Kalma la.
+Be cool.	Kalma la.
+Be fair.	Maging Patas.
+Be kind.	Maging Buotan.
+Be nice.	Maging buotan.
+Call me.	Tawage ak.
+Call me.	Tawage ak.
+Call me.	Tawage ak.
+Call us.	Tawage kami.
+Come in.	Sulod.
+Come in.	Sulod.
+Come in.	Sulod!
+Come on!	Dali na!
+Come on.	Dali na.
+Come on.	Dali na!
+Drop it!	Ibutang.
+Get Tom.	Kuhaa si tom.
+Get out!	Gawas.
+Get out.	Gawas.
+Get out.	Gawas.
+Get out.	Gawas.
+Get out.	Gawas.
+Get out.	Gawas.
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away!	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida!
+Go away.	Iwas dida.
+Go away.	Iwas dida.
+Go home.	Uli na.
+Hang on!	Dida ka la!
+Hang on!	Anay!
+Hang on!	Anay!
+Hang on.	Anay.
+He came.	Umabot siya.
+He quit.	Umundang siya.
+Help me!	Buligi ak!
+Help me.	Buligi ak.
+Help me.	Buligi ak.
+Help me.	Buligi ak.
+Help us.	Buligi kami.
+Hit Tom.	Balbaga si tom.
+Hold it!	kapoti.
+Hold on.	Pabilin.
+Hold on.	Pabilin.
+Hold on.	Pabilin.
+Hug Tom.	Hangkopi si tom.
+I bowed.	Nag duko ak.
+I moved.	Bumalhin ak.
+I moved.	Bumalhin ak.
+I moved.	Bumalhin ak.
+I moved.	Bumalhin ak.
+I slept.	Nahingaturog ak.
+I tried.	Gin tistingan ko.
+I'll go.	Makadto ak.
+I'm Tom.	Ako si tom.
+I'm fat.	Matambok ak.
+I'm fat.	Matambok ak.
+I'm hit!	Naigo ak.
+I'm old.	Lagas na ak.
+I'm shy.	Naawud ak.
+I'm wet.	Basa ak.
+It's OK.	Okay la.
+It's me!	Ako ini.
+It's me.	Ako ini.
+Join us.	Ungay sa amon.
+Join us.	Ungay sa amon.
+Keep it.	Guárdalo.
+Me, too.	Ako, liwat.
+Open up.	Abrihi.
+Perfect!	Perpekto!
+See you.	Magkita kit.
+Show me.	Pakit-a ak.
+Show me.	Pakit-a ak.
+Show me.	Pakit-a ak.
+Shut up!	Paghilom!
+Shut up!	Paghilom!
+Skip it.	Laktawa la.
+So long.	Kataas.
+So long.	Kataas.
+Stop it.	Undangi la.
+Stop it.	Undangi la.
+Take it.	Kuwaa la.
+Tell me.	Iyakan sa akon.
+Tom ate.	Kumaon si tom.
+Tom ran.	Dumalagan si tom.
+Tom won.	Nagdaog si tom.
+Wait up.	Hulat.
+Wake up!	Mata na!
+Wake up!	Mata na!
+Wake up!	Mata na!
+Wake up.	Mata na.
+Wash up.	Paghugas.
+We care.	May pakialam kami.
+We know.	Maaram kami.
+We lost.	Napirdi kami.
+Welcome.	Dayon kam.
+Welcome.	Dayon kam.
+Who ate?	Sino kumaon?
+Who ran?	Sino dumalagan?
+Who ran?	Sino dumalagan?
+Who won?	Sino nagdaog?
+Who won?	Sino nagdaog?
+Why not?	Naman diri?
+You run.	Dumalagan ka.
+You won.	Nagdaog ka.
+Am I fat?	Tambok ak?
+Ask them.	Pakiana saira.
+Ask them.	Pakiana saira.
+Back off!	Iwas dida!
+Back off	Iwas dida.
+Be a man.	Pagpaka lalaki.
+Be brave.	Pagpaka isog.
+Be quiet.	Ayaw aringasa.
+Be still.	Hulat la.
+Call Tom.	Tawagi si tom!
+Call Tom.	Tawagi si tom!
+Call Tom.	Tawagi si tom!
+Cool off!	Kalma!
+Cuff him.	Po.
+Don't go.	Ayaw pag-iwas.
+Drive on.	Continúa.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Find Tom.	Bilnga si tom.
+Fix this.	Upaya adi.
+Get away!	Iwas!
+Get away!	Iwas!
+Get away!	Iwas!
+Get away!	Iwas!
+Get down!	Ubos.
+Get down.	Ubos.
+Get down.	Ubos.
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost!	Layas!
+Get lost.	Layas.
+Get real!	Pagpakatotoo!
+Get real!	Pagpakatotoo!
+Get real.	Pagpakatotoo.
+Go ahead!	Padayon.
+Go ahead.	Padayon.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sulod.
+Go on in.	Sul
+Grab Tom.	Kuhaa si tom.
+Grab him.	Kuhaa siya.
+Have fun.	Diviértanse.
+Have fun.	Pagpakasaya.
+Have fun.	Pagpakasaya.
+He spoke.	Nagyakan siya.
+He tries.	Nag tisting siya.
+He tries.	Nag tisting siya.
+Help Tom.	Buligi si tom.
+Help him.	Buligi si tom.
+How cute!	Ka cute!
+How deep?	Nano kalarom?
+How deep?	Nano kalarom?
+Humor me.	Pataw'a ak.
+Humor me.	Pataw'a ak.
+Hurry up.	Dalia!
+Hurry up.	Dalia.
+I agreed.	Natugot ak.
+I agreed.	Natugot ak.
+I agreed.	Natugot ak.
+I am fat.	Tambok ak.
+I am old.	Lagas na ak.
+I ate it.	Ginkaon ko.
+I ate it.	Ginkaon ko.
+I can go.	Makakadto ak.
+I did OK.	Ok akon nahimo.
+I did it.	Nahimo ko.
+I forgot.	Nahingalimot ak.
+I get by.	Me las arreglo.
+I get it.	Nakuha ko.
+I got it.	Nakuha ko.
+I phoned.	Nagtawag ak.
+I refuse.	Warak tumugot.
+I resign.	Nag resign ak.
+I resign.	Nag resign ak.
+I saw it.	Nakitan ko.
+I smiled.	Nagtawa ak.
+I stayed.	Nagpabilin ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I talked.	Nagyakan ak.
+I use it.	Gingamit ko.
+I waited.	Naghulat ak.
+I'll pay.	Ako magbayad.
+I'm back.	Bumalik ak.
+I'm back.	Bumalik ak.
+I'm bald.	Kalbo ak.
+I'm bald.	Kalbo ak.
+I'm calm.	Kalmado ak.
+I'm cool.	Cool ak.
+I'm done.	Tapos na ak.
+I'm easy.	Masayon la ak.
+I'm fair.	Patas ak.
+I'm fine.	Okay la ak.
+I'm free!	Malaya na ak!
+I'm free.	Malaya na ak.
+I'm full.	Busog na ak.
+I'm full.	Busog na ak.
+I'm full.	Busog na ak.
+I'm here.	Adi na ak.
+I'm home.	Adi naak.
+I'm hurt.	Nasakitan ak.
+I'm late.	Urhi na ak.
+I'm lazy.	Hubya ak.
+I'm lost.	Nawawara ak.
+I'm mean.	Maldita ak.
+I'm next.	Sunod na ak.
+I'm okay.	Okay la ak.
+I'm poor.	Pobre ak.
+I'm rich.	Mayaman ak.
+I'm rich.	Mayaman ak.
+I'm safe.	Estoy a salvo.
+I'm sick.	May sakit ak.
+I'm thin.	Gasa ak.
+I'm tidy.	Malipmya ak.
+I'm warm.	Mapaso ak.
+I'm weak.	Maluya ak.
+I'm wise.	Wais ak.
+I've won.	Nagdaog ak.
+It helps.	Nakabulig siya.
+It hurts.	Masakit siya.
+It works.	Nag work siya.
+It's Tom.	Si tom ni.
+It's fun.	Maupay siya.
+It's his.	Iya ini.
+It's new.	Bago ini.
+It's old.	Lagas na.
+It's red.	Pula siya.
+Keep out!	Magpahirayo.
+Keep out.	Magpahirayo.
+Kiss Tom.	Haroki si tom.
+Kiss Tom.	Haroki si tom.
+Kiss Tom.	Haroki si tom.
+Leave it.	Biyai na.
+Leave me.	Biyai ak.
+Leave us.	Biyai kami.
+Let's go!	Dali na.
+Let's go!	Dali na!
+Look out!	Kitaa.
+Marry me.	Pakasala ak.
+May I go?	Pwede ak kumadto?
+Save Tom.	Isalba si tom.
+She came.	Umabot siya.
+She died.	Namatay siya.
+She runs.	Dumalagan siya.
+Sit down!	Lingkod!
+Sit down.	Lingkod.
+Sit here.	Lingkod didi.
+Speak up!	Pagyakan!
+Speak up!	Pagyakan.
+Speak up!	Pagyakan!
+Stand up!	Bakdaw!
+Stand up!	Bakdaw!
+Stay put.	Dida ka la.
+Stop Tom.	Pugngi si tom.
+Take Tom.	Kuwaa si tom.
+Tell Tom.	Iyakan kan tom.
+They won.	Nagdaog sira.
+Tom came.	Umabot si tom.
+Tom died.	Namatay si tom.
+Tom fell.	Nahulog si tom.
+Tom knew.	Maaram si tom.
+Tom knew.	Maaram si tom.
+Tom left.	Umiwas si tom.
+Tom lied.	Nagbuwa si tom.
+Tom lies.	Nagbuwa si tom.
+Tom lost.	Nawara si tom.
+Tom paid.	Nagbayad si tom.
+Tom quit.	Umundang si tom.
+Tom swam.	Naglangoy si tom.
+Tom wept.	Nagtangis si tom.
+Too late.	Urhi na.
+Trust me.	Tapod sakon.
+Try hard.	Paningkamot pag-upay.
+Try some.	Tistingi.
+Try some.	Tistingi.
+Try some.	Tistingi.
+Try this.	Tistingi ini.
+Try this.	Tistingi ini.
+Try this.	Tistingi ini.
+Use this.	Gamita ini.
+Watch me.	Kitaa ak.
+Watch me.	Kitaa ak.
+Watch me.	Kitaa ak.
+Watch us.	Kitaa kami.
+Watch us.	Kitaa kami.
+We agree.	Natugot kami.
+We tried.	Gin tistingan namon.
+We'll go.	Maadto kami.
+We're OK.	Ok la kami.
+What for?	Para sa?
+What fun!	Nano na kalipay!
+Who am I?	Sino ak?
+Who came?	Sino umabot?
+Who died?	Sino namatay?
+Who fell?	Sino nahulog?
+Who fell?	Sino nahulog?
+Who quit?	Sino umundang?
+Who quit?	Sino umundang?
+Who swam?	Sino lumangoy?
+Who's he?	Sino siya?
+Write me.	Surata ak.
+After you.	Pagkatapos nimo.
+After you.	Pagkatapos nimo.
+After you.	Pagkatapos nimo.
+After you.	Pagkatapos nimo.
+After you.	Pagkatapos nimo.
+Aim. Fire!	Apunta. Kalayo!
+Answer me.	Batona ak.
+I admire his courage.	Naayon ak saiya kaisog.
+I admire your talent.	Naayon ak saiya talento.
+I admire your talent.	Naayon ak saimo talento.
+I admire your talent.	Naruyag ak saimo talento.
+I already apologized.	Nangaro naak pasaylo.
+I already apologized.	Nangaro naak pasaylo.
+I already called him.	Tumawag naak saiya.
+I already tried that.	Na tistingan ko na iton.
+I also like painting.	Karuyag ko liwat an painting.
+I also like painting.	Karuyag ko liwat an painting.
+I always believe you.	Natuod ak saimo permi.
+I always feel hungry.	Permi ak gingugutom.
+I am a stranger here.	Stranghero lak didi.
+I am a tennis player.	Tennis player ak.
+I am a tennis player.	Tennis player ak.
+I am afraid of bears.	Hadlok ak sa oso.
+I am afraid of dying.	Hadlok ak mamatay.
+I am also unemployed.	Wara ak liwat trabaho.
+I am better than you.	Mas maupay paak kesa saimo.
+I am building a wall.	Naghihimo ak bungbong.
+I am counting on you.	Nagtapod ak saimo.
+I am drinking coffee.	Nag iinom ak kape.
+I am driving a truck.	Nag drive ak truck.
+I am driving a truck.	Nag drive ak truck.
+I am eating an apple.	Nagkakaon ak mansanas.
+I am eating an apple.	Nagkakaon ak mansanas.
+I am fond of reading.	Ganahan ak magbasa.
+I am forced to do it.	Gin pwersa ak paghimo sadto.
+I am getting dressed.	Nagliliwan na ak.
+I am getting dressed.	Nagliliwan na ak.
+I am glad to see her.	Nalipay ak sa nakitan ko siya.
+I am going to school.	Makadto ak school.
+I am laughing at Tom.	Naghingatawa ak kay tom.
+I am laughing at you.	Nahingatawa ak saimo.
+I am like my brother.	Pareho ak sakon Bugto.
+I am milking my goat.	Gingagatasan ko an kanding.
+I am mopping my room.	Nag momop ak sa room.
+I am not leaving you.	Diri ak mabaya sa imo.
+I am not leaving you.	Diri ak mabaya sa imo.
+I am stirring my tea.	Gin uukay ko akon tsaa.
+I am sure of success.	Sigurado ak sa success.
+I am terribly hungry.	Gutom nak ura-ura!
+I am waiting my turn.	Naghuhulat ak sakon torno.
+I am wasting my time.	Nagkakarag ak sakon oras.
+I am writing a novel.	Nagsusurat ak nobela.
+I apologize for that.	Pasayloa ak sadto.
+I asked Tom to do it.	Nagpa alayon ak kay tom na himoon.
+I asked Tom to drive.	Nagpa alayon ak kay tom pag drive.
+I asked Tom to drive.	Nagpa alayon ak kay tom pag drive.
+I asked Tom to hurry.	Ginpadali ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked Tom to leave.	Ginpa iwas ko si tom.
+I asked for his help.	Nangaro ak saiya bulig.
+I asked her to dance.	Ginpa sayaw ko siya.
+I ate eggs yesterday.	Kumaon ak itlog kakulop.
+I ate fish yesterday.	Kumaon ak isda kakulop.
+I ate fish yesterday.	Kumaon ak isda kakulop.
+I ate three hot dogs.	Nagkaon ak 3 hotdogs.
+I awoke from a dream.	Nahingamata ak sa inop.
+I bear him no malice.	Waray ak mailsya saiya.
+I beg you to help me.	Nagmakalooy ak na buligan mo ak.
+I beg you to help us.	Nagmakalooy ak na buligan mo ak.
+I begged Tom to stay.	Nagmakalooy ak kay tom na magpabilin.
+I believe your story.	Natuod ak saimo storya.
+I borrowed Tom's car.	Ginhuram ko kay tom sakyanan.
+I bought a red diary.	Nagpalit ak pula na diary.
+I bought an old lamp.	Nagpalit ak luma na lampara.
+I bought an umbrella.	Nagpalit ak payong.
+I bought fresh bread.	Nagpalit ak presko na tinapay.
+I bought her a clock.	Ginpalitan ko siya relo.
+I bought her a watch.	Ginpalitan ko siya relo.
+I bought it from Tom.	Ginpalit ko kay tom.
+I broke my right leg.	Nabali akon tuo na paa.
+I broke your ashtray.	Narubat ko imo ashtray.
+I brought it for you.	Ginpalit ko para saimo.
+I burnt my fingertip.	Nasunog ko akon fingertip.
+I came here to study.	Kumadi ak para mag-aram.
+I came here with Tom.	Kumadi ak kaupod si tom.
+I can do this myself.	Kaya ko ini mahimo.
+I can eat it in here.	Makaon ko ini didi.
+I can hardly breathe.	Nagkukuri ak paghinga.
+I can ride a bicycle.	Maaram ak mag bisikleta.
+I can start tomorrow.	Makatikang ak buwas.
+I can still hear you.	Nababatian ko pa ikaw.
+I can still help you.	Pwede ko pa ikaw buligan.
+I can swim very fast.	Malaksi ak lumangoy.
+I can't afford a car.	Diri ak ka afford sakyanan.
+I can't believe that.	Diri ak matuod siton.
+I can't believe this.	Diri ak makapaniwala sini.
+I can't do it either.	Diri liwat nakon mahimo.
+I can't do that, sir.	Diri ko iton mahimo, sir.
+I can't even do that.	Diri ko iton kaya.
+I can't feel my legs.	Diri ko maramdaman akon paa.
+I can't feel my toes.	Diri ko maramdaman akon tiil.
+I can't find my keys.	Diri ko mabilngan akon susi.
+I can't find my pipe.	Diri ko mabilngan akon tubo.
+I can't get involved.	Diri ak pwede mahiungay.
+I can't hide forever.	Diri ak pwede magtago habang buhay.
+I can't kiss you now.	Diri ko pa ikaw pwedde harokan sa yana.
+I can't leave Boston.	Diri ko pwede bayaan an Boston.
+I can't move my legs.	Diri ko makiwa akon paa.
+I can't see anything.	Diri ak makakita.
+I can't see anything.	Diri ak makakita.
+I can't shut it down.	Diri ko maparong.
+I can't speak French.	Diri ak maaram magyakan french.
+I can't speak German.	Diri ak maaram magyakan german.
+I can't speak German.	Diri ak maaram magyakan german.
+I can't stop smoking.	Diri ak nakakaundang pag sigarilyo.
+I can't stop writing.	Diri ak nakakaundang pag sigarilyo.
+I can't tell you yet.	Diri ko pa pwede igyakan sa yana.
+I can't wait all day.	Diri ak pwede maghulat bugos adlaw.
+I can't wait for you.	Diri ko ikaw mahuhulat.
+I can't wait forever.	Diri ak makahulat habang buhay.
+I can't wait forever.	Diri ak makahulat habang buhay.
+I cannot drive a bus.	Diri ak maka drive bus.
+I cannot read French.	Diri ak maaram magbasa french.
+I caused an accident.	Naghimo kog aksidenti.
+I choose to be happy.	Ginpili ko maging malipayon.
+I cleared up my desk.	Gin limpyahan ko akon lamesa.
+I closed my umbrella.	Ginsara ko an payong.
+I collect rare coins.	Nag kolekta ak panagsa na sensilyo.
+I count on your help.	Nagsalig ak saimo bulig.
+I crossed the street.	Tumabok ak sa agian.
+I daydreamed all day.	Nag inop ak tibuok adlaw.
+I did it a few times.	Ginhimo ko kapira kabeses.
+I did that at school.	Ginhimo ko iton sa iskwelahan.
+I did that at school.	Ginhimo ko iton sa iskwelahan.
+I did that in school.	Ginhimo ko iton sa iskwelahan.
+I did that in school.	Ginhimo ko iton sa iskwelahan.
+I did that willingly.	Ginhimo ko na bukal sa loob.
+I didn't ask for you.	Wara ak nangaro saimo.
+I didn't believe you.	Diak natuod saimo.
+I didn't do anything.	Wara ak ginhimo na iba.
+I didn't do anything.	Wara ak ginhimo na iba!
+I didn't expect help.	Wara ak nag aro bulig.
+I didn't tell anyone.	Wara ak ginsumatan iba.
+I didn't want to die.	Nadiri ak mamatay.
+I disagree with that.	Diri ak natugot siton.
+I dislike big cities.	Diri ko gusto an dagko na siyudad.
+I do not feel guilty.	Wara ak nakonsensya.
+I do not like spring.	Nadiri ak san spring.
+I do owe Tom a favor.	Mayda ak utang na pabor kay tom.
+I do owe Tom a favor.	Mayda ak utang na pabor kay tom.
+I don't care for him.	Wara ak labot saiya.
+I don't get out much.	Diri ak nagawas jud.
+I don't go to school.	Diri ak nakadto school.
+I don't have a fever.	Wara ak harumohom.
+I don't have a sword.	Wara ak espada.
+I don't have all day.	Wara ak tibuok na adlaw.
+I don't have enemies.	Wara ak kaaway.
+I don't have the key.	Wara sakon an susi.
+I don't hear a thing.	Wara ak nabatian.
+I don't know English.	Diri ak maaram mag ingles.
+I don't know Russian.	Diri ak maaram mag russian.
+I don't know exactly.	Diri ak jud maaram.
+I don't know exactly.	Diri ak jud maaram.
+I don't like English.	Nadiri ak san english.
+I don't like cooking.	Nadiri ak pagluto.
+I don't like doctors.	Nadiri ak san doctor.
+I don't like oysters.	Nadiri ak san oyster.
+I don't like silence.	Nadiri ak san mingaw.
+I don't like spiders.	Nadiri ak san spider.
+I don't like to cook.	Nadiri ak pagluto.
+I don't like to walk.	Nadiri ak paglakat.
+I don't mind anymore.	Wara na ak labot.
+I don't mind anymore.	Wara na ak labot.
+I don't mind waiting.	Okay ra sakon maghulat.
+I don't mind walking.	Okay ra sakon maglakat.
+I don't normally lie.	Diri ak basta basta mamatay.
+I don't recognize it.	Wara ko nakilal-i.
+I don't remember you.	Wara ko ikaw madumduman.
+I don't remember you.	Wara ko ikaw madumduman.
+I don't see anything.	Wara ak nakikitan.
+I don't speak German.	Diri ak nagyayakan german.
+I don't speak German.	Diri ak nagyayakan german.
+I don't speak Hebrew.	Diri ak nagyayakan hebreo.
+I don't trust anyone.	Diri ak natapod bisan kanino.
+I don't use Facebook.	Diri ak nagamit facebook.
+I don't want charity.	Diri ko gusto an charity.
+I don't want to cook.	Nadiri ak pagluto.
+I don't want to know.	Nadiri ak mahibaruan.
+I don't want to know.	Nadiri ak mahibaruan.
+I don't want to lose.	Nadiri ak mawara.
+I don't want to swim.	Nadiri ak paglangoy.
+I don't want to wait.	Nadiri ak paghulat.
+I don't want trouble.	Nadiri ak sin simok.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I drank from the tap.	Nag inom ak sa gripo.
+I eat here every day.	Nagkakaon ak didi permi.
+I enjoy working here.	Nalilipay ak pag trabaho didi.
+I enjoy working here.	Nalilipay ak pag trabaho didi.
+I expect much of him.	Espero mucho de él.
+I feel safe with you.	Kampante ak saimo.
+I feel safe with you.	Kampante ak saimo.
+I feel sorry for Tom.	Nairohan ak kay tom.
+I felt like an idiot.	Baga ak sin lipong.
+I felt like an idiot.	Baga ak sin lipong.
+I finally understand.	Naintindihan ko na gihapon.
+I followed the rules.	Nasunod ak sa balaud.
+I forget who said it.	Nahingalimot ak sino nagyakan.
+I forgot his address.	Nahingalimot ak saiya address.
+I forgot his address.	Nahingalimot ak saiya address.
+I found it by chance.	Nabilngan ko.
+I gave Tom a blanket.	Gintagan ko si tom habol.
+I got an A in French.	Nakakuha ak A sa french.
+I got myself a drink.	Nagkuha ak irimnon para sakon.
+I got stung by a bee.	Natusok ak sa bubuyog.
+I grew up doing this.	Nagdako ak na ginhihimo ini.
+I had a busy morning.	Ka busy ko sa buntag.
+I had a lovely night.	Kamingaw sa akon gabi.
+I had a tooth pulled.	Nagpagabot ak tango.
+I had a very bad day.	Diri maupay akon adlaw.
+I had my watch fixed.	Wara ko na siya nakitan.
+I had no alternative.	Wara ak altenatibo.
+I had no time to eat.	Wara ak oras para kumaon.
+I had to let Tom win.	Kelangan mapadaog ko si tom.
+I had to let Tom win.	Kelangan mapadaog ko si tom.
+I hate Tom's parents.	Nadiri ak san kag-anak ni tom.
+I hate cops like him.	Nadiri ak sa pulis na pareho saiya.
+I hate jealous women.	Nadiri ak sa selosa na babaye.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate playing cards.	Nadiri ak pag uyag cards.
+I hate silent movies.	Nadiri ak sa mamingaw na palabas.
+I hate silent movies.	Nadiri ak sa mamingaw na palabas.
+I have a better idea.	Mayda ak maupay na ideya.
+I have a big problem.	Mayda ak dako na problema.
+I have a big problem.	Mayda ak dako na problema.
+I have a green shirt.	Mayda ak green na bado.
+I have a job for you.	Mayda ak trabaho para saimo.
+I have a job for you.	Mayda ak trabaho para saimo.
+I have a new bicycle.	Mayda ak bago na bisikleta.
+I have a new red car.	Mayda ak bago na pula na sarakyan.
+I have a red bicycle.	Mayda ak pula na bisikleta.
+I have a sharp knife.	Mayda ak matarom na kutsilyo.
+I have a small fever.	Ginhatomohom ak guti.
+I have a sore throat.	Mayda ak sore throat.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a stomachache.	Masakit akon tiyan.
+I have a twin sister.	Mayda ak kambal na babaye.
+I have a wooden comb.	Mayda ak kahoy na sudlay.
+I have back problems.	Mayda problema akon likod.
+I have been in Paris.	Nakakadto na ak paris.
+I have been in Paris.	Nakakadto na ak paris.
+I have been in Paris.	Nakakadto na ak paris.
+I have been to India.	Nakakadto na ak india.
+I have been to Kyoto.	Nakakadto na ak kyoto.
+I have been to Paris.	Nakakadto na ak paris.
+I have been to Paris.	Nakakadto na ak paris.
+I have bleeding gums.	Nagudugo akon lagos.
+I have caught a cold.	Nagka sip-on ak.
+I have caught a cold.	Nagka sip-on ak.
+I have cut my finger.	Nautod akon tudlo.
+I have cut my finger.	Nautod akon tudlo.
+I have four brothers.	Mayda ak upat na bugto.
+I have gained weight.	Nag dugang akon timbang.
+I have good eyesight.	Maupay akon mata.
+I have got to go now.	Kelangan ko na kumadto.
+I have got to go now.	Kelangan ko na kumadto.
+I have got to go now.	Kelangan ko na kumadto.
+I have lost my watch.	Nawara ko akon relo.
+I have misjudged you.	Mali akon pagkakilala sa imo.
+I have misjudged you.	Mali akon pagkakilala sa imo.
+I have no more ideas.	Wara na ak iba na ideya.
+I have nothing to do.	Wara ak nahihimo.
+I have nowhere to go.	Wara ak makakadtoan.
+I have poor eyesight.	Diri maupay akon mata.
+I have read the book.	Nabasa ko na an libro.
+I have seen Mt. Fuji.	Nakakita na ak sa mt. fuji.
+I have three cameras.	Mayda ak tulo ka camera.
+I have to get to Tom.	Kinahanglan ko kumadto kay tom.
+I have to go to work.	Kinahanglan ko kumadto trabaho.
+I have to go to work.	Kinahanglan ko kumadto trabaho.
+I have to let you go.	Kinahanglan ko ikaw pakawalan.
+I have to pay for it.	Kinahanglan ko magbayad.
+I have to rent a car.	Kinahanglan ko mag renta sakyanan.
+I have to wear boots.	Kinahanglan ko mag sul'ot botas.
+I haven't even begun.	Wara pa ak magtikang.
+I haven't got it yet.	Wara ko pa nakuha.
+I haven't got it yet.	Wara ko pa nakuha.
+I heard a twig crack.	Nakabati ak liki sa sanga.
+I hired an assistant.	Nagkuha ak assistant.
+I hit on a good idea.	Mayda ak maupay na ideya.
+I hope Tom is coming.	Unta maabot si tom.
+I hope it's not true.	Unta diri ungod.
+I hope things change.	Unta magbago an mga bagay.
+I hope you like this.	Unta magustohon mo ini.
+I hugged her tightly.	Gin hangkop ko siya sin hugot.
+I intend to go there.	Nag plano ak na kumadto.
+I jog in the morning.	Nag jojogging ak kada aga.
+I jumped up and down.	Nalayog ak paigbaw ngan paubos.
+I just cracked a rib.	Me he roto una costilla.
+I just cut my finger.	Gin utod ko akon tudlo.
+I just cut my finger.	Gin utod ko akon tudlo.
+I just don't like it.	Na diri gudla ak.
+I just got back home.	Kakauli ko la sa balay.
+I just got this suit.	Kakapalit ko pala sini.
+I just hope it works.	Unta magana siya.
+I just hope it works.	Unta magana siya.
+I just made a friend.	Nagka sangkay ko bago.
+I just might do that.	Bangin himoon ko iton.
+I just moved to town.	Kakalbahin ko la sa siyudad.
+I just need a moment.	Karuyag ko mag-usahan.
+I just need a second.	Kinahanglan ko segundo.
+I just need some air.	Kinahanglan ko hangin.
+I just saw a panther.	Nakakita ak paanther.
+I just took a shower.	Kakaparigo ko pala.
+I keep thirteen cats.	Mayda ak 12 ka misay.
+I kept my mouth shut.	Gintikom ko akon baba.
+I kept my mouth shut.	Gintikom ko akon baba.
+I killed a duck once.	Nakapatay ak pato ka usa.
+I kind of liked that.	Gusto ko iton.
+I kind of liked them.	Gusto ko sira.
+I knew I had to come.	Maaram ak na maupod gud ak.
+I knew Tom very well.	Kilala ko gud si tom.
+I knew Tom very well.	Kilala ko gud si tom.
+I knew he didn't die.	Maaram ak na wara gud siya namatay.
+I knew it wasn't you.	Maaram ak na diri ikaw adto.
+I knew it wasn't you.	Maaram ak na diri ikaw adto.
+I knew you wanted me.	Maaram ak na karuyag mo ak.
+I knew you were sick.	Maaram ak na nagkasakit ka.
+I knew you'd be late.	Maaram ak na ma late ka jud.
+I knew you'd be late.	Maaram ak na ma late ka jud.
+I knew you'd find it.	Maaram ak na mabilngan mo jud.
+I knew you'd like it.	Maaram ak na mabilngan mo jud.
+I knew you'd like it.	Maaram ak na mabilngan mo jud.
+I know I can make it.	Maaram ak na mahimo ko jud.
+I know I should stay.	Maaram ak na magpabilin gud ak.
+I know Tom from work.	Nakilala ko si tom sa trabaho.
+I know about the job.	Maaram ak sadto na trabaho.
+I know about the job.	Maaram ak sadto na trabaho.
+I know about you two.	Maaram ak saiyo na duwa.
+I know all about Tom.	Maaram ak tungkol kay tom.
+I know how it sounds.	Maaram ak pano siton an tingog.
+I know how that goes.	Maaram ak pananuon iton.
+I know how that goes.	Maaram ak pananuon iton.
+I know it wasn't Tom.	Maaram ak na diri adto si tom.
+I know it's not fair.	Maaram ak na diri patas.
+I know lots of songs.	Damo ak maaram na tukar.
+I know lots of songs.	Damo ak maaram na tukar.
+I know that he knows.	Maaram ak na maaram siya.
+I know that he's Tom.	Maaram ak na si tom siya.
+I know the gentleman.	Kilala ko iton.
+I know this is tough.	Maaram ak na makuri ini.
+I know this is weird.	Maaram ak na kakaiba ini.
+I know this is weird.	Maaram ak na kakaiba ini.
+I know what happened.	Maaram ak sa nahitabo.
+I know what it means.	Maaram ak nano karuyag signgon sadto.
+I know what you mean.	Maaram ak saimo ginpapasabot.
+I know what you said.	Maaram ak saimo ginyakan.
+I know what you want.	Maaram ak saimo kinahanglan.
+I know what you want.	Maaram ak saimo kinahanglan.
+I know where to hide.	Maaram ak diin magtago.
+I know why he did it.	Maaram ak kaynano ginhimo niya adto.
+I know you mean well.	Maaram ak na maupay imo ginpapasabot.
+I know your language.	Maaram ak saimo lenggwahe.
+I led the discussion.	Ako an nanguna sa diskusyon.
+I left home at seven.	Kada alas siete ak na iwas sa balay.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left the door open.	Ginpasagdan ko an purtahan na abrido.
+I left you a message.	Ginbilinan ko ikaw mensahe.
+I lent her my camera.	Ginpahuram ko siya sakon camera.
+I let go of the rope.	Ginbuhian ko an higot.
+I like Japanese food.	Karuyag ko an japanese na pagkaon.
+I like Japanese food.	Me gusta la comida japonesa.
+I like bright colors.	Naupayan ak sa mga maghayag na kulay.
+I like bright colors.	Naupayan ak sa mga maghayag na kulay.
+I like canned fruits.	Karuyag ko an mga prutas sa delata.
+I like coffee better.	Mas karuyag ko an kape.
+I like her very much.	Naruyag ak saiya ura-ura.
+I like her very much.	Naruyag ak saiya ura-ura.
+I like him very much.	Naruyag ak saiya ura-ura.
+I like how it sounds.	Naupayan ak kon pano an tingog.
+I like my steak rare.	Karuyag ko akon steak na rare.
+I like painting, too.	Karuyag ko liwat an painting.
+I like reading books.	Karuyag ko magbasa libro.
+I like to be at home.	Karuyag ko na ada la sa balay.
+I like to drink milk.	Karuyag ko mag inom gatas.
+I like to eat sweets.	Karuyag ko magkaon mga mag tam-is.
+I like to play poker.	karuyag ko mag uyag pokers.
+I like to read books.	Karuyag ko magbasa libro.
+I like to wear clogs.	Karuyag ko mag sul-ot bakya.
+I like to win prizes.	Karuyag ko magdaog na mga premyo.
+I like walking alone.	Karuyag ko maglakat na nag uusahan.
+I like your attitude.	Naruyag ak saimo attitude.
+I listened carefully.	Namati ak sin tuhay.
+I live a simple life.	Simple la akon kinabuhi.
+I live in Boston now.	Naistar ak yana sa boston.
+I live in Kazakhstan.	Naistar ak yana sa kazakhstan.
+I live in a big city.	Naistar ak sa dako na siyudad.
+I live in this hotel.	Naistar ak didi na hotel.
+I live near the dike.	Naistar ak harani sa dike.
+I looked for my room.	Ginbiling ko akon room.
+I looked for the key.	Ginbiling ko an susi.
+I lost consciousness.	Nawaraan ak malay.
+I lost my flashlight.	Nawara ko an flashlight.
+I lost my house keys.	Nawara ko an susi sakon balay.
+I lost my sunglasses.	Nawara ko akon sunglasses.
+I lost track of time.	Nawaraan ak oras.
+I love American food.	Karuyag ko an mga american food.
+I love French coffee.	Karuyag ko an french coffee.
+I love French movies.	Karuyag ko an mga french na palabas.
+I love green peppers.	Karuyag ko an mga green an peppers.
+I love reading books.	Karuyag ko magbinasa libro.
+I love reading books.	Karuyag ko magbinasa libro.
+I love the food here.	Karuyag ko an mga pagkaon didi.
+I love your daughter.	Mahal ko imo anak.
+I loved it in Boston.	Mahal ko an boston.
+I made a paper plane.	Naghimo ak papel na eroplano.
+I majored in history.	Nag major ak sa kasaysayan.
+I married a Canadian.	Nagpakasal ak sa canadian.
+I may as well go now.	Kinahanglan ko na liwat lumakat yana.
+I mean no disrespect.	Diri ko intensyon na makasakit.
+I meant it as a joke.	Nagtitiaw la ak sadto.
+I meant it as a joke.	Nagtitiaw la ak sadto.
+I met Mary yesterday.	Nakilala ko si mary kakulop.
+I met Tom after work.	Nakilala ko si tom pagtapos sa trabaho.
+I met Tom after work.	Nakilala ko si tom pagtapos sa trabaho.
+I met Tom on the way.	Nakilala ko si tom sa dalan.
+I met him about noon.	Nakilala ko siya mga udto.
+I might vote for Tom.	Botohan ko bangin si tom.
+I might vote for Tom.	Botohan ko bangin si tom.
+I miss Paris so much.	Ginmimingaw na ak sa paris.
+I miss you very much.	Ginmimingaw na ak saimo ura-ura.
+I missed you so much.	Ginmingaw gud ak saimo ura-ura.
+I need a clean shirt.	Kinahanglan ko limpyo na bado.
+I need a good lawyer.	Kinahanglan ko sin maupay na abogado.
+I need a larger room.	Kinahanglan ko sin dako na kwarto.
+I need a little help.	Kinahanglan ko guti na bulig.
+I need a new bicycle.	Kinahanglan ko bago na bisikleta.
+I need an answer now.	Kinahanglan ko baton yana.
+I need more blankets.	Kinahanglan ko pa taklap.
+I need more blankets.	Kinahanglan ko pa taklap.
+I need more practice.	Kinahanglan ko pa practice.
+I need to buy stamps.	Kinahanglan ko pa magpalit stamps.
+I need to find a job.	Kinahanglan ko mamiling trabaho.
+I need to find a job.	Kinahanglan ko mamiling trabaho.
+I need to go to work.	Kinahanglan ko kumadto trabaho.
+I need to read a lot.	Kinahanglan ko magbasa pa.
+I need to save money.	Kinahanglan ko mag ipon kwarta.
+I need to see it now.	Kinahanglan ko makita iton yana.
+I need to study math.	Kinahanglan ko mag aram math.
+I need to take notes.	Kinahanglan ko magsurat sa mga importante.
+I need you in Boston.	Kinahanglan ko ikaw sa boston.
+I never asked for it.	Wara ko iton gin aro.
+I never gave up hope.	Wara ak nawaraan paglaom.
+I never speak French.	Wara ak nagyakan french.
+I never travel alone.	Wara ak nag byahe na mag usahan.
+I no longer like you.	Diri na ak saimo naruyag.
+I no longer love him.	Diri ko na siya mahal.
+I often go to Boston.	Nakadto ak sa boston danay.
+I once lived in Rome.	Nakaistar ak sadto sa rome.
+I only have a minute.	Mayda la ak usa ka minuto.
+I only need a minute.	Kinahanglan ko la usa ka minuto.
+I only saw the apple.	Nakit-an ko la an apple.
+I owe a lot of money.	Dako akon huram na kwarta.
+I owe him 10 dollars.	10 dollars akon huram saiya.
+I owe him some money.	May huram ak saiya kwarta.
+I owe you an apology.	Kinahanglan ko mangaro pasaylo saimo.
+I paid $200 in taxes.	Nagbayad ak $200 sa tax.
+I put on my trousers.	Gin sul-ot ko akon trousers.
+I put on my trousers.	Gin sul-ot ko akon trousers.
+I ran like lightning.	Dumalagan ak sin makusog.
+I ran like lightning.	Dumalagan ak sin makusog.
+I really ought to go.	Kinahanglan ko gud kumadto.
+I refuse to allow it.	Wara ak tumugot na tugotan.
+I regret going there.	Nagbasol ak na kumadto ak.
+I rejected the offer.	Wara ko ginkarawat an offer sa akon.
+I rejected the offer.	Wara ko ginkarawat an offer sa akon.
+I remember this word.	Nadumduman ko adto na yakan.
+I resemble my mother.	Kanawong ko akon mama.
+I said it might rain.	Yakan ak na bangin umuran.
+I said it might rain.	Yakan ak na bangin umuran.
+I sang for two hours.	Duwa ka oras ak nagkinanta.
+I sang for two hours.	Duwa ka oras ak nagkinanta.
+I saw Tom last night.	Nakita ko si tom kagabi.
+I saw Tom shoot Mary.	Nakita ko si tom na ginpusil si mary.
+I saw a sleeping dog.	Nakakita ak na natuturog na ayam.
+I saw her a week ago.	Nakitan ko siya sadto na semana.
+I saw it on the news.	Nakitan ko sa balita.
+I saw nothing at all.	Wara ak nakitan.
+I sent you an e-mail.	Gin pasahan ko ikaw email.
+I seriously doubt it.	Nagdududa gud ak siton.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should go with you.	Kinahanglan ko umupod saimo.
+I should talk to Tom.	Ginhampang ko unta si tom.
+I should've told you.	Ginyaknan ko unta ikaw.
+I should've told you.	Ginyaknan ko unta ikaw.
+I showed Tom the way.	Ginpakita ko kay tom an agian.
+I showed Tom the way.	Ginpakita ko kay tom an agian.
+I showed her my room.	Ginpakita ko saiya akon kwarto.
+I showed her my room.	Ginpakita ko saiya akon kwarto.
+I showed him the way.	Ginpakita ko saiya an agian.
+I slept on the couch.	Nakaturog ak sa lingkuran.
+I solved the mystery.	Na solosyonan ko an misteyoso.
+I sort of understand.	Naintindihan ko guti.
+I started this topic.	Ako nagtikang san topic.
+I still don't see it.	Di ko la gihap nakukuha.
+I still remember you.	Nahinumduman ko gihapon ikaw.
+I think I understand.	Naintindihan ko.
+I think I understood.	Naintindihan ko.
+I think I understood.	Naintindihan ko.
+I think I'm pregnant.	Burod ak ada.
+I think Tom is harsh.	Ka harsh ni tom.
+I think Tom is lucky.	Ka swerti ni tom.
+I think Tom is lying.	bagan nagbubuwa si tom.
+I think Tom is right.	Para sakon tama si tom.
+I think Tom won't go.	para sakon diri maiwas si tom.
+I think he likes you.	naruyag siya saimo.
+I think my mom knows.	maaram akon mama.
+I think that's wrong.	maaram ak na mali iton.
+I think they know me.	bagan kilala ak nira.
+I think they know us.	bagan kilala kit nira.
+I think this is dumb.	diri ini mao.
+I think we need help.	kelangan naton bulig.
+I think you heard me.	bagan nabatian mo man ak.
+I think you panicked.	bagan nag panic ka.
+I think you're lying.	bagan nagbubuwa ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're right.	bagan tama ka.
+I think you're wrong.	bagan mali ka.
+I thought it was Tom.	sabot ko si tom.
+I told Tom about you.	gin istoryahan ko si tom tungkol saimo.
+I told Tom the truth.	ginyakan ko kay tom an kamatuoran.
+I told her not to go.	ginyaknan ko siya na ayaw pag-iwa.
+I traveled by myself.	lumakat ak na ako la.
+I traveled to Boston.	lumakat ak pakadto boston.
+Nobody knows why.	Wara nakahibaro kun nano.
+Nobody likes Tom.	Wara naruyag kan Tom .
+Nobody likes her.	Wara naruyag sa iya.
+Nobody likes war.	Wara bisan usa naruyag san girha.
+Nobody likes war.	Wara bisan sino an naruyag san girha.
+Nobody wants war.	Wara bisan sino an naruyag san girha.
+No one wants war.	Wara bisan sino an naruyag san girha.
+Nobody likes you.	Wara naruyag sa imo.
+Nobody loves war.	Wara naruyag sa away.
+Nobody remembers.	Wara nakahinomdom.
+Nobody taught me.	Wara nag tudlo sa akon.
+Nobody taught me.	Wara nag tudlo sa akon.
+Nobody taught me.	Wara nag tudlo sa akon.
+Nobody taught me.	Wara nag tudlo sa akon.
+Nobody will care.	Wara sira labot sa akon.
+Nobody will know.	Wara makakaaram.
+Nobody will know.	Wara makakaaram.
+Nobody's perfect.	Wara tawo nga perpekto.
+Nothing happened.	Wara nahitabo.
+Nothing is wrong.	Wara sala.
+Now I understand.	Yana naabat naak.
+Now I understand.	Yana naabat naak.
+Now is your time.	Oras na nimo yana.
+Now it's my turn.	Yana akon na turno.
+Now it's serious.	Seryoso na ini yana.
+Now try to sleep.	Yana tistinge pagkaturog.
+Now try to sleep.	Yana tistinge pagkaturog.
+Now try to sleep.	Yana tistinge pagturog.
+Now try to sleep.	Yana tistinge pagturog.
+Now what's wrong?	Yana nano man problema?
+Oh no, not again!	Adoy, diri na!
+Open the windows.	Abrihi an bintana.
+Open the windows.	Abrihi an bintana.
+Our team can win.	Magdaog ang aton grupo.
+Our team may win.	Bangin magdaog aton grupo.
+Pass the ketchup.	Ipasa an Ketchup.
+Pass the ketchup.	Ipasa an ketchup.
+Pay what you can.	Bayari imong makaya.
+People are funny.	Makaratawa an mga tawo.
+People love dogs.	Naruyag an mga tawo sa ayam.
+People will talk.	An mga tawo mag yakan.
+Pets are allowed.	Pwedi na ang mga alaga.
+Please answer me.	Batuna man ak.
+Please answer me.	Batuna man ak.
+Please calm down.	Alayon pag kalma.
+Please calm down.	Alayon pag kalma.
+Please calm down.	Alayon pag kalma.
+Please calm down.	Alayon pag kalma.
+Please come here.	Ngadi la alayon.
+Please come here.	Ngadi la alayon.
+Please come here.	Ngadi la alayon.
+Please copy this.	Alayon pag kopya sini.
+Please copy this.	Alayon pag kopya sini.
+Please copy this.	Alayon pag kopya sini.
+Please copy this.	Alayon pag kopya sini.
+Please copy this.	Alayon pag kopya sini.
+Please don't cry.	Ayaw pag tangis.
+Please don't cry.	Ayaw pag tangis.
+Please don't cry.	Ayaw pag tangis.
+Please don't die!	Alayon, ayaw pag pakamatay!
+Please don't die.	Alayon, ayaw pag pakamatay.
+Please follow me.	Alayon pag sunod sa ako.
+Please forget it.	Alayon kalimte ini.
+Please let me go.	Alayon pabay e naak.
+Please let me in.	Alayon pasudla ak!
+Please phone him.	Alayon pag tawag sa iya.
+Please sit still.	Alayon pag ingkod.
+Please stay here.	Alayon pag pabilin.
+Please step back.	Alayon paglayo.
+Please try again.	Alayon pag tisting utro.
+Please try again.	Alayon pag tisting utro.
+Please try again.	Alayon pag tisting utro.
+Please turn over.	Alayon pagbalik.
+Please turn over.	Alayon pagbalik..
+Please turn over.	Alayon pagbalik..
+Please wait here.	Alayon pag hulat.
+Please wait here.	Alayon pag hulat.
+Prepare yourself.	Iandam imong kalugaringon.
+Pull the trigger.	Naubos akon pasensiya.
+Put Tom on a bus.	Igbutang si Tom sa bus.
+Put it down, Tom.	Tom, Ibutang iton.
+Put out the fire.	Parunga an kalayo
+Quit complaining.	Ig undang ang pag nireklamo!
+Quit complaining.	Ig undang ang pag nireklamo!
+Quit complaining.	Ig undang ang pag nireklamo!
+Rabbits can swim.	Maaram lumangoy an Rabbit.
+Rabbits can swim.	Maaram lumangoy an Rabbit.
+Rain is unlikely.	Diri mahitabo an uran.
+Raise your hands!	Itaas an imo kamot.
+Raise your hands!	Itaas an imo kamot.
+Raise your hands!	Itaas an imo kamot.
+Raise your hands!	Itaas an imo kamot.
+Raise your hands.	Itaas an imo kamot.
+Raise your hands.	Itaas an imo kamot.
+Raise your hands.	Itaas an imo kamot.
+Raise your hands.	Itaas an imo kamot.
+Red wine, please.	Red wine, alayon.
+Respect yourself.	Respetoha an imo kalugaringon.
+Rome is in Italy.	An Rome adto sa Italy.
+Rome is in Italy.	An Rome adto sa Italy.
+Say your prayers.	Ig yakan an imo mga ampo.
+School is boring.	Boring an eskwelahan.
+See for yourself.	Kitaa sa imong kalugaringon.
+See for yourself.	Kitaa sa imong kalugaringon.
+See you at lunch.	Magkita kit pag paningudto.
+See you at lunch.	Magkita kit pag paningudto.
+See you tomorrow.	Kita kit buwas.
+See you tomorrow.	Kita kit buwas.
+See you tomorrow.	Kita kit buwas.
+Shall I help you?	Buligan ka nakon?
+Share it with me.	Ig share sa akon.
+Share it with me.	Ig share sa akon.
+Share it with us.	Ig share sa amon.
+She became happy.	Naging malipayon siya.
+She began crying.	Nagtangis na siya.
+She began crying.	Nagtangis na siya.
+She smokes a lot.	Ka kusog niya manigarilyo.
+She smokes a lot.	Ka kusog niya manigarilyo.
+She stared at me.	Gitutok ak niya.
+She stared at me.	Gitutok ak niya.
+She startled him.	Nalisangan siya.
+She studies hard.	Nagtuon siya sin maupay.
+She studies hard.	Nagtuon siya sin maupay.
+She surprised me.	Gin surpresa ak niya.
+She talked a lot.	Damo siya gin yakan.
+She took my hand.	Gin kuha niya akon kamot.
+She was promoted.	Na promote siya.
+She wore glasses.	Nag sul ot siya salamin.
+She worships him.	Gin samba nakon siya.
+She worships him.	Gin samba nakon siya.
+She wrote in ink.	Nag surat siya gamit an ink.
+She's nice to me.	Buotan siya sa ako.
+Show us the room.	Ipakita saamon imo kwarto.
+Shut that boy up.	Pahiloma iton na lalake na bata.
+Sit at the table.	Ingkod sa lamesa.
+Sit down with me.	Ingkod diri sa akon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Sit down, please.	Ingkod, alayon.
+Size does matter.	Importante an kadako.
+Somebody laughed.	Mayda nagkatawa.
+Somebody saw you.	Mayda nakakita sa imo.
+Someone is lying.	Mayda nagbinuwa.
+Someone screamed.	Mayda nagparak.
+Someone's coming.	Mayda tiarabot.
+Someone's coming.	Mayda tiarabot.
+Someone's coming.	Mayda tiarabot.
+Someone's coming.	Mayda tiarabot.
+Someone's coming.	Mayda tiarabot.
+Someone's eating.	Mayda nakaon.
+Sorry to be late.	Pasensiya kay nag iha.
+Sorry to be late.	Pasensiya kay nag iha.
+Spiders scare me.	Nahadlok ak sa spiders.
+Spring is coming.	Tiabot na ang pamulaklak.
+Stand up, please.	Bakdaw, alayon.
+Stand up, please.	Bakdaw, alayon.
+Stay close to me.	Didi ka la saakon duol.
+Stay right there.	Dida ka la.
+She did it again.	Gin utro na liwat niya.
+She didn't reply.	Wara na siya bumaton.
+She died in 1960.	Namatay siya 1960.
+She divorced him.	Babaye nakig bulag sa lalake.
+She does know it.	Babaye maaram na siton.
+She drives a BMW.	Babaye nag maneho sa BMW.
+She has dry hair.	Babaye mara an buhok.
+She has no shame.	Babaye wara awod.
+She has no shame.	Wara siya awod.
+She hit him hard.	Babaye ginpasakitan tuda.
+She hit him hard.	Babaye ginpasakitan tuda.
+She idolized him.	Babaye gin idolo an lalake.
+She insulted him.	Babaye gin insulto an lalake.
+She is Ethiopian.	Ethiopian an babaye.
+She is a pianist.	Pianista an babaye.
+She is a student.	Studyante an babaye.
+She is beautiful.	Mahusay an babaye.
+She is beautiful.	Mahusay an babaye.
+She is mad at me.	Babaye nangisog sa akon.
+She is not there.	Wara didto an babaye.
+She is not young.	Babaye diri bata.
+She is on a diet.	Babaye nagdadiet.
+She is on a diet.	Babaye nagdadiet.
+She is shameless.	Wara siya awod.
+She is very busy.	Busy siya kaayo.
+She is very busy.	Busy siya kaayo.
+She just told me.	Gin yakan pala niya sa akon.
+She kept working.	Nagpadayon siya sa pagtrabaho.
+She likes tigers.	Karuyag niya an Tiger.
+She likes tigers.	Karuyag niya an Tiger.
+She likes to run.	Karuyag niya mudalagan.
+She looked at me.	Kumita siya sa akon.
+She lost her way.	Nahiburong siya.
+She loves coffee.	Naruyag siya sa kape.
+She may not come.	Bangin diri siya makakadi.
+She must be sick.	Bangin may sakit.
+She put on socks.	Nag sul ot siya medyas.
+She quit smoking.	Umundang na siya panigarilyo.
+She rejected him.	Wara siya gin karawat.
+She repulses him.	Nag balibad siya.
+She rode a camel.	Nag sakay siya camel.
+She said goodbye.	Nag sarit siya.
+She said goodbye.	Nag sarit siya.
+She said goodbye.	Nag sarit siya.
+She sang happily.	kumanta siya sin malipayon.
+She seems OK now.	Bagan ok na siya yana.
+She smiled at me.	Nag ngirit siya sa ako.
+Stay right there.	Dida ka la.
+Stop apologizing.	Ayaw na pangaro pasaylo.
+Stop apologizing.	Ayaw na pangaro pasaylo.
+Stop avoiding me.	Ayaw ak iwasi.
+Stop being nosey.	Ayaw na sige pakialam.
+Stop complaining.	Ayaw na sige reklamo.
+Stop interfering.	Ayaw na sige sabat.
+Stop pinching me.	Ayaw na pangubot.
+Stop right there.	Undang dida.
+Stop saying that!	Undang na pag yakan siton!
+Stop saying that.	Undang na pag yakan siton.
+Stop saying that.	Undang na pag yakan siton.
+Stop scaring Tom.	Undang na pinanhadlok kay Tom.
+Stop showing off!	Undang na pagpinasikat!
+Stop touching me.	Ayaw ak pagkinapoti.
+Stop touching me.	Ayaw ak pagkinapoti.
+Stop touching me.	Ayaw ak pagkinapoti.
+Summer has ended.	Tapos na an summer.
+Summer has ended.	Tapos na an summer.
+Summer has ended.	Tapos na an summer.
+Summer has ended.	Tapos na an summer.
+Summer has ended.	Tapos na an summer.
+Summer is coming.	Harani na an summer.
+Swimming is easy.	Madali la lumangoy.
+Swimming is easy.	Madali la lumangoy.
+Take Tom outside.	Dad a si Tom sa gawas.
+Take a good look.	Kitaa sin maupay.
+Take it upstairs.	Dad a iton sa igbaw.
+Take it upstairs.	Dad a iton sa igbaw.
+Take me with you.	Upod ak sa imo.
+Take precautions.	Pag hinay.
+Take precautions.	Pag hinay.
+Tell him to wait.	signga siya na maghulat.
+Tell me about it!	Iyakan sa akon!
+Tell me about it.	Iyakan sa akon!
+Thank you kindly.	Salamat.
+That baby is Tom.	Ang bata si Tom.
+That bag is mine.	Akon iton na bag.
+That car is hers.	Iya iton na sakyanan.
+That car is mine.	Akon iton na sakyanan.
+That car is mine.	Akon iton na sakyanan.
+That concerns me.	Nabakara ak.
+That helps a lot.	Dako na iton na bulig.
+That helps a lot.	Dako na iton na bulig.
+That is enormous.	Dako na iton.
+That is not true.	Diri iton ungod.
+That is not true.	Diri iton ungod.
+That man is dead.	Patay na iton na lalake.
+That person died.	Patay na iton na tawo.
+That should help.	Unta makabulig iton.
+That smells nice.	Mahamot iton.
+That sounds fair.	Patas pamation.
+That was awesome.	Kaupay sadto.
+That was nothing.	Wara adto.
+That wasn't good.	Diri iton maupay.
+That wasn't good.	Diri iton maupay.
+That wasn't good.	Diri iton maupay.
+That way, please.	Sugad siton, alayon.
+That worked well.	Maupay na trabaho.
+That's Tom's car.	Kan Tom iton sakyanan.
+That's a problem.	Iton an problema.
+That's a problem.	Iton an problema.
+That's a problem.	Iton an problema.
+That's all I saw.	Adto la tanan akon nakit an.
+That's all wrong.	Mali iton tanan.
+That's beautiful.	Kaupay siton.
+That's confusing.	Kasamok siton.
+That's dangerous.	Delikado siton.
+That's dishonest.	Buwa iton.
+That's fantastic!	Kaupay siton!
+That's fantastic.	Kaupay siton!
+That's his horse.	Iya iton kabayo.
+That's his house.	Iya iton balay.
+That's idle talk.	Wara pulos nga istorya.
+That's important.	Importante iton.
+That's my affair.	Kabit nakon iton.
+That's my answer.	Iton akon baton.
+That's my pencil.	Akon iton lapis.
+That's no excuse.	Diri iton pasangil.
+That's not funny.	Diri iton makalilipay.
+That's not funny.	Diri iton makalilipay.
+That's not scary.	Diri iton karadlok.
+That's offensive.	Nakakasakit iton
+That's our fault.	Aton iton sala
+That's our house.	Aton iton balay
+That's the hotel.	Iton an hotel.
+That's the offer.	Mao iton an alay
+That's troubling.	Masamok iton.
+That's true, too.	Mao iton an ungod
+That's true, too.	Mao iton an ungod
+That's wonderful!	Maupay iton!
+That's wonderful.	Maupay iton!
+The answer is no.	Nadiri siya.
+The baby's awake.	Mata na an bata.
+The ballon burst.	Bumoto an lobo.
+The ballon burst.	Bumoto an lobo.
+The bill, please.	An bill, alayon.
+The bird is dead.	An tamsi patay na.
+The book is easy.	An libro sayon la.
+The book is here.	An libro adi na.
+The book's white.	An libro puti.
+The box is heavy.	Mabug at an kahon.
+The boy ran away.	Nag layas an bata na lalake.
+The boy ran away.	Nag layas an bata na lalake.
+The boy was full.	Nabusog an bata na lalake.
+The bus was full.	Puno na an sakyanan.
+The cage is open.	Abrido an kulungan.
+The can is empty.	Wara sulod an lata.
+The car is ready.	Naka andam na an sakyanan.
+The cat is brown.	Brown an misay.
+The cat is brown.	Brown an misay.
+The cat ran away.	Nag layas an misay.
+The clock ticked.	Nagdagan an oras.
+The curtain fell.	Nahulog an kurtina.
+The curtain rose.	Naghataas an kurtina.
+The dog is dying.	Tikamatay na an ayam.
+The dog is dying.	Tikamatay na an ayam.
+The dog is smart.	Dati an ayam.
+The dog is white.	Puti an ayam.
+The dog was dead.	Patay na an ayam.
+The door creaked.	Nangurog an purtahan.
+The door is open.	Abrido an purtahan.
+The food is cold.	Mapinit na an pagkaon.
+The food is good.	Maupay an pagkaon.
+The game is over.	Tapos na an duwa.
+The game is over.	Tapos na an duwa.
+The game is over.	Tapos na an duwa.
+The game is over.	Tapos na an duwa!
+The game is over.	Tapos na an duwa.
+The hat is yours.	Imon iton na kalo.
+The jury is hung.	Gin bitay an hurado .
+The kid got hurt.	Nasakitan an bata.
+The law is clear.	Klaro an balaod.
+The light is out.	Naparong an ilaw.
+The light is out.	Naparong an ilaw.
+The line is busy.	Busy an linya.
+The man is right.	Tama an lalake.
+The man is right.	Tama an lalake.
+The man ran away.	Nag layas an lalake.
+The man stood up.	Bumakdaw an lalake.
+The mic is yours.	Imon iton na mikropono.
+The milkman died.	Namatay an milkman.
+The party's over.	Tapos na an kalipayan.
+The pool is full.	Puno na an pool.
+The race is over.	Tapos na an lumba.
+The rain stopped.	Umundang na an uran.
+The rain stopped.	Umundang na an uran.
+The rain stopped.	Umundang na an uran.
+The road was icy.	Nag yelo na an agian.
+The room is dark.	Masirom an kwarto.
+The room was hot.	Mainit an kwarto.
+The room was hot.	Mainit an kwarto.
+The show is over.	Tapos na an palabas.
+The show is over.	Tapos na an palabas.
+The sky is clear.	Tin aw an langit.
+The sky was gray.	Gray an langit.
+The storm abated.	Umundang na an bagyo.
+The storm let up.	Umundang na an bagyo.
+The tank is full.	Puno na an tangke.
+The towel is dry.	Mara an tualya.
+The towel is wet.	Basa an tualya.
+The twins helped.	Bumulig an kambal.
+The twins smiled.	Ngumirit an kambal.
+The two chuckled.	Nagkatawa an duwa.
+The water's cold.	Mapinit an tubig.
+The week is over.	Tapos na an simana.
+The week is over.	Tapos na an simana.
+The well ran dry.	Nagmara an tabay.
+Tom is a painter.	Pintor si Tom
+Tom is a patriot.	Makabayan si Tom.
+Tom is a plumber.	Tubero si Tom.
+Tom forgave Mary.	Gin pasaylo ni Tom si Mary.
+Tom frightens me.	Gin hadlok ak ni Tom.
+Tom gave up hope.	Nawaraan na pag asa si Tom.
+Tom got into bed.	Kumadto na sa higdaan si Tom.
+Tom got very mad.	Nalangot si Tom.
+Tom had a stroke.	Na stroke si Tom.
+Tom had no money.	Wara na kwarta si Tom.
+Tom had to hurry.	Kailangan mag apura ni Tom.
+Tom has a goatee.	Mayda goatee si Tom .
+Tom has a secret.	Mayda sekreto si Tom.
+Tom has a ticket.	Mayda tiket si Tom.
+Tom has an alibi.	Mayda alibi si Tom.
+Tom has freckles.	Mayda freckles si Tom.
+Tom has insomnia.	Mayda insomnia si Tom.
+Tom has met Mary.	Nakilala ni Tom si Mary.
+Tom has no money.	Wara kwarta si Tom.
+Tom has no money.	Wara kwarta si Tom.
+Tom has two jobs.	Mayda duwa na trabaho si Tom.
+Tom hates olives.	Nadiri si Tom sa olives.
+Tom hurt himself.	Gipasakitan ni Tom iya kalugaringon.
+Tom hurt his leg.	Nasakitan an batiis ni Tom.
+Tom ignored Mary.	Wara pansina ni Tom si Mary.
+Tom is Mary's ex.	Ex ni Mary si Tom.
+Tom is a bad boy.	Daotan na pagkalalaki si Tom.
+Tom is a fascist.	Pasista si Tom.
+Tom is a fat man.	Tambok na lalake si Tom.
+Tom is a fat man.	Tambok na lalake si Tom.
+Tom brought this.	Gin palit ini ni Tom.
+Tom came with me.	Umupod sa akon si Tom.
+Tom came with me.	Umupod sa akon si Tom.
+Tom can hear you.	Nababatian ka ni Tom.
+Tom can hear you.	Nababatian ka ni Tom.
+Tom can run fast.	Makadalagan sin paspas si Tom.
+Tom can't decide.	Diri maka desisyon si Tom.
+Tom can't refuse.	Diri makabalibad si Tom.
+Tom can't say no.	Diri makadiri si Tom.
+Tom can't see us.	Diri kit nakikita ni Tom.
+Tom cannot drive.	Diri makamaneho si Tom.
+Tom cheated Mary.	Nagloko si Tom kay Mary.
+Tom convinced me.	Gin kumbinse ak ni Tom.
+Tom cooks for us.	Gin lutuan kit ni Tom.
+Tom cut Mary off.	Gin putod ni Tom si Mary pag yakan.
+Tom detests Mary.	Nalalangot si Tom kan Mary.
+Tom did have fun.	Nalipay si Tom.
+Tom did have fun.	Nalipay si Tom.
+Tom did his part.	Gin himo ni Tom iya parte.
+Tom didn't budge.	Gin pabay an nala ni Tom.
+Tom didn't do it.	Wara iton himua ni Tom.
+Tom didn't drown.	Wara lumubog si Mary.
+Tom didn't reply.	Wara na bumaton si Tom.
+Tom died from TB.	Namatay si Tom sa TB.
+Tom died in 2009.	Namatay si Tom sadto na 2009.
+Tom doesn't know.	Diri maaram si Tom.
+Tom drinks a lot.	Damo an nainom ni Tom.
+Tom ate my lunch.	Gin kaon ni Tom akon paningudto.
+Tom avoided Mary.	Gin iwasan ni Tom si Mary.
+Tom babysat Mary.	Gin bantayan ni Tom si Mary.
+Tom beat Mary up.	Gin kastigo ni Tom si Mary.
+Tom beat up Mary.	Gin kastigo ni Tom si Mary.
+Tom became blind.	Nabuta si Tom.
+Tom began to cry.	Nag tangis na si Tom.
+Tom began to eat.	Nag kaon na si Tom.
+Tom belongs here.	Didi sakop si Tom.
+Tom belongs here.	Didi sakop si Tom.
+This is too hard.	Mas makuri ini.
+This is too much.	Sobra na ini.
+This is very bad.	Malain na ini.
+This is very bad.	Malain na ini.
+This is your dog.	Imon ini ayam.
+This is your dog.	Imon ini ayam.
+This is your key.	Imon ini yabe.
+This is your key.	Imon ini yabe.
+This isn't funny.	Diri na ini kataw anan.
+This isn't money.	Diri ini kwarta.
+This isn't sugar.	Diri ini asukar.
+This isn't yours.	Diri ini imo.
+This isn't yours.	Diri ini imo.
+This looks great.	Maupay ini kitaon.
+This looks great.	Maupay ini kitaon.
+This man is dead.	Patay na ini na lalake.
+This one is full.	Puno na ini na usa.
+This one's Tom's.	Si Tom ini na usa.
+This one's empty.	Ini na usa wara sulod.
+This one's yours.	Imo ini na usa.
+This room is hot.	Init ini na kwarto.
+This seems risky.	Bagan delikado ini.
+This seems wrong.	Bagan mali ini.
+This tastes good.	Marasa ini.
+This tastes good.	Marasa ini.
+This time we won.	Yana nagdaog kit.
+This was missing.	Nawara ini.
+This way, please.	Didi kit, alayon.
+This way, please.	Didi kit, alayon.
+This will be fun.	Maupay gud ini.
+Those are my CDs.	Akon adto CDs.
+Tom abandoned me.	Gin bayaan ak ni Tom.
+Tom admired Mary.	Gin puri ni Tom si Mary.
+Tom admires Mary.	Gin puri ni Tom si Mary.
+Tom almost cried.	Halos mag tangis si Tom.
+Tom always loses.	Permi napeperde si Tom.
+Tom arrived last.	Urhi na umulpot si Tom.
+Tom arrived late.	Urhi na umulpot si Tom.
+This is horrible.	Makalilisang ini.
+This is my coach.	Akon ini coach.
+This is my coach.	Akon ini coach.
+This is my fault.	Akon ini sala.
+This is my horse.	Akon ini kabayo.
+This is my house.	Akon ini balay.
+This is my phone.	Akon ini selpon.
+This is my place.	Mao ini akon lugar.
+This is my treat.	Mao ini akon libre.
+This is nonsense.	Wara ini pulos.
+This is not fair.	Diri ini patas.
+This is not okay.	Diri ini maupay.
+This is not safe.	Diri ini ligtas.
+This is not true.	Diri ini ungod.
+This is not true.	Diri ini ungod.
+This is our home.	Mao ini amon balay.
+This is our home.	Mao ini amon balay.
+This is our room.	Mao ini amon balay.
+This is pathetic.	Makaluluoy ini.
+This is relaxing.	Kahayahay sini.
+This is sabotage.	Sabotahe ini.
+This is so crazy.	kabuang sini.
+This is so weird.	kaiba pa sini.
+This is terrible.	Makalilisang ini.
+This is the best.	Asya ini an maupay.
+They despise you.	Gin tamay ka nira.
+They disappeared.	Nawara sira.
+They drink a lot.	Damo sira nainom.
+They dug a grave.	Nag kalot ug lubnganan.
+They feel hungry.	Gin gutom na sira.
+They feel hungry.	Gin gutom na sira.
+They go shopping.	Namalit sira.
+They got married.	Nagpakasal sira.
+They had no food.	Wara sira pagkaon.
+They know better.	Mas maaram sira.
+They know better.	Mas maaram sira.
+They lied to you.	Nag buwa sira.
+They live nearby.	Naka istar sira sa harani.
+They made us pay.	Kami ira gipabayad.
+They thanked God.	Nagpasalamat sira sa Ginoo.
+They trusted Tom.	Nag tapod sira kan Tom.
+They trusted Tom.	Nag tapod sira kan Tom.
+They trusted you.	Nag tapod sira kan Tom.
+They were afraid.	Nahadlok sira.
+They were afraid.	Nahadlok sira.
+They were closed.	Sarado na sira.
+They were hungry.	Gin gutom na sira.
+They will return.	Mabalik sira.
+They won't budge.	Diri sira naglilihok.
+They work for me.	Nag trabaho sira sa amon.
+They work for me.	Nag trabaho sira sa amon.
+They'd like that.	Naruyag sira siton.
+They'll find Tom.	Gin biling nira si Tom.
+They'll remember.	Makahinumdom sira.
+They're all dead.	Patay na sira tanan.
+They're brothers.	Mag burogto sira.
+They're fighting.	Nag aragway sira.
+They're immature.	Isip bata sira.
+They're involved.	Kasabwat sira.
+They're laughing.	Nag tinawa sira.
+They're mistaken.	Nag sala sira.
+They're not mine.	Diri iton akon.
+They're not mine.	Diri iton akon.
+They're students.	Mga Studyante sira.
+They're traitors.	Mga traydor sira.
+They're watching.	Nag hiling sira.
+They've all left.	Umiwas na sira tanan.
+Things got weird.	Nag iba na an mga bagay.
+Things look good.	Maupay kitaon an mga bagay.
+Things look good.	Maupay kitaon an mga bagay.
+Think about that.	Pinsara iton.
+Think about that.	Pinsara iton.
+Think about that.	Pinsara iton.
+Think about this.	Pinsara ini.
+This and no more.	Ini ug wara.
+This book is new.	Bag o ini na libro.
+This book is old.	Maiha na ini na libro.
+This book is old.	Maiha na ini na libro.
+This boy is lazy.	Hubya ini na bata.
+This car is mine.	Akon ini sarakyan.
+This doesn't fit.	Diri ini kasya.
+This doesn't fit.	Diri ini kasya.
+This fish is big.	Kadako sini na isda.
+This has to stop.	Kinahanglan ini maundang.
+This hat is mine.	Kini na kalo akon ini.
+This is Room 839.	Ini an room 839.
+This is a luxury.	Luho ini.
+This is a pencil.	Lapis ini.
+This is an order.	Mandar ini.
+This is an order.	Mandar ini.
+This is big news.	Dako ini na balita.
+The woman is fat.	Matambok an babaye.
+The woman is fat.	Matambok an babaye.
+The work is done.	Tapos na an trabaho.
+The wound healed.	Nag upay an samad.
+There is no hope.	Wara na paglaom.
+There is one way.	Mayda usa na pamaagi.
+There's no doubt.	Wara na duha duha .
+There's no hurry.	Wara na pagdali.
+There's no hurry.	Wara na pagdali.
+There's no limit.	Wara na limitasyon.
+There's no water.	Wara na tubig.
+There's one more.	Mayda pa usa.
+There's one more.	Mayda pa usa.
+There's the bell.	Ada an kampana.
+These are daises.	Daises ini.
+These are daises.	Daises ini.
+These are my CDs.	Ini akon mga CDs.
+These shoes hurt.	Masakit ini na mga sapatos.
+They all entered.	Sumulod sira tanan.
+They all watched.	Nag hiling sira tanan.
+They all watched.	Nag hiling sira tanan.
+They all watched.	Nag hiling sira tanan.
+They are Russian.	Russian sira.
+They are Russian.	Russian sira.
+They are singers.	Parag kanta sira.
+They aren't here.	Wara sira didi.
+They aren't mine.	Diri iton akon.
+They demoted you.	Nag paubos sira.
+They demoted you.	Nag paubos sira.
+She is easygoing.	Dali ra siya.
+Tom is a student.	Studyante si Tom
+Tom is a surgeon.	Para bulong si Tom
+Tom is a traitor.	Traydor si Tom
+Tom is a trucker.	Trucker si Tom
+Tom is a veteran.	Beterano si Tom
+Tom is a widower.	Balo si Tom.
+Tom is a witness.	Saksi si Tom.
+Tom is ambitious.	Ambisyoso si Tom.
+Tom is an animal.	Hayop si Tom.
+Tom is at school.	Ada si Tom sa eskwelahan.
+Tom is attentive.	Mabulignon si Tom.
+Tom is breathing.	Naghihinga pa si Tom.
+Tom is coming to.	Makadtu si Tom.
+Tom is dangerous.	Delikado si Tom.
+Tom is desperate.	Desperado si Tom.
+Tom is different.	Kaiba pa ni Tom.
+Tom is easygoing.	Madali si Tom.
+Tom is eccentric.	Lurong si Tom.
+Tom is emotional.	Emosyonal si Tom.
+Tom is forgetful.	Makalimtanon si Tom.
+Tom is forgetful.	Makalimtanon si Tom.
+Tom is from here.	Tikang didi si Tom.
+Tom is happy now.	Malipayon yana si Tom.
+Tom is in Boston.	Ada sa Boston si Tom.
+Tom is in charge.	Si Tom an lider.
+Tom is in danger.	Ada sa delikado si Tom.
+Tom is in hiding.	Nagtatago si Tom.
+Tom is insincere.	Diri sinsero si Tom.
+Tom is listening.	Namamati si Tom.
+Tom is muttering.	Nabagulbol si Tom.
+Tom is my cousin.	Pinsan nakon si Tom.
+Tom is my father.	Amay nakon si Tom.
+Tom is my friend.	Sangkay nakon si Tom.
+Tom is my lawyer.	Abogado nakon si Tom.
+Tom is my nephew.	Umangkon nakon si Tom.
+Tom is not happy.	Diri malipayon si Tom.
+Tom is obsessive.	Obses si Tom.
+Tom is offensive.	Nakasakit si Tom.
+Tom is our enemy.	Kontra namon si Tom.
+Tom is our guest.	Bisita namon si Tom.
+Tom is perplexed.	Malibog si Tom.
+Tom is realistic.	Ungod si Tom.
+Tom is too picky.	Pilian si Tom.
+Tom is too young.	Bata pa si Tom.
+Tom is undecided.	Diri pa maka desisyon.
+Tom is unmarried.	Diri pa kasal si Tom.
+Tom is very rich.	Mayaman si Tom.
+Tom is very tall.	Hataas si Tom.
+Tom is weakening.	Nanluluya si Tom.
+Tom is weakening.	Nanluluya si Tom.
+Tom is whistling.	Nataghoy si Tom.
+Tom is with Mary.	Kaupod ni Tom si Mary.
+Tom isn't a fool.	Diri tanga si Tom.
+Tom isn't a liar.	Diri buwaon si Tom.
+Tom isn't boring.	Diri boring si Tom.
+Tom isn't crying.	Diri natangis si Tom.
+Tom isn't hungry.	Diri gin gutom si Tom.
+om isn't joking.	Diri nagtiaw si Tom.
+Tom isn't my son.	Diri nakon anak si Tom.
+Tom isn't normal.	Diri buyod si Tom.
+Tom isn't stupid.	Diri bulok si Tom.
+Tom isn't up yet.	Diri pa tapos si Tom.
+Tom kept reading.	Nagpadayon pag basa si Tom.
+Tom kept writing.	Nagpadayon pag surat si Tom.
+Tom knows things.	Aram ni Tom an mga butang.
+Tom lied to Mary.	Nag buwa si Tom kan Mary.
+Tom liked horses.	Karuyag ni Tom an kabayo.
+Tom likes cheese.	Karuyag ni Tom an keso.
+Tom likes hockey.	Karuyag ni Tom an hockey.
+Tom likes ponies.	Karuyag ni Tom an ponis.
+Tom likes reggae.	Karuyag ni Tom an reggae.
+Tom lit a candle.	Gin sindihan ni Tom an kandila.
+Tom lit the fire.	Gin palaga ni Tom an kalayo.
+Tom lit the fire.	Gin palaga ni Tom an kalayo.
+Tom lit the oven.	Gin sabritan ni Tom an oven.
+Tom looked angry.	Bagan nangisog si Tom.
+Tom looked happy.	Bagan malipayon si Tom.
+Tom looked young.	Bagan bata pa si Tom.
+Tom looks fierce.	Bagan kaisog ni Tom.
+Tom looks strong.	Bagan maisog si Tom.
+Tom lost his dog.	Nawara an ayam ni Tom.
+Tom lost his job.	Nawara an trabahon.
+Tom lost the bet.	Naperde sa pusta si Tom.
+Tom loves horses.	An kabayo karuyag ni Tom.
+Tom loves horses.	An kabayo karuyag ni Tom.
+Tom loves horses.	An kabayo karuyag ni Tom.
+Tom loves skiing.	Karuyag ni Tom an pag skiing.
+Tom loves sports.	Karuyag ni Tom an pag uyag.
+Tom loves to eat.	Karuyag ni Tom magkinaon.
+Tom loves tulips.	Karuyag ni Tom an tulips.
+Tom made Mary go.	Gin paiwas ni Tom si Mary.
+Tom made his bed.	Si Tom nag himo sa iya higdaan.
+Tom made me weep.	Gin patangis ak ni Tom.
+Tom married Mary.	Nagpakasal si Tom kan Mary.
+Tom may be right.	Bagan tama si Tom.
+Tom may be right.	Bagan tama si Tom.
+Tom may be wrong.	Bagan mali si Tom.
+Tom moved closer.	Nag harani si Tom.
+Tom must be sick.	Bagan may haromuhom si Tom.
+Tom needs a rest.	Kinahanglan ni Tom sin pahuway.
+Tom needs a taxi.	Kinahanglan ni Tom sarakyan.
+Tom needs to pay.	Kinahanglan ni Tom mag bayad.
+Tom never cheats.	Wara pa nagloko si Tom.
+Tom never shouts.	Wara pa nag parak si Tom.
+Tom never smiles.	Wara pa nag ngisi si Tom.
+Tom pinched Mary.	Gin kubot ni Tom si Mary.
+Tom punched Mary.	Gin kubot ni Tom si Mary.
+Tom put on a tie.	Nag sul ot si Tom kurbata.
+Tom quit smoking.	Umundang na si Tom panigarilyo.
+Tom reads slowly.	Maluya an pag basa ni Tom.
+Tom rescued Mary.	Gin tabangan ni Tom si Mary.
+Tom said nothing.	Wara gin yakan si Tom.
+Tom sang to Mary.	Kumanta si Tom kan Mary.
+Tom saw a doctor.	Kumita si Tom sin doktor.
+Tom scolded Mary.	Gin isgan ni Tom si Mary.
+Tom seemed angry.	Bagan langot si Tom.
+Tom sells coffee.	Nag babaligya si Tom kape.
+Tom shot at Mary.	Gin pusil ni Tom si Mary.
+Tom shot himself.	Gin pusil ni Tom iya kalugaringon.
+Tom slapped Mary.	Gin taplong ni Tom si Mary.
+Tom spoke French.	French an yinaknan ni Tom.
+Tom spoke calmly.	Kalma la si Tom sa pag yakan.
+Tom spoke calmly.	Kalma la si Tom sa pag yakan.
+Tom stabbed Mary.	Gin buno ni Tom si Mary.
+Tom stayed awake.	Mata pa si Tom.
+Tom stayed close.	Adi la si Tom sa harani.
+Tom stopped Mary.	Gin paundang ni Tom si Mary.
+Tom thanked Mary.	Gin pasalamatan ni Tom si Mary.
+Tom tripped Mary.	Gin pag tripan ni Tom s Mary.
+Tom trusted Mary.	Gin tapuran ni Tom si Mary.
+Tom visited Mary.	Gin bisita ni Tom si Mary.
+Tom walks slowly.	Maluya an pag lakaw ni Tom.
+Tom walks slowly.	Maluya an pag lakaw ni Tom.
+Tom wandered off.	Namasyada si Tom.
+Tom wanted money.	Karuyag ni Tom kwarta.
+Tom wants a kiss.	Karuyag ni Tom sin harok.
+Tom wants a pony.	Karuyag ni Tom sin pony.
+Tom was arrested.	Nadakop si Tom.
+Tom was babbling.	Mayakbot si Tom.
+Tom was confused.	Nalisang si Tom.
+Tom was executed.	Gin patay si Tom.
+Tom was hesitant.	Nag duha duha si Tom.
+Tom was innocent.	Inosente si Tom.
+Tom was prepared.	Nag andam na si Tom.
+Tom was rejected.	Wara gin tanggap si Tom.
+Tom was shouting.	Nag para parak si Tom.
+Tom was sleeping.	Naturog si Tom.
+Tom was sweating.	Gin balhas si Tom.
+Tom was thrilled.	Nalipay si Tom.
+Tom was tortured.	Gin pakurian si Tom.
+Tom was very shy.	Naawod si Tom.
+Tom was worn out.	Gin kapoy si Tom.
+Tom wasn't alone.	Wara nag urusahan si Tom.
+Tom wasn't drunk.	Diri hubog si Tom .
+Tom wasn't happy.	Wara nalipay si Tom.
+Tom wasn't ready.	Wara pa naka andam si Tom.
+Tom watched Mary.	Gin bantayan ni Tom si Mary.
+Tom watches Mary.	Gin bantayan ni Tom si Mary.
+Tom went fishing.	Nangisda si Tom.
+Tom will call me.	Mutawag sa akon si Tom.
+Tom will find me.	Bilngon ak ni Tom.
+Tom will love it.	Maruyagan iton ni Tom.
+Tom will perk up.	Nalipay si Tom.
+Tom will show up.	Magpakita si Tom.
+Tom woke Mary up.	Gin pukaw ni Tom si Mary.
+Tom won the race.	Nag daog si Tom sa lumba.
+Tom won't answer.	Diri batunon ni Tom.
+Tom won't get in.	Diri makasaulod si Tom.
+Tom won't listen.	Diri namamati si Tom.
+Tom worked there.	Nag trabaho didto si Tom.
+Tom's not hungry.	Wara gin gutom si Tom.
+Tom's unreliable.	Diri matapuran si Tom.
+Tom, don't leave.	Tom, ayaw pag iwas.
+Tom, is that you?	Tom, ikaw iton?
+Try it once more.	Pag testing ka usa nala.
+Try it once more.	Pag testing ka usa nala.
+Turn off the gas.	Parunga an gas.
+Turn off the gas.	Parunga an gas.
+Turn off the gas.	Parunga an gas.
+Turn right there.	Liko pakadto.
+Turn to the left.	Liko pa wala.
+Turn to the left.	Liko pa wala.
+Turn to the left.	Liko pa wala.
+Turn to the left.	Liko pa wala.
+Unfasten the pin.	Tanggala an pin.
+Wait for me here.	Hulta ak didi.
+Wait for us here.	Hulta kami didi.
+Wait for us, Tom.	Hulta kami didi, Tom.
+Wait here for me.	Didi ak hulta.
+Walk more slowly.	Pag lakaw pa sin maluya.
+Watch my fingers.	Kitaa akon kuramoy.
+Watch yourselves.	Kitaa imo kalugaringon.
+Water the plants.	Sarebu e an tanom.
+We accept checks.	Makarawat kami tseke.
+We adore picnics.	Naayon kami sin picnic.
+We agree as well.	Nag saragbot kami.
+We all hated Tom.	Langot kami tanan kan Tom.
+We all loved Tom.	Gin mahal namon si Tom.
+We all trust you.	Gin tapuran ka namon.
+We are not alone.	Diri kit nag urusahan.
+We are not alone.	Diri kit nag urusahan.
+We arrived first.	Nauna kami pag ulpot.
+We ate swordfish.	Nagkakaon kami swordfish.
+We both competed.	Natapos namon tanan.
+We both hate Tom.	Kami nga tanan langot kan Tom.
+We both love Tom.	Kami nga tanan mahal namon si Tom.
+We came together.	Mag kaupod kami umulpot.
+We close at 2:30.	Mag sara kami 2:30.
+We depend on you.	Nag laom kami saimo.
+We depend on you.	Nag laom kami saimo.
+We disturbed him.	Gin istorbo namon siya.
+We enjoy talking.	Nalingaw kami pag iristorya.
+We got separated.	Nag bulag kami.
+We have a theory.	Mayda kit teyorya.
+We have homework.	Mayda kit hirimuon.
+We have no money.	Wara na kit kwarta.
+We have no sugar.	Wara na kit asukar.
+We have to do it.	Kinahanglan nato buhaton.
+We have to go on.	Kinahanglan nato mag padayon.
+We have two ears.	Mayda kit duwa nga talinga.
+We have two kids.	Mayda kit duwa nga anak.
+We have two kids.	Mayda kit duwa nga anak.
+We have two sons.	Mayda kit duwa nga anak nga lalake.
+We have visitors.	Mayda kit bisita.
+We heard a noise.	Nabati kami sin banha.
+We heard gunfire.	Nabatian namon an boto sin pusil.
+We heard gunfire.	Nabatian namon an boto sin pusil.
+We heard her cry.	Nabati kami san iya tangis.
+We heard her cry.	Nabati kami san iya tangis.
+We just got here.	Ka ulpot la namon didi.
+We left by train.	Umiwas kami sakay an tren.
+We live near her.	Na ukoy kami harani sa ira.
+We live together.	Mag kaupod kami sa balay.
+We lost the game.	Naperde kami sa uyag.
+We mean business.	Negosyo akon karuyag signgon.
+We met in Boston.	Nagkita kami sa boston.
+We met last week.	Nagkita kami sadto na simana.
+We must continue.	Dapat ipadayon naton.
+We must evacuate.	Dapat na kita umiwas.
+We must evacuate.	Dapat na kita umiwas.
+We must fix this.	Dapat na naton ini ayuson.
+We must sit down.	Dapat kit mag lingkod.
+We must sit down.	Dapat kit mag lingkod.
+We must warn him.	Dapat tagan nato siya sin babala.
+We need a ladder.	Kinahanglan naton hagdanan.
+We need a leader.	Kinahanglan naton lider.
+We need evidence.	Kinahanglan naton ebidensiya.
+We need you back.	Kinahanglan ka namon balik.
+We need your key.	Kinahanglan namon imo yabe.
+We never do that.	Wara namon iton gin himo.
+We only have tea.	tsaa la amon.
+We sat in a ring.	Nag ingkod me sa ring.
+We saw something.	Mayda kami nakita.
+We saw something.	Mayda kami nakita.
+We were so close.	Harani na kami.
+We were thrilled.	Nalipay kami.
+We won the match.	Nag daog kami sa laban.
+We work together.	Mag kaupod kami sa trabaho.
+We'd better wait.	Maupay kun mag hulat kita.
+We'll be rescued.	Matatalwas kami.
+We'll be waiting.	Mag hulat la kami.
+We'll do it live.	Himuon ta ini live.
+We'll follow Tom.	Sundon namon si Tom.
+We'll go see Tom.	Kitaon namon si Tom.
+We'll meet again.	Mag kita kit gihapon.
+We'll never know.	Wara kit nahibaro.
+We'll notify Tom.	Pahibaroon ta si Tom.
+We'll pay for it.	Kami magbabayad siton.
+We'll pay for it.	Kami magbabayad siton.
+We'll talk later.	Mag istoryahay kit taod taod.
+We're doing fine.	Okay la kami.
+We're doing fine.	Okay la kami.
+We're doing fine.	Okay la kami.
+We're in a hurry.	Nag dali kami.
+We're in a hurry.	Nag dali kami.
+We're in trouble.	Nag ka problema kami.
+We're just tired.	Kapoy la kami.
+We're lifeguards.	Lifeguards kami.
+We're not eating.	Diri kami mangaon.
+We're not family.	Diri kami magka pamilya.
+We're not family.	Diri kami magka pamilya.
+We're on our way.	Pakada na kami.
+We're out of tea.	Naubusan na kit tsaa.
+We're professors.	Propesors kami.
+We're still here.	Adi pa kami didi.
+We're surrounded.	Gin palibutan kami.
+We're wide awake.	Mata na kami.
+We've been lucky.	swerte kit.
+We've been there.	Didto na kami tikang.
+We've got a deal.	Mayda kit sabot.
+We've got enough.	Mayda kit sapat.
+We've got plenty.	Damo kit.
+We've had enough.	Sakto na kami.
+Welcome to Japan.	Maupay nga pag bisita sa japan.
+Welcome to Japan.	Maupay nga pag bisita sa japan.
+Were you worried?	Nabaraka kaba?
+What a bad movie!	Karaot san palabas!
+What a big truck!	Kadako san truck!
+What a big truck!	Kadako san truck!
+What a cute girl!	Ka cute sini na babaye!
+What a fine view!	Kaupay kitaon!
+What a heavy bag!	Kabug at sa bag!
+What are you doing?	Nag papara nano ka?
+What a long week!	Kaiha sa simana!
+What a long week!	Kaiha sa simana!
+What can be done?	Nano an maupay himuon?
+What caused that?	Nano an naging rason siton?
+What causes that?	Nano an rason siton?
+What causes this?	Nano an rason sini?
+What color is it?	Nano iton na color?
+What did Tom ask?	Nano an gin pangiana ni Tom?
+What did Tom eat?	Nano an gin kaon ni Tom?
+What did Tom say?	Nano an gin yakan ni Tom?
+What did Tom see?	Nano an nakita ni Tom?
+What did she say?	Nano an gin yakan niya?
+What did she say?	Nano an gin yakan niya?
+What did you eat?	Nano imo gin kaon?
+What did you say?	Nano imo gin yakan?
+What did you say?	Nano imo gin yakan?
+What did you say?	Nano imo gin yakan?
+What did you say?	Nano imo gin yakan?
+What did you say?	Nano imo gin yakan?
+What did you see?	Nano imo nakita?
+What do bees eat?	Nano an pag kaon sa bubuyog?
+What do you feel?	Nano imo naramdaman?
+What do you have?	Nano imo dida?
+What do you have?	Nano imo dida?
+What do you have?	Nano imo dida?
+What do you have?	Nano imo dida?
+What do you know?	Nano imo aram?
+What do you know?	Nano imo aram?
+What do you know?	Nano imo aram?
+What do you like?	Nano imo karuyag?
+What do you mean?	Nano imo karuyag signgon?
+What do you mean?	Nano imo karuyag signgon?
+What do you need?	Nano imo kinahanglan?
+What do you want?	Nano imo karuyag?
+What do you want?	Nano imo karuyag?
+What do you want?	Nano imo karuyag?
+What do you want?	Nano imo karuyag?
+What does he say?	Nano iya ginyayakan?
+What does she do?	Nano iya gin hihimo?
+What happens now?	Nano mahihitabo yana?
+What has he done?	Nano iya nahimo?
+What have I done?	Nano akon nahimo!
+What have I done?	Nano akon nahimo?
+What if I refuse?	Pano kun di ak matugot?
+What is all this?	Nano ini tanan?
+What is he doing?	Nano iya gin hihimo?
+What is he doing?	Nano iya gin hihimo?
+What is he doing?	Nano iya gin hihimo?
+What is he up to?	Nano iya balak?
+What is his name?	Nano iya ngaran?
+What is his name?	Nano iya ngaran?
+What is his name?	Nano iya ngaran?
+What is she like?	Nano iya karuyag?
+What is the time?	Nano na an oras?
+What is this for?	Para sa nano ini?
+What is your job?	Nano imo trabaho?
+What should I do?	Nano an akon himuon?
+What woke you up?	Nano an naka pukaw sa imo?
+What woke you up?	Nano an naka pukaw sa imo?
+What's Tom doing?	Nano an gin hihimo ni Tom?
+What's happening?	Nano an nahitabo?
+What's happening?	Nano an nahitabo?
+What's happening?	Nano an nahitabo?
+What's he hiding?	Nano iya gin tatago?
+What's it called?	Nano an tawag siton?
+What's she doing?	Nano iya gin hihimo?
+What's she doing?	Nano iya gin hihimo?
+What's the cause?	Nano an rason?
+What's your name?	Nano imo ngaran?
+What's your name?	Nano imo ngaran?
+What's your name?	Nano imo ngaran?
+What's your plan?	Nano imo plano?
+What's your type?	Nano imo tipo?
+What's your wish?	Nano imo gin hiling?
+What've you done?	Nano imo nahimo?
+Whatever you say.	Bisan nano pa imo yakan.
+When can we move?	San o kit maiwas?
+When did they go?	San o sira kumadto?
+When do we begin?	San o kit mag tikang?
+When do we leave?	San o kit iwas?
+When do we start?	San o kit mag tikang?
+When do you work?	San o ka magtrabaho?
+When does it end?	San o ini matapos?
+When does it end?	San o ini matapos?
+When does it end?	San o ini matapos?
+Criteria.	Kriterya.
+Where are you?	Hain ka?
+Where are you going?	Tikain ka?
+Where are you going?	Makain ka?
+Where are we now?	Hain kit yana?
+Where are you Tom?	Hain ka Tom?
+Where are you going Tom?	Tikain ka Tom?
+Where did Tom go?	Kumain si Tom?
+Where did you go?	Diin ka tikang?
+Where do I start?	Diin ak mag tikang?
+Where is my book?	Hain akon libro?
+Where is my comb?	Hain akon sudlay?
+Where is my seat?	Hain akon ingkuran?
+Where is my seat?	Hain akon ingkuran?
+Where is the boy?	Hain an bata na lalake?
+Where is the bus?	Hain an sarakyan?
+Where is the bus?	Hain an sarakyan?
+Where is the cat?	Hain an misay?
+Where is the dog?	Hain an ayam?
+Where's a mirror?	Hain an salamin?
+Where's everyone?	Hain an tanan?
+Where's everyone?	Hain an tanan?
+Where's my money?	Hain an akon kwarta?
+Where's my phone?	Hain an akon phone?
+Where's my razor?	Hain an akon razor?
+Where's my shirt?	Hain an akon bado?
+Where's my watch?	Hain an akon relo?
+Where's the bank?	Hain an bangko?
+Where's the boss?	Hain an amo?
+Where's the cook?	Hain an para luto?
+Where's the exit?	Hain an gawasan?
+Where's the girl?	Hain an babaye?
+Where's the park?	Hain an parkingan?
+Where's the rest?	Hain an iba?
+Where's your bag?	Hain an imo bag?
+Where's your dog?	Hain an imo ayam?
+Which is correct?	Hain an tama?
+Which is our car?	Hain an aton sarakyan?
+Who brought this?	sin o an nag palit sini?
+Who cut the cake?	Sin o nag gurot sa cake?
+Who did you call?	Sin o imo gin tawagan?
+Who did you kill?	Sin o imo gin patay?
+Who doesn't know?	Sin o an diri maaram?
+Who has the keys?	Sin o an nagkapot sa susi?
+Who is this girl?	Sin o ini na babaye?
+Who was murdered?	Sin o an napatay?
+Who was not here?	Sin o an wara didi?
+Who was not here?	Sin o an wara didi?
+Who was with you?	Sin o imo upod?
+Who's in command?	Sin o an lider?
+Who's my teacher?	Sin o akon maestra?
+Whose turn is it?	Kan kanay ini turno?
+Why are you here?	kay nano adi ka?
+Why are you late?	Kay nano na urhi ka?
+Why did you quit?	Kay nano umundang ka?
+Why did you quit?	Kay nano umundang ka?
+Why did you stay?	Kay nano nag pabilin ka?
+Why did you stop?	Kay nano umundang ka?
+Why did you yell?	Kay nano nag parak ka?
+Why do they care?	Pakialam nira?
+Why do you do it?	kay nano ginhimo mo?
+Why do you study?	Kay nano nag aram ka?
+Why is Tom there?	Kay nano adto si Tom?
+Why is he hiding?	Kay nano nag tatago siya?
+Why is he hiding?	Kay nano nag tatago siya?
+Why is it so hot?	Kay nano kainit?
+Why is it so hot?	Kay nano kainit?
+Why is she angry?	Kay nano nangisog siya?
+Why is that good?	Kay nano kaupay siton?
+Why should I pay?	Kay nano mabayad ak?
+Will you go, too?	Maupod ka liwat?
+Will you help me?	Buligan ak nimo?
+Will you join me?	Maungay ka sa akon?
+Will you join us?	Maungay ka sa amon?
+Will you join us?	Maungay ka sa amon?
+Winter is coming.	Tiarabot na an ting hagkot.
+Winter is coming.	Tiarabot na an ting hagkot.
+You are a doctor.	Doktor ka.
+You are a doctor.	Doktor ka.
+You are a doctor.	Doktor ka.
+You are a genius.	Dati ka.
+You are children.	Mga bata kamo.
+You are children.	Mga bata kamo.
+You are deranged.	Lipong ka.
+You are deranged.	Lipong ka.
+You are dreaming.	Nag inop ka.
+You are gorgeous.	Kahusay mo.
+You are gorgeous.	Kahusay mo.
+You are gorgeous.	Kahusay mo.
+You are gorgeous.	Kahusay mo.
+You are hopeless.	Wara kana paglaom.
+You are the best.	Ikaw an pinaka maupay.
+You are the best.	Ikaw an pinaka maupay.
+You are the best.	Ikaw an pinaka maupay.
+You are the best.	Ikaw an pinaka maupay.
+You are the best.	Ikaw an pinaka maupay.
+You are the best.	Ikaw an pinaka maupay.
+You are too late.	Urhi kana.
+You aren't funny.	Diri ka makatarawa.
+You came in late.	Urhi kana umulpot.
+You can look now.	Puydi kana kumita.
+You can stop now.	Puydi kana umundang.
+You can trust us.	Puydi mo ak tapuran.
+You can trust us.	Puydi mo ak tapuran.
+You can't escape.	Diri ka makatakas.
+You can't go now.	Diri ka maka iwas yana.
+You can't go out.	Diri ka maka kadto sa luwas.
+You can't go yet.	Diri ka pa maka kadto.
+You can't say no.	Diri ka maka yakan diri.
+You deal with it.	Atubanga ini.
+You did it again.	Gin himo mo na liwat.
+You did say that.	Gin yakan mo adto.
+You do look good.	Kahusay mo.
+You got hit hard.	Naigo ka sin tuda.
+You got it wrong.	Mali pag ka abat.
+You have a watch.	Mayda ka relo.
+You have to come.	Kinahanglan kumadi ka.
+You helped Mommy?	Gin buligan mo si mama?
+You hurt me, Tom.	Gin pasakitan mo ak, Tom.
+You hurt me, Tom.	Gin pasakitan mo ak, Tom.
+You know I can't.	Aram mo na diri ko kaya.
+You know I can't.	Aram mo na diri ko kaya.
+You know the law.	Aram mo an balaud.
+You lead the way.	Pag una ka sa dalan.
+You let Tom down.	Gin pabay an mo si Tom.
+You look baffled.	Nalisang ka.
+You look baffled.	Nalisang ka.
+You look healthy.	Libsog ka kitaon.
+You look pleased.	Bagan nalipay ka.
+You look so pale.	Bagan ka duas mo.
+You look younger.	Bagan bata ka kitaon.
+You look younger.	Bagan bata ka kitaon.
+You made Tom cry.	Gin patangis mo si Tom.
+You may be right.	Bagan tama ka.
+You may be right.	Bagan tama ka.
+You may be right.	Bagan tama ka.
+You may be wrong.	Bagan mali ka.
+You may go there.	Puydi ka kumadto.
+You may swim now.	Puydi ka lumangoy yana.
+You missed a lot.	Gin mingaw.
+You missed a lot.	Gin mingaw.
+You must come in.	Dapat ka mukadi.
+You must go home.	Dapat umuli kana
+You must sell it.	Dapat gin baligya mo iton.
+You must tell me.	Dapat ig yakan mo sa akon.
+You need a hobby.	Kinahanglan mo sin kalingawan.
+You need to know.	Kinahanglan mo ini maaraman.
+You need to stop.	Kinahanglan mo umundang.
+You need to stop.	Kinahanglan mo umundang.
+You read my mind.	Nabasa mo akon pinsar.
+You saved us all.	Gin ligtas mo kami tanan.
+You seem baffled.	Bagan nalisang ka.
+You seem baffled.	Bagan nalisang ka.
+You should begin.	Kinahanglan mo na mag tikang.
+You should sleep.	Kinahanglan mo na maturog.
+You shouldn't go.	Ayaw pag kadto.
+You shouldn't go.	Ayaw pag kadto.
+You wait and see.	Pag hulat ngan kitaa.
+You were perfect.	Perpekto ka.
+You were singing.	Kumanta ka.
+You will all die.	Mamatay kam tanan.
+You will all die.	Mamatay kam tanan.
+You will conform.	Naayon ka.
+You'll need that.	Kinahanglan mo iton.
+You're a dreamer.	Para inop ka.
+You're a suspect.	Suspek ka.
+You're a traitor.	Traydor ka.
+You're all crazy.	Mga lipong kam.
+You're all crazy.	Mga lipong kam.
+You're an animal.	Mga hayop kam.
+You're an animal.	Mga hayop kam.
+You're beautiful.	kahusay mo.
+You're beautiful.	Kahusay mo.
+You're boring me.	Naboboringan ak sa imo.
+You're conceited.	Mag buot ka.
+You're deceitful.	Para uwat ka.
+You're forgetful.	Limtanon kana.
+You're impatient.	Wara ka pasensiya.
+You're impatient.	Wara ka pasensiya.
+You're impatient.	Wara ka pasensiya.
+You're in charge.	Ikaw an bahala.
+You're in danger.	Delikado ka.
+You're in danger.	Delikado ka.
+You're in my way.	Ada ka sa akon dalan.
+You're losing me.	Nawawara ak sa imo.
+You're my friend.	Sangkay ko ikaw.
+You're my friend.	Sangkay ko ikaw.
+You're necessary.	Kinahanglan mo.
+You're not alone.	Diri ka nag uusahan.
+You're not alone.	Diri ka nag uusahan.
+You're not crazy.	Diri ka lipong.
+You're not funny.	Diri ka makaratawa.
+You're not going.	Diri ka mukadto.
+You're not going.	Diri ka mukadto.
+You're not young.	Diri ka bata.
+You're practical.	Praktikal ka.
+You're the owner.	Ikaw an tag ada.
+You're too drunk.	Hubog kana.
+You're too naive.	Sobra na imong pagka inosente.
+You're too naive.	Sobra na imong pagka inosente.
+You're very short	Ka guti mo.
+You're very wise.	Kabuotan mo.
+You're very wise.	Kabuotan mo.
+You're very wise.	Kabuotan mo.
+You're very wise.	Kabuotan mo.
+You've got to go.	Kinahanglan mo kumadto.
+You've grown fat.	Tumaba ka man.
+Your car is fast.	Matulin imo sarakyan.
+Your dog is here.	Adi imo ayam.
+Your dog is here.	Adi imo ayam.
+Your dog is here.	Adi imo ayam.
+Your dog is here.	Adi imo ayam.
+Your face is red.	Namula imo nawong.
+Yours was better.	Mas maupay an imo.
+A bear killed Tom.	Gin patay san uso si Tom.
+A bear mauled Tom.	Gin pasakitan san uso si Tom.
+A dog bit her leg.	Gin kagat san ayam an iya batiis.
+A dog bit her leg.	Gin kagat san ayam an iya batiis.
+A dog was running.	Dumalagan an ayam.
+A heavy rain fell.	Makusog nga uran.
+A lot is at stake.	Damo an nakataya.
+A storm is coming.	Mayda bagyo nga tiarabot.
+Add a little milk.	Pag dugang sin guti nga gatas.
+Add a little milk.	Pag dugang sin guti nga gatas.
+Adjust the brakes.	Lisida an preno.
+Adjust the brakes.	Upaya an preno.
+Admission is free.	Libre an pag sulod.
+Admission is free.	Libre an pag sulod.
+Admission is free.	Libre an pag sulod.
+All I want is you.	Ikaw la Akon karuyag.
+All men are equal.	Pantay la an tanan nga two.
+All men are equal.	Pantay la an tanan nga lalake.
+Am I a bad person?	Malain ba ak nga tawo?
+Am I annoying you?	Naiiras ko ikaw?
+Am I going to die?	Mamamatay na ba ak?
+Am I going to die?	Mamamatay na ba ak?
+Am I the only one?	Ako la ba usa?
+Am I under arrest?	Aaristohon ak?
+Am I under arrest?	Dakpon ba ak?
+Answer me, please.	Alayon, batona ak.
+Any paper will do.	Bisan nano nga papel.
+Any place will do.	Bisan diin nga lugar.
+Are these candles?	Kandila ini?
+Are you interested in buying an encyclopedia?	Interesado ka pumalit encyclopedia?
+Back in those days, I loved to play checkers.	Sadto, karuyag ko maguyag dama.
+By what authority do you order me to do this?	Nano imo katungod na sugoon ak himoon ine?
+He gave witness to the truth of my statement.	Siya an nag hatag pagmatood san akon yakan.
+He was afraid about what was going to happen.	Nahadlok siya sa mahinanabo.
+He was the first to carry out the experiment.	Siya an una nag-eksperimento.
+I don't think that she looks like her mother.	Sa akon pagkita diri niya kanawong iya iroy.
+I usually do my shopping at this supermarket.	Kaurogan didi ak namamalit sine na supermarket.
+I wish I had not bought such a useless thing.	Unta warm ak pumalit wara gamit.
+If it is fine tomorrow, we'll go on a picnic.	Kun ayes la buwas, magpipiknik kit.
+If it rains tomorrow, I'll just stay at home.	Fun umuran buwas, sa balay la ak.
+If you see a mistake, then please correct it.	Fun makakita ka mali, igtama iton.
+It's about ten minutes to the station by bus.	Mga napulo ka minuto pakadto sa istasyon gamit bus.
+It's not my opinion, but just my translation.	Diri ko opinyon, kundi translasyon ko gadla.
+My brother takes good care of his belongings.	Ginhihirotan san akon bugto an iya gamit.
+She has a bad habit of chewing on her pencil.	May malain siya na habit na pagkinisamon an lapis.
+The boy has grown out of all his old clothes.	Diri na sakto iya mag dawn na bado.
+The magazine you lent me is very interesting.	Kamakalilipay san magasin na imo ginpahuram sa akon.
+The vast majority of children love ice cream.	Haros tanan na kabataan karuyag an ice cream.
+This is the first time I've seen this animal.	Una ko papa ini nakita na hayop.
+Tom doesn't understand how to use a computer.	Diri maaram gumamit si Tom kompyuter.
+Tomorrow night, I am going to Narita airport.	Buwas san gabi, makadto ak sa Narita airport.
+We must learn to live in harmony with nature.	Dapat mahibaro kit sumabay sa armonya san kalibutan.
+What was your mother doing when you got home?	Nagpapara nano imo iroy pag abot mo sa iyo balay?
+As soon as he finished his work, he went home.	Pagkahuman niya sa trabaho, umuli siya dayon.
+Can you give me another sentence to translate?	Puydi mo pa ak tagan itralansleyt?
+Could you tell me how to get to Osaka station?	Puydi mo ak tutdoan paanano makakadto sa istasyon san Osaka?
