@@ -95,7 +95,7 @@ class WarayTranslator extends DataHelper {
       }
       print("TARGET : ${_translated}");
       // print(_warayTarget.sublist(0, 10));
-      return "";
+      return _translated.map((e) => e.join(" ")).join(" ").replaceAll("\n", "");
     } catch (e) {
       return text;
     }
