@@ -64,8 +64,8 @@ class WarayTranslator extends DataHelper {
           /// NOT FOUND!
           print("NOT FOUND ! $fullgramText");
           List<String> ff = fullgramText.split(" ");
-          List<String> __translate = [];
           for (String z in ff) {
+            List<String> __translate = [];
             int _indexOf = _engCopy.indexOf(z);
             if (_indexOf < 0) {
               __translate.add(z);

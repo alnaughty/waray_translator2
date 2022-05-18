@@ -102,8 +102,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
-          await _translator.translate(
-              "Where are you Tom! How are you? Criteria, How, Your Father!");
+          String ff =
+              await _translator.translate("Mother Father! where are you?");
+          print(ff);
         },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
