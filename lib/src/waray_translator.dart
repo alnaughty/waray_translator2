@@ -38,7 +38,8 @@ class WarayTranslator extends DataHelper {
 
   Future<String> translate(String text) async {
     try {
-      List<List<String>> _bounded = _boundary.detect(text);
+      List<List<String>> _bounded =
+          _boundary.detect(text.replaceAll("\n", " "));
       print("BOUNDED : $_bounded");
       List<List<String>> _translated = [];
       for (List<String> group in _bounded) {
@@ -65,16 +66,21 @@ class WarayTranslator extends DataHelper {
           print("NOT FOUND ! $fullgramText");
           List<String> ff = fullgramText.split(" ");
           for (String z in ff) {
+            int _regExpIndex = specialCharRegExp.firstMatch(z)?.end ?? -1;
             List<String> __translate = [];
             int _indexOf = _engCopy.indexOf(z);
             if (_indexOf < 0) {
               __translate.add(z);
             } else {
-              __translate.add(_warayTarget[_indexOf]
+              String dd = _warayTarget[_indexOf]
                   .replaceAll(specialCharRegExp, "")
-                  .trim());
+                  .trim();
+              // if (regExpIndex >= 0) {
+              //   dd = z[_regExpIndex - 1];
+              // }
+              __translate.add(dd);
             }
-            _translatedG.add(__translate.join(" "));
+            _translatedG.add(__translate.join(" ").trim());
           }
         } else {
           _translatedG.add(
