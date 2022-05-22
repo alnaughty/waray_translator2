@@ -36,11 +36,10 @@ class WarayTranslator extends DataHelper {
     return ff;
   }
 
-  Future<String> translate(String text) async {
+  Future<String> translate(String text, [bool isReversed = false]) async {
     try {
       List<List<String>> _bounded =
           _boundary.detect(text.replaceAll("\n", " "));
-      print("BOUNDED : $_bounded");
       List<List<String>> _translated = [];
       for (List<String> group in _bounded) {
         List<String> _translatedG = [];
@@ -48,22 +47,19 @@ class WarayTranslator extends DataHelper {
         int regExpIndex = specialCharRegExp.firstMatch(fullgramText)?.end ?? -1;
         String foundRegExp = "";
         String foundName = "";
-        print("FULLGRAM :$fullgramText");
-        print("REGINDEX: $regExpIndex");
         if (regExpIndex >= 0) {
           foundRegExp = fullgramText[regExpIndex - 1];
         }
         fullgramText =
             fullgramText.replaceAll(specialCharRegExp, "").toLowerCase().trim();
-        List<String> _engCopy = List.from(_englishSource.map(
-            (e) => e.toLowerCase().replaceAll(specialCharRegExp, "").trim()));
+        List<String> _engCopy = List.from(
+          (isReversed ? _warayTarget : _englishSource).map(
+              (e) => e.toLowerCase().replaceAll(specialCharRegExp, "").trim()),
+        );
 
         int indexOf = _engCopy.indexOf(fullgramText);
-        print(
-            "INDEX : ${_engCopy.indexOf("Where are you Tom ?".toLowerCase().replaceAll(specialCharRegExp, "").trim())}");
         if (indexOf < 0) {
           /// NOT FOUND!
-          print("NOT FOUND ! $fullgramText");
           List<String> ff = fullgramText.split(" ");
           for (String z in ff) {
             int _regExpIndex = specialCharRegExp.firstMatch(z)?.end ?? -1;
@@ -72,7 +68,7 @@ class WarayTranslator extends DataHelper {
             if (_indexOf < 0) {
               __translate.add(z);
             } else {
-              String dd = _warayTarget[_indexOf]
+              String dd = (isReversed ? _englishSource : _warayTarget)[_indexOf]
                   .replaceAll(specialCharRegExp, "")
                   .trim();
               // if (regExpIndex >= 0) {
@@ -83,21 +79,10 @@ class WarayTranslator extends DataHelper {
             _translatedG.add(__translate.join(" ").trim());
           }
         } else {
-          _translatedG.add(
-              _warayTarget[indexOf].replaceAll(specialCharRegExp, foundRegExp));
+          _translatedG.add((isReversed ? _englishSource : _warayTarget)[indexOf]
+              .replaceAll(specialCharRegExp, foundRegExp));
         }
         _translated.add(_translatedG);
-        // if(fullgramText){}
-        // for (String word in group) {
-        //   String _temp = word;
-        //   _temp = _temp
-        //       .toLowerCase()
-        //       .replaceAll(specialCharRegExp, "[FOUND-REGEXP]")
-        //       .trim();
-        //   print(_temp);
-        //   // _englishSource.indexOf();
-        //   // print(_temp.replaceAll(_regExp, replace));
-        // }
       }
       print("TARGET : ${_translated}");
       // print(_warayTarget.sublist(0, 10));

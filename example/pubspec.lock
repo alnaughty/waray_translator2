@@ -175,7 +175,7 @@ packages:
   waray_translator:
     dependency: "direct main"
     description:
-      path: "/Users/qonvexmacmini/Desktop/ext/waray_translator"
+      path: "/Users/qonvexmacmini/Desktop/packages/waray_translator"
       relative: false
     source: path
     version: "0.0.1"

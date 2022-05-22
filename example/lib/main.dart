@@ -104,7 +104,8 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: () async {
           String ff =
               await _translator.translate("Mother Father! where are you?");
-          print(ff);
+          String rev = await _translator.translate(
+              "Nag papara nano ka? Nabaraka kaba", true);
         },
         tooltip: 'Increment',
         child: const Icon(Icons.add),
